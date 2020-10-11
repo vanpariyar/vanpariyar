@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Many projects but Which is usefull to Community..
+- 🔭 I’m currently working on Many projects but Which is usefull to Community.. , Writing Tech Blog At https://vanpariyar.github.io/
 
 - 🌱 I’m currently learning How to deal with multiple project 
 
