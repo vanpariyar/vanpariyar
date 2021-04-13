@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 ### Looking For Resume ?
 
 <a href="https://drive.google.com/open?id=1bHdhYGPpdI_DFeiffRHuPsw60gQXdptd" target="_blank" rel="noreferrer"> Click To see Resume </a>
+
+![Ronak Vanpariya's github stats](https://github-readme-stats.vercel.app/api?username=vanpariyar&show_icons=true&hide_border=true)
