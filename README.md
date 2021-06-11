@@ -2,9 +2,7 @@
 
 **vanpariyar/vanpariyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Many projects but Which is usefull to Community.. , Writing Tech Blog At https://vanpariyar.github.io/
+- 🔭 I’m currently working on Many projects but Which is usefull to Community.. , Writing Tech Blog At https://vanpariyar.in
 
 - 🌱 I’m currently learning How to deal with multiple project 
 
