@@ -8,6 +8,7 @@
 #### 🌱 My latest projects
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
+![{{.Name}}](https://opengraph.githubassets.com/0e17a84d6906f468f1f3733453fb36965c0886df849f707a4a6fe9d1eff5ac7d/{{.Name}})
 {{- end}}
 
 #### 🔭 Latest releases I've contributed to
@@ -19,22 +20,6 @@
 {{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
-
-#### :memo: Recent releases you contributed to
-{{range recentReleases 10}}
-Name: {{.Name}}
-Git Tag: {{.LastRelease.TagName}}
-URL: {{.LastRelease.URL}}
-Published: {{humanize .LastRelease.PublishedAt}}
-{{end}}
-
-#### :wave: Hello to my recent followers.
-{{range followers 8}}
-Username: {{.Login}}
-Name: {{.Name}}
-Avatar: {{.AvatarURL}}
-URL: {{.URL}}
-{{end}}
 
 #### 📜 My recent blog posts
 {{range rss "https://vanpariyar.in/index.xml" 5}}
