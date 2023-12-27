@@ -11,10 +11,15 @@
 #### 🌱 My latest projects
 
 - [vanpariyar/python-scripts](https://github.com/vanpariyar/python-scripts) - Here are my public scripts that i run every time to automating manual works
+![vanpariyar/python-scripts](https://opengraph.githubassets.com/0e17a84d6906f468f1f3733453fb36965c0886df849f707a4a6fe9d1eff5ac7d/vanpariyar/python-scripts)
 - [vanpariyar/learning-monorepo](https://github.com/vanpariyar/learning-monorepo) - Learning Mono Repository contains all my learning files
+![vanpariyar/learning-monorepo](https://opengraph.githubassets.com/0e17a84d6906f468f1f3733453fb36965c0886df849f707a4a6fe9d1eff5ac7d/vanpariyar/learning-monorepo)
 - [vanpariyar/thoughts-daily-quotes](https://github.com/vanpariyar/thoughts-daily-quotes) - This is the website contains various quotes from the various authors and devotees
+![vanpariyar/thoughts-daily-quotes](https://opengraph.githubassets.com/0e17a84d6906f468f1f3733453fb36965c0886df849f707a4a6fe9d1eff5ac7d/vanpariyar/thoughts-daily-quotes)
 - [vanpariyar/phpcs-wordpress-utilities](https://github.com/vanpariyar/phpcs-wordpress-utilities) - All required utilities on one place.
+![vanpariyar/phpcs-wordpress-utilities](https://opengraph.githubassets.com/0e17a84d6906f468f1f3733453fb36965c0886df849f707a4a6fe9d1eff5ac7d/vanpariyar/phpcs-wordpress-utilities)
 - [vanpariyar/selfie-generator](https://github.com/vanpariyar/selfie-generator) - 
+![vanpariyar/selfie-generator](https://opengraph.githubassets.com/0e17a84d6906f468f1f3733453fb36965c0886df849f707a4a6fe9d1eff5ac7d/vanpariyar/selfie-generator)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -28,62 +33,6 @@
 - [Added code for title](https://github.com/vanpariyar/hari-easy-customise-helper/pull/2) on [vanpariyar/hari-easy-customise-helper](https://github.com/vanpariyar/hari-easy-customise-helper) (2 months ago)
 - [Updated Blog](https://github.com/vanpariyar/vanpariyar.github.io/pull/23) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (2 months ago)
 - [Changes in date](https://github.com/vanpariyar/vanpariyar.github.io/pull/22) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (2 months ago)
-
-#### :memo: Recent releases you contributed to
-
-Name: vanpariyar/wp-post-views
-Git Tag: 1.14
-URL: https://github.com/vanpariyar/wp-post-views/releases/tag/1.14
-Published: 3 months ago
-
-Name: sahajananddigital/selfie.sahajananddigital.in
-Git Tag: 0.0.1
-URL: https://github.com/sahajananddigital/selfie.sahajananddigital.in/releases/tag/0.0.1
-Published: 1 year ago
-
-
-#### :wave: Hello to my recent followers.
-
-Username: iamdharmesh
-Name: Dharmesh Patel
-Avatar: https://avatars.githubusercontent.com/u/10613171?u=1c28b3f8324020a9cad6bda65d4053a892db96d3&amp;v=4
-URL: https://github.com/iamdharmesh
-
-Username: Whapi-Cloud
-Name: WhatsApp API for developers
-Avatar: https://avatars.githubusercontent.com/u/143504978?u=905b87c06891c8c04f537713800ad44efad89b88&amp;v=4
-URL: https://github.com/Whapi-Cloud
-
-Username: everaldomatias
-Name: Everaldo Matias
-Avatar: https://avatars.githubusercontent.com/u/1918474?u=744c1566f4ec1475c558250dc84f06ecf0b43deb&amp;v=4
-URL: https://github.com/everaldomatias
-
-Username: GregTakeo25
-Name: Greg Takeo
-Avatar: https://avatars.githubusercontent.com/u/6184640?u=ab223fbcb64f6c35c0f44ecead238bbbdcc6bb39&amp;v=4
-URL: https://github.com/GregTakeo25
-
-Username: Dishantsangani
-Name: Dishant Sangani
-Avatar: https://avatars.githubusercontent.com/u/128277319?u=2fbca5dfbeaae45485331d9d7512105925b55edd&amp;v=4
-URL: https://github.com/Dishantsangani
-
-Username: Novartus
-Name: Abhee Hudani
-Avatar: https://avatars.githubusercontent.com/u/62197910?u=3f5c270789da2175412570e8d4078803f76738ed&amp;v=4
-URL: https://github.com/Novartus
-
-Username: yash18014
-Name: Darji Yash . S
-Avatar: https://avatars.githubusercontent.com/u/111188806?u=685810e00e153a8f79761cb86e9ba098160ad692&amp;v=4
-URL: https://github.com/yash18014
-
-Username: yogesh-bavishi-1
-Name: 
-Avatar: https://avatars.githubusercontent.com/u/76937416?v=4
-URL: https://github.com/yogesh-bavishi-1
-
 
 #### 📜 My recent blog posts
 
