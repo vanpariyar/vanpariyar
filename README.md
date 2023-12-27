@@ -7,11 +7,6 @@
 - [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (2 months ago)
 - [vanpariyar/hari-easy-customise-helper](https://github.com/vanpariyar/hari-easy-customise-helper) -  (2 months ago)
 - [sahajananddigital/product-nfc-contact-website](https://github.com/sahajananddigital/product-nfc-contact-website) -  (2 months ago)
-- [sahajananddigital/community-support](https://github.com/sahajananddigital/community-support) -  (2 months ago)
-- [sahajananddigital/selfie.sahajananddigital.in](https://github.com/sahajananddigital/selfie.sahajananddigital.in) - Selfie Website - Get Link from the Readme (2 months ago)
-- [sahajananddigital/selfie-maker](https://github.com/sahajananddigital/selfie-maker) -  (2 months ago)
-- [vanpariyar/links](https://github.com/vanpariyar/links) -  (2 months ago)
-- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) - This is the simple plugin that counts the views of the your wordpress website (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -20,11 +15,6 @@
 - [vanpariyar/thoughts-daily-quotes](https://github.com/vanpariyar/thoughts-daily-quotes) - This is the website contains various quotes from the various authors and devotees
 - [vanpariyar/phpcs-wordpress-utilities](https://github.com/vanpariyar/phpcs-wordpress-utilities) - All required utilities on one place.
 - [vanpariyar/selfie-generator](https://github.com/vanpariyar/selfie-generator) - 
-- [vanpariyar/devotional-songs](https://github.com/vanpariyar/devotional-songs) - Contains issues of Songs
-- [vanpariyar/swaminarayan-audio-2](https://github.com/vanpariyar/swaminarayan-audio-2) - 
-- [vanpariyar/hari-elementor-addon](https://github.com/vanpariyar/hari-elementor-addon) - 
-- [vanpariyar/live-polling](https://github.com/vanpariyar/live-polling) - User Polling system that pulls data from the google sheet and that also send the data to the google sheet for graph.
-- [vanpariyar/swaminarayan-books](https://github.com/vanpariyar/swaminarayan-books) - Vachnamrut  is the holy book which is spoken by Swaminarayan Bhagwan
 
 #### 🔭 Latest releases I've contributed to
 
@@ -38,11 +28,62 @@
 - [Added code for title](https://github.com/vanpariyar/hari-easy-customise-helper/pull/2) on [vanpariyar/hari-easy-customise-helper](https://github.com/vanpariyar/hari-easy-customise-helper) (2 months ago)
 - [Updated Blog](https://github.com/vanpariyar/vanpariyar.github.io/pull/23) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (2 months ago)
 - [Changes in date](https://github.com/vanpariyar/vanpariyar.github.io/pull/22) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (2 months ago)
-- [Added Blog](https://github.com/vanpariyar/vanpariyar.github.io/pull/21) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (2 months ago)
-- [FIX: website rajipo blog content](https://github.com/vanpariyar/vanpariyar.github.io/pull/20) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (4 months ago)
-- [Added: Website and new blog](https://github.com/vanpariyar/vanpariyar.github.io/pull/19) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (4 months ago)
-- [Fix: added website](https://github.com/vanpariyar/vanpariyar.github.io/pull/18) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (6 months ago)
-- [Merge pull request #13 from vanpariyar/developer](https://github.com/vanpariyar/useful-tools/pull/14) on [vanpariyar/useful-tools](https://github.com/vanpariyar/useful-tools) (7 months ago)
+
+#### :memo: Recent releases you contributed to
+
+Name: vanpariyar/wp-post-views
+Git Tag: 1.14
+URL: https://github.com/vanpariyar/wp-post-views/releases/tag/1.14
+Published: 3 months ago
+
+Name: sahajananddigital/selfie.sahajananddigital.in
+Git Tag: 0.0.1
+URL: https://github.com/sahajananddigital/selfie.sahajananddigital.in/releases/tag/0.0.1
+Published: 1 year ago
+
+
+#### :wave: Hello to my recent followers.
+
+Username: iamdharmesh
+Name: Dharmesh Patel
+Avatar: https://avatars.githubusercontent.com/u/10613171?u=1c28b3f8324020a9cad6bda65d4053a892db96d3&amp;v=4
+URL: https://github.com/iamdharmesh
+
+Username: Whapi-Cloud
+Name: WhatsApp API for developers
+Avatar: https://avatars.githubusercontent.com/u/143504978?u=905b87c06891c8c04f537713800ad44efad89b88&amp;v=4
+URL: https://github.com/Whapi-Cloud
+
+Username: everaldomatias
+Name: Everaldo Matias
+Avatar: https://avatars.githubusercontent.com/u/1918474?u=744c1566f4ec1475c558250dc84f06ecf0b43deb&amp;v=4
+URL: https://github.com/everaldomatias
+
+Username: GregTakeo25
+Name: Greg Takeo
+Avatar: https://avatars.githubusercontent.com/u/6184640?u=ab223fbcb64f6c35c0f44ecead238bbbdcc6bb39&amp;v=4
+URL: https://github.com/GregTakeo25
+
+Username: Dishantsangani
+Name: Dishant Sangani
+Avatar: https://avatars.githubusercontent.com/u/128277319?u=2fbca5dfbeaae45485331d9d7512105925b55edd&amp;v=4
+URL: https://github.com/Dishantsangani
+
+Username: Novartus
+Name: Abhee Hudani
+Avatar: https://avatars.githubusercontent.com/u/62197910?u=3f5c270789da2175412570e8d4078803f76738ed&amp;v=4
+URL: https://github.com/Novartus
+
+Username: yash18014
+Name: Darji Yash . S
+Avatar: https://avatars.githubusercontent.com/u/111188806?u=685810e00e153a8f79761cb86e9ba098160ad692&amp;v=4
+URL: https://github.com/yash18014
+
+Username: yogesh-bavishi-1
+Name: 
+Avatar: https://avatars.githubusercontent.com/u/76937416?v=4
+URL: https://github.com/yogesh-bavishi-1
+
 
 #### 📜 My recent blog posts
 
@@ -67,11 +108,6 @@
 - [dm0reau/automysqlbackup_hourly](https://github.com/dm0reau/automysqlbackup_hourly) - A short extension for automysqlbackup, allowing to perform hourly backups. (3 weeks ago)
 - [dumblob/mysql2sqlite](https://github.com/dumblob/mysql2sqlite) - Converts MySQL dump to SQLite3 compatible dump (1 month ago)
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app (1 month ago)
-- [proelements/proelements](https://github.com/proelements/proelements) - This plugin enables GPL features of Elementor Pro: widgets, theme builder, dynamic colors and content, forms &amp; popup builder, and more. (1 month ago)
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (1 month ago)
-- [swissspidy/wp-plugin-check-action](https://github.com/swissspidy/wp-plugin-check-action) - Test your WordPress plugin with Plugin Check (2 months ago)
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (2 months ago)
-- [MD-MAFUJUL-HASAN/Online-Payroll-Management-System](https://github.com/MD-MAFUJUL-HASAN/Online-Payroll-Management-System) - A Payroll management System with feature like generate payslip &amp; reports. It manages salaries, leaves, branches, employees, designations, shifts, holidays and employee attendance. It has chat application so internal employees can use that feature. (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
