@@ -8,7 +8,6 @@
 #### 🌱 My latest projects
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
-![{{.Name}}](https://opengraph.githubassets.com/0e17a84d6906f468f1f3733453fb36965c0886df849f707a4a6fe9d1eff5ac7d/{{.Name}})
 {{- end}}
 
 #### 🔭 Latest releases I've contributed to
