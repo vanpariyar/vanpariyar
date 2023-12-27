@@ -11,15 +11,10 @@
 #### 🌱 My latest projects
 
 - [vanpariyar/python-scripts](https://github.com/vanpariyar/python-scripts) - Here are my public scripts that i run every time to automating manual works
-![vanpariyar/python-scripts](https://opengraph.githubassets.com/0e17a84d6906f468f1f3733453fb36965c0886df849f707a4a6fe9d1eff5ac7d/vanpariyar/python-scripts)
 - [vanpariyar/learning-monorepo](https://github.com/vanpariyar/learning-monorepo) - Learning Mono Repository contains all my learning files
-![vanpariyar/learning-monorepo](https://opengraph.githubassets.com/0e17a84d6906f468f1f3733453fb36965c0886df849f707a4a6fe9d1eff5ac7d/vanpariyar/learning-monorepo)
 - [vanpariyar/thoughts-daily-quotes](https://github.com/vanpariyar/thoughts-daily-quotes) - This is the website contains various quotes from the various authors and devotees
-![vanpariyar/thoughts-daily-quotes](https://opengraph.githubassets.com/0e17a84d6906f468f1f3733453fb36965c0886df849f707a4a6fe9d1eff5ac7d/vanpariyar/thoughts-daily-quotes)
 - [vanpariyar/phpcs-wordpress-utilities](https://github.com/vanpariyar/phpcs-wordpress-utilities) - All required utilities on one place.
-![vanpariyar/phpcs-wordpress-utilities](https://opengraph.githubassets.com/0e17a84d6906f468f1f3733453fb36965c0886df849f707a4a6fe9d1eff5ac7d/vanpariyar/phpcs-wordpress-utilities)
 - [vanpariyar/selfie-generator](https://github.com/vanpariyar/selfie-generator) - 
-![vanpariyar/selfie-generator](https://opengraph.githubassets.com/0e17a84d6906f468f1f3733453fb36965c0886df849f707a4a6fe9d1eff5ac7d/vanpariyar/selfie-generator)
 
 #### 🔭 Latest releases I've contributed to
 
