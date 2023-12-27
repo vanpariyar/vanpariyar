@@ -1,24 +1,40 @@
 ### Hi there 👋
 
 #### 👷 Check out what I'm currently working on
-{{range recentContributions 10}}
+{{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 🌱 My latest projects
-{{range recentRepos 10}}
+{{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
 #### 🔭 Latest releases I've contributed to
-{{range recentReleases 10}}
+{{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
 #### 🔨 My recent Pull Requests
-{{range recentPullRequests 10}}
+{{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
+
+#### :memo: Recent releases you contributed to
+{{range recentReleases 10}}
+Name: {{.Name}}
+Git Tag: {{.LastRelease.TagName}}
+URL: {{.LastRelease.URL}}
+Published: {{humanize .LastRelease.PublishedAt}}
+{{end}}
+
+#### :wave: Hello to my recent followers.
+{{range followers 8}}
+Username: {{.Login}}
+Name: {{.Name}}
+Avatar: {{.AvatarURL}}
+URL: {{.URL}}
+{{end}}
 
 #### 📜 My recent blog posts
 {{range rss "https://vanpariyar.in/index.xml" 5}}
@@ -31,7 +47,7 @@
 {{- end}}
 
 #### ⭐ Recent Stars
-{{range recentStars 10}}
+{{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
