@@ -47,9 +47,9 @@
 
 #### ⭐ Recent Stars
 
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (today)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 day ago)
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem: (3 weeks ago)
-- [dm0reau/automysqlbackup_hourly](https://github.com/dm0reau/automysqlbackup_hourly) - A short extension for automysqlbackup, allowing to perform hourly backups. (3 weeks ago)
+- [dm0reau/automysqlbackup_hourly](https://github.com/dm0reau/automysqlbackup_hourly) - A short extension for automysqlbackup, allowing to perform hourly backups. (4 weeks ago)
 - [dumblob/mysql2sqlite](https://github.com/dumblob/mysql2sqlite) - Converts MySQL dump to SQLite3 compatible dump (1 month ago)
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app (1 month ago)
 
