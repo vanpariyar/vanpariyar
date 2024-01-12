@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (1 day ago)
+- [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (2 days ago)
 - [vanpariyar/python-scripts](https://github.com/vanpariyar/python-scripts) - Here are my public scripts that i run every time to automating manual works (1 month ago)
 - [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) - Blog written in HUGO, deployed by GitHub pages and actions (2 months ago)
 - [vanpariyar/hari-easy-customise-helper](https://github.com/vanpariyar/hari-easy-customise-helper) -  (3 months ago)
@@ -32,8 +32,8 @@
 #### 📜 My recent blog posts
 
 - [How to setup Linode VPS server](https://vanpariyar.in/blog/how-to-setup-linode-vps-server/) (2 months ago)
-- [How to customize the render callback for a WordPress block](https://vanpariyar.in/blog/how-to-customize-the-render-callback-for-a-wordpress-block/) (2 months ago)
-- [PHPCS Setup Useful Commands](https://vanpariyar.in/blog/phpcs-setup-useful-commands/) (2 months ago)
+- [How to customize the render callback for a WordPress block](https://vanpariyar.in/blog/how-to-customize-the-render-callback-for-a-wordpress-block/) (3 months ago)
+- [PHPCS Setup Useful Commands](https://vanpariyar.in/blog/phpcs-setup-useful-commands/) (3 months ago)
 - [How to remove HTML entities from the REST API title and content in WordPress](https://vanpariyar.in/blog/how-to-remove-html-entities-from-the-rest-api-title-and-content-in-wordpress/) (3 months ago)
 - [How to install HestiaCP and install WordPress in VPS](https://vanpariyar.in/blog/how-to-install-hestiacp-and-install-wordpress-in-vps/) (3 months ago)
 
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [TremiDkhar/action-deploy-dispatcher](https://github.com/TremiDkhar/action-deploy-dispatcher) - Deploy Code to Server (3 days ago)
+- [TremiDkhar/action-deploy-dispatcher](https://github.com/TremiDkhar/action-deploy-dispatcher) - Deploy Code to Server (4 days ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 weeks ago)
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem: (1 month ago)
 - [dm0reau/automysqlbackup_hourly](https://github.com/dm0reau/automysqlbackup_hourly) - A short extension for automysqlbackup, allowing to perform hourly backups. (1 month ago)
