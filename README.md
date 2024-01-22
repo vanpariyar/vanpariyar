@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [TremiDkhar/action-deploy-dispatcher](https://github.com/TremiDkhar/action-deploy-dispatcher) - Deploy Code to Server (1 week ago)
+- [TremiDkhar/action-deploy-dispatcher](https://github.com/TremiDkhar/action-deploy-dispatcher) - Deploy Code to Server (2 weeks ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (3 weeks ago)
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem: (1 month ago)
 - [dm0reau/automysqlbackup_hourly](https://github.com/dm0reau/automysqlbackup_hourly) - A short extension for automysqlbackup, allowing to perform hourly backups. (1 month ago)
