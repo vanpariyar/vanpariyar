@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) - Blog written in HUGO, deployed by GitHub pages and actions (today)
 - [sahajananddigital/selfie.sahajananddigital.in](https://github.com/sahajananddigital/selfie.sahajananddigital.in) - Selfie Website - Get Link from the Readme (2 weeks ago)
 - [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (3 weeks ago)
 - [vanpariyar/python-scripts](https://github.com/vanpariyar/python-scripts) - Here are my public scripts that i run every time to automating manual works (1 month ago)
-- [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) - Blog written in HUGO, deployed by GitHub pages and actions (2 months ago)
 - [vanpariyar/hari-easy-customise-helper](https://github.com/vanpariyar/hari-easy-customise-helper) -  (3 months ago)
 
 #### 🌱 My latest projects
@@ -23,19 +23,19 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/26) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (today)
 - [Reverse](https://github.com/vanpariyar/vanpariyar.github.io/pull/25) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (1 month ago)
 - [Writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/24) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (3 months ago)
 - [Merge pull request #2 from sahajananddigital/main](https://github.com/sahajananddigital/wp-plugin-sahajanand-customise-helper/pull/1) on [sahajananddigital/wp-plugin-sahajanand-customise-helper](https://github.com/sahajananddigital/wp-plugin-sahajanand-customise-helper) (3 months ago)
 - [Added code for title](https://github.com/vanpariyar/hari-easy-customise-helper/pull/2) on [vanpariyar/hari-easy-customise-helper](https://github.com/vanpariyar/hari-easy-customise-helper) (3 months ago)
-- [Updated Blog](https://github.com/vanpariyar/vanpariyar.github.io/pull/23) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (3 months ago)
 
 #### 📜 My recent blog posts
 
+- [My 2023 Yearly Updates and Notes](https://vanpariyar.in/blog/my-2023-yearly-updates-and-notes/) (1 day ago)
 - [How to setup Linode VPS server](https://vanpariyar.in/blog/how-to-setup-linode-vps-server/) (2 months ago)
 - [How to customize the render callback for a WordPress block](https://vanpariyar.in/blog/how-to-customize-the-render-callback-for-a-wordpress-block/) (3 months ago)
 - [PHPCS Setup Useful Commands](https://vanpariyar.in/blog/phpcs-setup-useful-commands/) (3 months ago)
 - [How to remove HTML entities from the REST API title and content in WordPress](https://vanpariyar.in/blog/how-to-remove-html-entities-from-the-rest-api-title-and-content-in-wordpress/) (3 months ago)
-- [How to install HestiaCP and install WordPress in VPS](https://vanpariyar.in/blog/how-to-install-hestiacp-and-install-wordpress-in-vps/) (4 months ago)
 
 #### 📓 Gists I wrote
 
