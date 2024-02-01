@@ -23,7 +23,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Reverse](https://github.com/vanpariyar/vanpariyar.github.io/pull/25) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (4 weeks ago)
+- [Reverse](https://github.com/vanpariyar/vanpariyar.github.io/pull/25) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (1 month ago)
 - [Writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/24) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (3 months ago)
 - [Merge pull request #2 from sahajananddigital/main](https://github.com/sahajananddigital/wp-plugin-sahajanand-customise-helper/pull/1) on [sahajananddigital/wp-plugin-sahajanand-customise-helper](https://github.com/sahajananddigital/wp-plugin-sahajanand-customise-helper) (3 months ago)
 - [Added code for title](https://github.com/vanpariyar/hari-easy-customise-helper/pull/2) on [vanpariyar/hari-easy-customise-helper](https://github.com/vanpariyar/hari-easy-customise-helper) (3 months ago)
