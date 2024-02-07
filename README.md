@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) - Blog written in HUGO, deployed by GitHub pages and actions (5 days ago)
+- [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) - Blog written in HUGO, deployed by GitHub pages and actions (6 days ago)
 - [sahajananddigital/selfie.sahajananddigital.in](https://github.com/sahajananddigital/selfie.sahajananddigital.in) - Selfie Website - Get Link from the Readme (3 weeks ago)
-- [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (3 weeks ago)
+- [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (4 weeks ago)
 - [vanpariyar/python-scripts](https://github.com/vanpariyar/python-scripts) - Here are my public scripts that i run every time to automating manual works (2 months ago)
 - [vanpariyar/hari-easy-customise-helper](https://github.com/vanpariyar/hari-easy-customise-helper) -  (3 months ago)
 
@@ -23,7 +23,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/26) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (5 days ago)
+- [Writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/26) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (6 days ago)
 - [Reverse](https://github.com/vanpariyar/vanpariyar.github.io/pull/25) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (1 month ago)
 - [Writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/24) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (3 months ago)
 - [Merge pull request #2 from sahajananddigital/main](https://github.com/sahajananddigital/wp-plugin-sahajanand-customise-helper/pull/1) on [sahajananddigital/wp-plugin-sahajanand-customise-helper](https://github.com/sahajananddigital/wp-plugin-sahajanand-customise-helper) (3 months ago)
@@ -31,8 +31,8 @@
 
 #### 📜 My recent blog posts
 
-- [My 2023 Yearly Updates and Notes](https://vanpariyar.in/blog/my-2023-yearly-updates-and-notes/) (6 days ago)
-- [How to setup Linode VPS server](https://vanpariyar.in/blog/how-to-setup-linode-vps-server/) (2 months ago)
+- [My 2023 Yearly Updates and Notes](https://vanpariyar.in/blog/my-2023-yearly-updates-and-notes/) (1 week ago)
+- [How to setup Linode VPS server](https://vanpariyar.in/blog/how-to-setup-linode-vps-server/) (3 months ago)
 - [How to customize the render callback for a WordPress block](https://vanpariyar.in/blog/how-to-customize-the-render-callback-for-a-wordpress-block/) (3 months ago)
 - [PHPCS Setup Useful Commands](https://vanpariyar.in/blog/phpcs-setup-useful-commands/) (3 months ago)
 - [How to remove HTML entities from the REST API title and content in WordPress](https://vanpariyar.in/blog/how-to-remove-html-entities-from-the-rest-api-title-and-content-in-wordpress/) (4 months ago)
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [TremiDkhar/action-deploy-dispatcher](https://github.com/TremiDkhar/action-deploy-dispatcher) - Deploy Code to Server (4 weeks ago)
+- [TremiDkhar/action-deploy-dispatcher](https://github.com/TremiDkhar/action-deploy-dispatcher) - Deploy Code to Server (1 month ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 month ago)
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem: (2 months ago)
 - [dm0reau/automysqlbackup_hourly](https://github.com/dm0reau/automysqlbackup_hourly) - A short extension for automysqlbackup, allowing to perform hourly backups. (2 months ago)
