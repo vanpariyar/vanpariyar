@@ -58,11 +58,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [milinddhamu](https://github.com/milinddhamu)
 - [mohammadhasanii](https://github.com/mohammadhasanii)
 - [warmice71](https://github.com/warmice71)
 - [iamdharmesh](https://github.com/iamdharmesh)
 - [Whapi-Cloud](https://github.com/Whapi-Cloud)
+- [everaldomatias](https://github.com/everaldomatias)
 
 #### 💬 Feedback
 
