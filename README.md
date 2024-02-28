@@ -31,7 +31,7 @@
 
 #### 📜 My recent blog posts
 
-- [My 2023 Yearly Updates and Notes](https://vanpariyar.in/blog/my-2023-yearly-updates-and-notes/) (3 weeks ago)
+- [My 2023 Yearly Updates and Notes](https://vanpariyar.in/blog/my-2023-yearly-updates-and-notes/) (4 weeks ago)
 - [How to setup Linode VPS server](https://vanpariyar.in/blog/how-to-setup-linode-vps-server/) (3 months ago)
 - [How to customize the render callback for a WordPress block](https://vanpariyar.in/blog/how-to-customize-the-render-callback-for-a-wordpress-block/) (4 months ago)
 - [PHPCS Setup Useful Commands](https://vanpariyar.in/blog/phpcs-setup-useful-commands/) (4 months ago)
@@ -39,7 +39,7 @@
 
 #### 📓 Gists I wrote
 
-- [How to fix Unix socket error in Docker in WSL2](https://gist.github.com/c3e90157b6aec1f19ae9462941412672) (1 week ago)
+- [How to fix Unix socket error in Docker in WSL2](https://gist.github.com/c3e90157b6aec1f19ae9462941412672) (2 weeks ago)
 - [Day to day customisation needed for code so making one plugin to reuse in every plugin ](https://gist.github.com/95880b458a6110bb9f4d8c588cb4f119) (5 months ago)
 - [Get permalink and title from the database WordPress](https://gist.github.com/d955fc9b1678f61b5839d306fa0ab55a) (9 months ago)
 - [Register callback for dynamic block from PHP](https://gist.github.com/c31889716cefaa9dec24a40e0beb086f) (10 months ago)
