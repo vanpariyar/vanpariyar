@@ -27,7 +27,7 @@
 - [Reverse](https://github.com/vanpariyar/vanpariyar.github.io/pull/25) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (2 months ago)
 - [Writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/24) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (4 months ago)
 - [Merge pull request #2 from sahajananddigital/main](https://github.com/sahajananddigital/wp-plugin-sahajanand-customise-helper/pull/1) on [sahajananddigital/wp-plugin-sahajanand-customise-helper](https://github.com/sahajananddigital/wp-plugin-sahajanand-customise-helper) (4 months ago)
-- [Added code for title](https://github.com/vanpariyar/hari-easy-customise-helper/pull/2) on [vanpariyar/hari-easy-customise-helper](https://github.com/vanpariyar/hari-easy-customise-helper) (4 months ago)
+- [Added code for title](https://github.com/vanpariyar/hari-easy-customise-helper/pull/2) on [vanpariyar/hari-easy-customise-helper](https://github.com/vanpariyar/hari-easy-customise-helper) (5 months ago)
 
 #### 📜 My recent blog posts
 
@@ -48,7 +48,7 @@
 #### ⭐ Recent Stars
 
 - [niikhill/Gst-Helper](https://github.com/niikhill/Gst-Helper) - Gst Helper is a command-line application built using node js to help users to automate the download and uploads of GST Returns. (3 weeks ago)
-- [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library. (4 weeks ago)
+- [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library. (1 month ago)
 - [TremiDkhar/action-deploy-dispatcher](https://github.com/TremiDkhar/action-deploy-dispatcher) - Deploy Code to Server (2 months ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 months ago)
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem: (3 months ago)
