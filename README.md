@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (1 week ago)
+- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) - This is the simple plugin that counts the views of the your wordpress website (today)
 - [sahajananddigital/workflows](https://github.com/sahajananddigital/workflows) - Our Automated Workflow Files (1 week ago)
+- [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (1 week ago)
 - [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) - Blog written in HUGO, deployed by GitHub pages and actions (1 month ago)
 - [sahajananddigital/selfie.sahajananddigital.in](https://github.com/sahajananddigital/selfie.sahajananddigital.in) - Selfie Website - Get Link from the Readme (2 months ago)
-- [vanpariyar/python-scripts](https://github.com/vanpariyar/python-scripts) - Here are my public scripts that i run every time to automating manual works (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -23,11 +23,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [28 it is sowing php errors](https://github.com/vanpariyar/wp-post-views/pull/29) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (today)
 - [Writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/26) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (1 month ago)
 - [Reverse](https://github.com/vanpariyar/vanpariyar.github.io/pull/25) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (2 months ago)
 - [Writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/24) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (4 months ago)
 - [Merge pull request #2 from sahajananddigital/main](https://github.com/sahajananddigital/wp-plugin-sahajanand-customise-helper/pull/1) on [sahajananddigital/wp-plugin-sahajanand-customise-helper](https://github.com/sahajananddigital/wp-plugin-sahajanand-customise-helper) (5 months ago)
-- [Added code for title](https://github.com/vanpariyar/hari-easy-customise-helper/pull/2) on [vanpariyar/hari-easy-customise-helper](https://github.com/vanpariyar/hari-easy-customise-helper) (5 months ago)
 
 #### 📜 My recent blog posts
 
