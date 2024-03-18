@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Swaminarayan-Gurukul/invitation](https://github.com/Swaminarayan-Gurukul/invitation) - Invitation card maker software (3 days ago)
-- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) - This is the simple plugin that counts the views of the your wordpress website (5 days ago)
+- [Swaminarayan-Gurukul/invitation](https://github.com/Swaminarayan-Gurukul/invitation) - Invitation card maker software (4 days ago)
+- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) - This is the simple plugin that counts the views of the your wordpress website (6 days ago)
 - [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (2 weeks ago)
 - [sahajananddigital/workflows](https://github.com/sahajananddigital/workflows) - Our Automated Workflow Files (2 weeks ago)
 - [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) - Blog written in HUGO, deployed by GitHub pages and actions (1 month ago)
@@ -18,15 +18,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.16](https://github.com/vanpariyar/wp-post-views/releases/tag/1.16), 5 days ago) - This is the simple plugin that counts the views of the your wordpress website
+- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.16](https://github.com/vanpariyar/wp-post-views/releases/tag/1.16), 6 days ago) - This is the simple plugin that counts the views of the your wordpress website
 - [sahajananddigital/selfie.sahajananddigital.in](https://github.com/sahajananddigital/selfie.sahajananddigital.in) ([0.0.1](https://github.com/sahajananddigital/selfie.sahajananddigital.in/releases/tag/0.0.1), 1 year ago) - Selfie Website - Get Link from the Readme
 
 #### 🔨 My recent Pull Requests
 
-- [Version 1.16](https://github.com/vanpariyar/wp-post-views/pull/32) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (5 days ago)
-- [FIX: readme](https://github.com/vanpariyar/wp-post-views/pull/31) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (5 days ago)
-- [Limit tags to 5](https://github.com/vanpariyar/wp-post-views/pull/30) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (5 days ago)
-- [28 it is sowing php errors](https://github.com/vanpariyar/wp-post-views/pull/29) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (5 days ago)
+- [Version 1.16](https://github.com/vanpariyar/wp-post-views/pull/32) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (6 days ago)
+- [FIX: readme](https://github.com/vanpariyar/wp-post-views/pull/31) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (6 days ago)
+- [Limit tags to 5](https://github.com/vanpariyar/wp-post-views/pull/30) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (6 days ago)
+- [28 it is sowing php errors](https://github.com/vanpariyar/wp-post-views/pull/29) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (6 days ago)
 - [Writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/26) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (1 month ago)
 
 #### 📜 My recent blog posts
