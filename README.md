@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vanpariyar/dotfiles](https://github.com/vanpariyar/dotfiles) - My .files contains WorkFlow related files (1 day ago)
-- [Swaminarayan-Gurukul/selfie](https://github.com/Swaminarayan-Gurukul/selfie) -  (2 days ago)
+- [vanpariyar/dotfiles](https://github.com/vanpariyar/dotfiles) - My .files contains WorkFlow related files (2 days ago)
+- [Swaminarayan-Gurukul/selfie](https://github.com/Swaminarayan-Gurukul/selfie) -  (3 days ago)
 - [Swaminarayan-Gurukul/invitation](https://github.com/Swaminarayan-Gurukul/invitation) - Invitation card maker software (1 week ago)
-- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) - This is the simple plugin that counts the views of the your wordpress website (1 week ago)
+- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) - This is the simple plugin that counts the views of the your wordpress website (2 weeks ago)
 - [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -18,15 +18,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.16](https://github.com/vanpariyar/wp-post-views/releases/tag/1.16), 1 week ago) - This is the simple plugin that counts the views of the your wordpress website
+- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.16](https://github.com/vanpariyar/wp-post-views/releases/tag/1.16), 2 weeks ago) - This is the simple plugin that counts the views of the your wordpress website
 - [sahajananddigital/selfie.sahajananddigital.in](https://github.com/sahajananddigital/selfie.sahajananddigital.in) ([0.0.1](https://github.com/sahajananddigital/selfie.sahajananddigital.in/releases/tag/0.0.1), 1 year ago) - Selfie Website - Get Link from the Readme
 
 #### 🔨 My recent Pull Requests
 
-- [Version 1.16](https://github.com/vanpariyar/wp-post-views/pull/32) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (1 week ago)
-- [FIX: readme](https://github.com/vanpariyar/wp-post-views/pull/31) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (1 week ago)
-- [Limit tags to 5](https://github.com/vanpariyar/wp-post-views/pull/30) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (1 week ago)
-- [28 it is sowing php errors](https://github.com/vanpariyar/wp-post-views/pull/29) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (1 week ago)
+- [Version 1.16](https://github.com/vanpariyar/wp-post-views/pull/32) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (2 weeks ago)
+- [FIX: readme](https://github.com/vanpariyar/wp-post-views/pull/31) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (2 weeks ago)
+- [Limit tags to 5](https://github.com/vanpariyar/wp-post-views/pull/30) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (2 weeks ago)
+- [28 it is sowing php errors](https://github.com/vanpariyar/wp-post-views/pull/29) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (2 weeks ago)
 - [Writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/26) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (1 month ago)
 
 #### 📜 My recent blog posts
@@ -50,7 +50,7 @@
 - [niikhill/Gst-Helper](https://github.com/niikhill/Gst-Helper) - Gst Helper is a command-line application built using node js to help users to automate the download and uploads of GST Returns. (1 month ago)
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library. (1 month ago)
 - [TremiDkhar/action-deploy-dispatcher](https://github.com/TremiDkhar/action-deploy-dispatcher) - Deploy Code to Server (2 months ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 months ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (3 months ago)
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem: (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
