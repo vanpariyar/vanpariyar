@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vanpariyar/dotfiles](https://github.com/vanpariyar/dotfiles) - My .files contains WorkFlow related files (2 days ago)
-- [Swaminarayan-Gurukul/selfie](https://github.com/Swaminarayan-Gurukul/selfie) -  (3 days ago)
+- [vanpariyar/dotfiles](https://github.com/vanpariyar/dotfiles) - My .files contains WorkFlow related files (3 days ago)
+- [Swaminarayan-Gurukul/selfie](https://github.com/Swaminarayan-Gurukul/selfie) -  (4 days ago)
 - [Swaminarayan-Gurukul/invitation](https://github.com/Swaminarayan-Gurukul/invitation) - Invitation card maker software (1 week ago)
 - [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) - This is the simple plugin that counts the views of the your wordpress website (2 weeks ago)
-- [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (3 weeks ago)
+- [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [resilient-tech/india-compliance](https://github.com/resilient-tech/india-compliance) - Simple, yet powerful compliance solutions for Indian businesses (today)
+- [resilient-tech/india-compliance](https://github.com/resilient-tech/india-compliance) - Simple, yet powerful compliance solutions for Indian businesses (1 day ago)
 - [niikhill/Gst-Helper](https://github.com/niikhill/Gst-Helper) - Gst Helper is a command-line application built using node js to help users to automate the download and uploads of GST Returns. (1 month ago)
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library. (1 month ago)
 - [TremiDkhar/action-deploy-dispatcher](https://github.com/TremiDkhar/action-deploy-dispatcher) - Deploy Code to Server (2 months ago)
