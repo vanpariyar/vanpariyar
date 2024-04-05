@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Swaminarayan-Gurukul/invitation](https://github.com/Swaminarayan-Gurukul/invitation) - Invitation card maker software (today)
+- [Swaminarayan-Gurukul/invitation](https://github.com/Swaminarayan-Gurukul/invitation) - Invitation card maker software (1 day ago)
 - [vanpariyar/dotfiles](https://github.com/vanpariyar/dotfiles) - My .files contains WorkFlow related files (1 week ago)
 - [Swaminarayan-Gurukul/selfie](https://github.com/Swaminarayan-Gurukul/selfie) -  (1 week ago)
 - [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) - This is the simple plugin that counts the views of the your wordpress website (3 weeks ago)
@@ -35,7 +35,7 @@
 - [How to setup Linode VPS server](https://vanpariyar.in/blog/how-to-setup-linode-vps-server/) (4 months ago)
 - [How to customize the render callback for a WordPress block](https://vanpariyar.in/blog/how-to-customize-the-render-callback-for-a-wordpress-block/) (5 months ago)
 - [PHPCS Setup Useful Commands](https://vanpariyar.in/blog/phpcs-setup-useful-commands/) (5 months ago)
-- [How to remove HTML entities from the REST API title and content in WordPress](https://vanpariyar.in/blog/how-to-remove-html-entities-from-the-rest-api-title-and-content-in-wordpress/) (5 months ago)
+- [How to remove HTML entities from the REST API title and content in WordPress](https://vanpariyar.in/blog/how-to-remove-html-entities-from-the-rest-api-title-and-content-in-wordpress/) (6 months ago)
 
 #### 📓 Gists I wrote
 
