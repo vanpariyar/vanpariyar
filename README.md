@@ -23,11 +23,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update ajax.js](https://github.com/vanpariyar/wp-post-views/pull/35) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (today)
 - [Create LICENSE](https://github.com/vanpariyar/wp-post-views/pull/34) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (today)
 - [Version 1.16](https://github.com/vanpariyar/wp-post-views/pull/32) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (3 weeks ago)
 - [FIX: readme](https://github.com/vanpariyar/wp-post-views/pull/31) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (3 weeks ago)
 - [Limit tags to 5](https://github.com/vanpariyar/wp-post-views/pull/30) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (3 weeks ago)
-- [28 it is sowing php errors](https://github.com/vanpariyar/wp-post-views/pull/29) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
