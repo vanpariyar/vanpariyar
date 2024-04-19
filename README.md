@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Swaminarayan-Gurukul/id-card-generator](https://github.com/Swaminarayan-Gurukul/id-card-generator) -  (4 days ago)
-- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) - This is the simple plugin that counts the views of the your wordpress website (1 week ago)
-- [vanpariyar/dotfiles](https://github.com/vanpariyar/dotfiles) - My .files contains WorkFlow related files (1 week ago)
+- [Swaminarayan-Gurukul/id-card-generator](https://github.com/Swaminarayan-Gurukul/id-card-generator) -  (5 days ago)
+- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) - This is the simple plugin that counts the views of the your wordpress website (2 weeks ago)
+- [vanpariyar/dotfiles](https://github.com/vanpariyar/dotfiles) - My .files contains WorkFlow related files (2 weeks ago)
 - [Swaminarayan-Gurukul/invitation](https://github.com/Swaminarayan-Gurukul/invitation) - Invitation card maker software (2 weeks ago)
 - [Swaminarayan-Gurukul/selfie](https://github.com/Swaminarayan-Gurukul/selfie) -  (3 weeks ago)
 
@@ -23,9 +23,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update ajax.js](https://github.com/vanpariyar/wp-post-views/pull/36) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (1 week ago)
-- [Update ajax.js](https://github.com/vanpariyar/wp-post-views/pull/35) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (1 week ago)
-- [Create LICENSE](https://github.com/vanpariyar/wp-post-views/pull/34) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (1 week ago)
+- [Update ajax.js](https://github.com/vanpariyar/wp-post-views/pull/36) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (2 weeks ago)
+- [Update ajax.js](https://github.com/vanpariyar/wp-post-views/pull/35) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (2 weeks ago)
+- [Create LICENSE](https://github.com/vanpariyar/wp-post-views/pull/34) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (2 weeks ago)
 - [Version 1.16](https://github.com/vanpariyar/wp-post-views/pull/32) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (1 month ago)
 - [FIX: readme](https://github.com/vanpariyar/wp-post-views/pull/31) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (1 month ago)
 
