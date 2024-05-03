@@ -58,11 +58,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [decoderwhoami](https://github.com/decoderwhoami)
 - [warmice71](https://github.com/warmice71)
 - [iamdharmesh](https://github.com/iamdharmesh)
 - [Whapi-Cloud](https://github.com/Whapi-Cloud)
 - [everaldomatias](https://github.com/everaldomatias)
-- [0xk0nf](https://github.com/0xk0nf)
 
 #### 💬 Feedback
 
