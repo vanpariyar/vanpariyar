@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [sahajananddigital/server-setup](https://github.com/sahajananddigital/server-setup) -  (today)
 - [vanpariyar/dotfiles](https://github.com/vanpariyar/dotfiles) - My .files contains WorkFlow related files (4 days ago)
 - [Swaminarayan-Gurukul/invitation](https://github.com/Swaminarayan-Gurukul/invitation) - Invitation card maker software (2 weeks ago)
 - [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (2 weeks ago)
 - [Swaminarayan-Gurukul/id-card-generator](https://github.com/Swaminarayan-Gurukul/id-card-generator) -  (3 weeks ago)
-- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) - This is the simple plugin that counts the views of the your wordpress website (1 month ago)
 
 #### 🌱 My latest projects
 
