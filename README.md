@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [sahajananddigital/server-setup](https://github.com/sahajananddigital/server-setup) -  (today)
-- [vanpariyar/dotfiles](https://github.com/vanpariyar/dotfiles) - My .files contains WorkFlow related files (4 days ago)
+- [vanpariyar/dotfiles](https://github.com/vanpariyar/dotfiles) - My .files contains WorkFlow related files (5 days ago)
 - [Swaminarayan-Gurukul/invitation](https://github.com/Swaminarayan-Gurukul/invitation) - Invitation card maker software (2 weeks ago)
 - [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (2 weeks ago)
 - [Swaminarayan-Gurukul/id-card-generator](https://github.com/Swaminarayan-Gurukul/id-card-generator) -  (3 weeks ago)
@@ -32,7 +32,7 @@
 #### 📜 My recent blog posts
 
 - [My 2023 Yearly Updates and Notes](https://vanpariyar.in/blog/my-2023-yearly-updates-and-notes/) (3 months ago)
-- [How to setup Linode VPS server](https://vanpariyar.in/blog/how-to-setup-linode-vps-server/) (5 months ago)
+- [How to setup Linode VPS server](https://vanpariyar.in/blog/how-to-setup-linode-vps-server/) (6 months ago)
 - [How to customize the render callback for a WordPress block](https://vanpariyar.in/blog/how-to-customize-the-render-callback-for-a-wordpress-block/) (6 months ago)
 - [PHPCS Setup Useful Commands](https://vanpariyar.in/blog/phpcs-setup-useful-commands/) (6 months ago)
 - [How to remove HTML entities from the REST API title and content in WordPress](https://vanpariyar.in/blog/how-to-remove-html-entities-from-the-rest-api-title-and-content-in-wordpress/) (7 months ago)
@@ -47,11 +47,11 @@
 
 #### ⭐ Recent Stars
 
-- [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (4 weeks ago)
+- [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (1 month ago)
 - [resilient-tech/india-compliance](https://github.com/resilient-tech/india-compliance) - Simple, yet powerful compliance solutions for Indian businesses (1 month ago)
 - [niikhill/Gst-Helper](https://github.com/niikhill/Gst-Helper) - Gst Helper is a command-line application built using node js to help users to automate the download and uploads of GST Returns. (2 months ago)
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library. (2 months ago)
-- [TremiDkhar/action-deploy-dispatcher](https://github.com/TremiDkhar/action-deploy-dispatcher) - Deploy Code to Server (3 months ago)
+- [TremiDkhar/action-deploy-dispatcher](https://github.com/TremiDkhar/action-deploy-dispatcher) - Deploy Code to Server (4 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
