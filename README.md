@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sahajananddigital/server-setup](https://github.com/sahajananddigital/server-setup) -  (1 day ago)
-- [vanpariyar/dotfiles](https://github.com/vanpariyar/dotfiles) - My .files contains WorkFlow related files (6 days ago)
+- [sahajananddigital/server-setup](https://github.com/sahajananddigital/server-setup) -  (2 days ago)
+- [vanpariyar/dotfiles](https://github.com/vanpariyar/dotfiles) - My .files contains WorkFlow related files (1 week ago)
 - [Swaminarayan-Gurukul/invitation](https://github.com/Swaminarayan-Gurukul/invitation) - Invitation card maker software (2 weeks ago)
 - [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (2 weeks ago)
 - [Swaminarayan-Gurukul/id-card-generator](https://github.com/Swaminarayan-Gurukul/id-card-generator) -  (3 weeks ago)
@@ -50,7 +50,7 @@
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (1 month ago)
 - [resilient-tech/india-compliance](https://github.com/resilient-tech/india-compliance) - Simple, yet powerful compliance solutions for Indian businesses (1 month ago)
 - [niikhill/Gst-Helper](https://github.com/niikhill/Gst-Helper) - Gst Helper is a command-line application built using node js to help users to automate the download and uploads of GST Returns. (2 months ago)
-- [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library. (2 months ago)
+- [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library. (3 months ago)
 - [TremiDkhar/action-deploy-dispatcher](https://github.com/TremiDkhar/action-deploy-dispatcher) - Deploy Code to Server (4 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
