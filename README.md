@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (today)
 - [vanpariyar/python-scripts](https://github.com/vanpariyar/python-scripts) - Here are my public scripts that i run every time to automating manual works (2 weeks ago)
 - [sahajananddigital/workflows](https://github.com/sahajananddigital/workflows) - Our Automated Workflow Files (2 weeks ago)
 - [sahajananddigital/server-setup](https://github.com/sahajananddigital/server-setup) -  (4 weeks ago)
 - [vanpariyar/dotfiles](https://github.com/vanpariyar/dotfiles) - My .files contains WorkFlow related files (1 month ago)
-- [Swaminarayan-Gurukul/invitation](https://github.com/Swaminarayan-Gurukul/invitation) - Invitation card maker software (1 month ago)
 
 #### 🌱 My latest projects
 
