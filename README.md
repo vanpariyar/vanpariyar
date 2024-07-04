@@ -23,9 +23,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update ajax.js](https://github.com/vanpariyar/wp-post-views/pull/36) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (2 months ago)
-- [Update ajax.js](https://github.com/vanpariyar/wp-post-views/pull/35) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (2 months ago)
-- [Create LICENSE](https://github.com/vanpariyar/wp-post-views/pull/34) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (2 months ago)
+- [Update ajax.js](https://github.com/vanpariyar/wp-post-views/pull/36) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (3 months ago)
+- [Update ajax.js](https://github.com/vanpariyar/wp-post-views/pull/35) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (3 months ago)
+- [Create LICENSE](https://github.com/vanpariyar/wp-post-views/pull/34) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (3 months ago)
 - [Version 1.16](https://github.com/vanpariyar/wp-post-views/pull/32) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (3 months ago)
 - [FIX: readme](https://github.com/vanpariyar/wp-post-views/pull/31) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (3 months ago)
 
@@ -35,7 +35,7 @@
 - [How to setup Linode VPS server](https://vanpariyar.in/blog/how-to-setup-linode-vps-server/) (7 months ago)
 - [How to customize the render callback for a WordPress block](https://vanpariyar.in/blog/how-to-customize-the-render-callback-for-a-wordpress-block/) (8 months ago)
 - [PHPCS Setup Useful Commands](https://vanpariyar.in/blog/phpcs-setup-useful-commands/) (8 months ago)
-- [How to remove HTML entities from the REST API title and content in WordPress](https://vanpariyar.in/blog/how-to-remove-html-entities-from-the-rest-api-title-and-content-in-wordpress/) (8 months ago)
+- [How to remove HTML entities from the REST API title and content in WordPress](https://vanpariyar.in/blog/how-to-remove-html-entities-from-the-rest-api-title-and-content-in-wordpress/) (9 months ago)
 
 #### 📓 Gists I wrote
 
