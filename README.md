@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (4 weeks ago)
+- [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (1 month ago)
 - [sahajananddigital/workflows](https://github.com/sahajananddigital/workflows) - Our Automated Workflow Files (1 month ago)
 - [vanpariyar/python-scripts](https://github.com/vanpariyar/python-scripts) - Here are my public scripts that i run every time to automating manual works (1 month ago)
 - [sahajananddigital/server-setup](https://github.com/sahajananddigital/server-setup) -  (1 month ago)
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (today)
+- [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (1 day ago)
 - [ryanwelcher/prepublish-checklist](https://github.com/ryanwelcher/prepublish-checklist) - Repository for the workshop (1 month ago)
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (2 months ago)
 - [resilient-tech/india-compliance](https://github.com/resilient-tech/india-compliance) - Simple, yet powerful compliance solutions for Indian businesses (3 months ago)
