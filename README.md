@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (2 days ago)
+- [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (3 days ago)
 - [ryanwelcher/prepublish-checklist](https://github.com/ryanwelcher/prepublish-checklist) - Repository for the workshop (1 month ago)
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (3 months ago)
 - [resilient-tech/india-compliance](https://github.com/resilient-tech/india-compliance) - Simple, yet powerful compliance solutions for Indian businesses (3 months ago)
