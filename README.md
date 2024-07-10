@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.16](https://github.com/vanpariyar/wp-post-views/releases/tag/1.16), 3 months ago) - This is the simple plugin that counts the views of the your wordpress website
+- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.16](https://github.com/vanpariyar/wp-post-views/releases/tag/1.16), 4 months ago) - This is the simple plugin that counts the views of the your wordpress website
 - [sahajananddigital/selfie.sahajananddigital.in](https://github.com/sahajananddigital/selfie.sahajananddigital.in) ([0.0.1](https://github.com/sahajananddigital/selfie.sahajananddigital.in/releases/tag/0.0.1), 2 years ago) - Selfie Website - Get Link from the Readme
 
 #### 🔨 My recent Pull Requests
@@ -26,15 +26,15 @@
 - [Update ajax.js](https://github.com/vanpariyar/wp-post-views/pull/36) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (3 months ago)
 - [Update ajax.js](https://github.com/vanpariyar/wp-post-views/pull/35) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (3 months ago)
 - [Create LICENSE](https://github.com/vanpariyar/wp-post-views/pull/34) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (3 months ago)
-- [Version 1.16](https://github.com/vanpariyar/wp-post-views/pull/32) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (3 months ago)
-- [FIX: readme](https://github.com/vanpariyar/wp-post-views/pull/31) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (3 months ago)
+- [Version 1.16](https://github.com/vanpariyar/wp-post-views/pull/32) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (4 months ago)
+- [FIX: readme](https://github.com/vanpariyar/wp-post-views/pull/31) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (4 months ago)
 
 #### 📜 My recent blog posts
 
 - [My 2023 Yearly Updates and Notes](https://vanpariyar.in/blog/my-2023-yearly-updates-and-notes/) (5 months ago)
 - [How to setup Linode VPS server](https://vanpariyar.in/blog/how-to-setup-linode-vps-server/) (8 months ago)
-- [How to customize the render callback for a WordPress block](https://vanpariyar.in/blog/how-to-customize-the-render-callback-for-a-wordpress-block/) (8 months ago)
-- [PHPCS Setup Useful Commands](https://vanpariyar.in/blog/phpcs-setup-useful-commands/) (8 months ago)
+- [How to customize the render callback for a WordPress block](https://vanpariyar.in/blog/how-to-customize-the-render-callback-for-a-wordpress-block/) (9 months ago)
+- [PHPCS Setup Useful Commands](https://vanpariyar.in/blog/phpcs-setup-useful-commands/) (9 months ago)
 - [How to remove HTML entities from the REST API title and content in WordPress](https://vanpariyar.in/blog/how-to-remove-html-entities-from-the-rest-api-title-and-content-in-wordpress/) (9 months ago)
 
 #### 📓 Gists I wrote
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (5 days ago)
+- [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (6 days ago)
 - [ryanwelcher/prepublish-checklist](https://github.com/ryanwelcher/prepublish-checklist) - Repository for the workshop (1 month ago)
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (3 months ago)
 - [resilient-tech/india-compliance](https://github.com/resilient-tech/india-compliance) - Simple, yet powerful compliance solutions for Indian businesses (3 months ago)
