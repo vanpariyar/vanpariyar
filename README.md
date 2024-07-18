@@ -58,11 +58,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [NobleMajo](https://github.com/NobleMajo)
 - [JamesRyo](https://github.com/JamesRyo)
 - [Mihir288](https://github.com/Mihir288)
 - [kindlyman343423](https://github.com/kindlyman343423)
 - [ebaigeslen](https://github.com/ebaigeslen)
-- [decoderwhoami](https://github.com/decoderwhoami)
 
 #### 💬 Feedback
 
