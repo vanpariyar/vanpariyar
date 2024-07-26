@@ -59,10 +59,10 @@
 #### 👯 Check out some of my recent followers
 
 - [sujalteli](https://github.com/sujalteli)
-- [vintagewang](https://github.com/vintagewang)
 - [JamesRyo](https://github.com/JamesRyo)
 - [Mihir288](https://github.com/Mihir288)
 - [ebaigeslen](https://github.com/ebaigeslen)
+- [decoderwhoami](https://github.com/decoderwhoami)
 
 #### 💬 Feedback
 
