@@ -58,11 +58,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Charles-Chrismann](https://github.com/Charles-Chrismann)
 - [iloveryuux](https://github.com/iloveryuux)
 - [sujalteli](https://github.com/sujalteli)
 - [JamesRyo](https://github.com/JamesRyo)
 - [Mihir288](https://github.com/Mihir288)
-- [ebaigeslen](https://github.com/ebaigeslen)
 
 #### 💬 Feedback
 
