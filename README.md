@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) -  (today)
+- [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) -  (1 day ago)
 - [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (2 weeks ago)
 - [vanpariyar/python-scripts](https://github.com/vanpariyar/python-scripts) - Here are my public scripts that i run every time to automating manual works (2 months ago)
 - [sahajananddigital/workflows](https://github.com/sahajananddigital/workflows) - Our Automated Workflow Files (2 months ago)
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [BuildWithHussain/batwara](https://github.com/BuildWithHussain/batwara) - Simple and Open Source Splitwise alternative (6 days ago)
+- [BuildWithHussain/batwara](https://github.com/BuildWithHussain/batwara) - Simple and Open Source Splitwise alternative (1 week ago)
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (1 month ago)
 - [ryanwelcher/prepublish-checklist](https://github.com/ryanwelcher/prepublish-checklist) - Repository for the workshop (2 months ago)
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (4 months ago)
