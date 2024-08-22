@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sahajananddigital/static-wordpress-playground](https://github.com/sahajananddigital/static-wordpress-playground) -  (1 day ago)
+- [sahajananddigital/static-wordpress-playground](https://github.com/sahajananddigital/static-wordpress-playground) - Hosted Static playground for the website runner (1 day ago)
 - [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) -  (1 week ago)
 - [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (3 weeks ago)
 - [vanpariyar/python-scripts](https://github.com/vanpariyar/python-scripts) - Here are my public scripts that i run every time to automating manual works (3 months ago)
