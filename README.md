@@ -2,19 +2,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [vanpariyar/seminar-ai-intro-and-game-development](https://github.com/vanpariyar/seminar-ai-intro-and-game-development) -  (today)
 - [sahajananddigital/static-wordpress-playground](https://github.com/sahajananddigital/static-wordpress-playground) - Hosted Static playground for the website runner (3 days ago)
 - [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) -  (1 week ago)
 - [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (3 weeks ago)
 - [vanpariyar/python-scripts](https://github.com/vanpariyar/python-scripts) - Here are my public scripts that i run every time to automating manual works (3 months ago)
-- [sahajananddigital/workflows](https://github.com/sahajananddigital/workflows) - Our Automated Workflow Files (3 months ago)
 
 #### 🌱 My latest projects
 
+- [vanpariyar/seminar-ai-intro-and-game-development](https://github.com/vanpariyar/seminar-ai-intro-and-game-development) - 
 - [vanpariyar/dotfiles](https://github.com/vanpariyar/dotfiles) - My .files contains WorkFlow related files
 - [vanpariyar/python-scripts](https://github.com/vanpariyar/python-scripts) - Here are my public scripts that i run every time to automating manual works
 - [vanpariyar/learning-monorepo](https://github.com/vanpariyar/learning-monorepo) - Learning Mono Repository contains all my learning files
 - [vanpariyar/thoughts-daily-quotes](https://github.com/vanpariyar/thoughts-daily-quotes) - This is the website contains various quotes from the various authors and devotees
-- [vanpariyar/phpcs-wordpress-utilities](https://github.com/vanpariyar/phpcs-wordpress-utilities) - All required utilities on one place.
 
 #### 🔭 Latest releases I've contributed to
 
