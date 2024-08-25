@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vanpariyar/seminar-ai-intro-and-game-development](https://github.com/vanpariyar/seminar-ai-intro-and-game-development) -  (today)
-- [sahajananddigital/static-wordpress-playground](https://github.com/sahajananddigital/static-wordpress-playground) - Hosted Static playground for the website runner (3 days ago)
+- [vanpariyar/seminar-ai-intro-and-game-development](https://github.com/vanpariyar/seminar-ai-intro-and-game-development) -  (1 day ago)
+- [sahajananddigital/static-wordpress-playground](https://github.com/sahajananddigital/static-wordpress-playground) - Hosted Static playground for the website runner (4 days ago)
 - [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) -  (1 week ago)
 - [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (3 weeks ago)
 - [vanpariyar/python-scripts](https://github.com/vanpariyar/python-scripts) - Here are my public scripts that i run every time to automating manual works (3 months ago)
@@ -39,7 +39,7 @@
 
 #### 📓 Gists I wrote
 
-- [How to Migrate website Database from Mysql to Sqlite or vice versa](https://gist.github.com/720f04a57721e24eb2af2b1112ec89c4) (4 days ago)
+- [How to Migrate website Database from Mysql to Sqlite or vice versa](https://gist.github.com/720f04a57721e24eb2af2b1112ec89c4) (5 days ago)
 - [How to fix Unix socket error in Docker in WSL2](https://gist.github.com/c3e90157b6aec1f19ae9462941412672) (6 months ago)
 - [Day to day customisation needed for code so making one plugin to reuse in every plugin ](https://gist.github.com/95880b458a6110bb9f4d8c588cb4f119) (11 months ago)
 - [Get permalink and title from the database WordPress](https://gist.github.com/d955fc9b1678f61b5839d306fa0ab55a) (1 year ago)
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads. (6 days ago)
+- [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads. (1 week ago)
 - [BuildWithHussain/batwara](https://github.com/BuildWithHussain/batwara) - Simple and Open Source Splitwise alternative (2 weeks ago)
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (1 month ago)
 - [ryanwelcher/prepublish-checklist](https://github.com/ryanwelcher/prepublish-checklist) - Repository for the workshop (2 months ago)
