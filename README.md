@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) - Blog written in HUGO, deployed by GitHub pages and actions (3 days ago)
-- [vanpariyar/seminar-ai-intro-and-game-development](https://github.com/vanpariyar/seminar-ai-intro-and-game-development) -  (4 days ago)
+- [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) - Blog written in HUGO, deployed by GitHub pages and actions (4 days ago)
+- [vanpariyar/seminar-ai-intro-and-game-development](https://github.com/vanpariyar/seminar-ai-intro-and-game-development) -  (5 days ago)
 - [sahajananddigital/static-wordpress-playground](https://github.com/sahajananddigital/static-wordpress-playground) - Hosted Static playground for the website runner (1 week ago)
 - [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) -  (2 weeks ago)
 - [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (1 month ago)
@@ -23,8 +23,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/28) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (3 days ago)
-- [Merge pull request #26 from vanpariyar/writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/27) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (3 days ago)
+- [Writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/28) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (4 days ago)
+- [Merge pull request #26 from vanpariyar/writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/27) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (4 days ago)
 - [Update ajax.js](https://github.com/vanpariyar/wp-post-views/pull/36) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (4 months ago)
 - [Update ajax.js](https://github.com/vanpariyar/wp-post-views/pull/35) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (4 months ago)
 - [Create LICENSE](https://github.com/vanpariyar/wp-post-views/pull/34) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (4 months ago)
@@ -48,7 +48,7 @@
 #### ⭐ Recent Stars
 
 - [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads. (1 week ago)
-- [BuildWithHussain/batwara](https://github.com/BuildWithHussain/batwara) - Simple and Open Source Splitwise alternative (2 weeks ago)
+- [BuildWithHussain/batwara](https://github.com/BuildWithHussain/batwara) - Simple and Open Source Splitwise alternative (3 weeks ago)
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (1 month ago)
 - [ryanwelcher/prepublish-checklist](https://github.com/ryanwelcher/prepublish-checklist) - Repository for the workshop (2 months ago)
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (4 months ago)
