@@ -47,11 +47,11 @@
 
 #### ⭐ Recent Stars
 
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (today)
 - [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world. (2 days ago)
 - [Sidsector9/wp-settings-page-gutenberg](https://github.com/Sidsector9/wp-settings-page-gutenberg) -  (4 days ago)
 - [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads. (2 weeks ago)
 - [BuildWithHussain/batwara](https://github.com/BuildWithHussain/batwara) - Simple and Open Source Splitwise alternative (4 weeks ago)
-- [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
