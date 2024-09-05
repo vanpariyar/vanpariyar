@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [sahajananddigital/learning-assignment](https://github.com/sahajananddigital/learning-assignment) -  (today)
 - [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) -  (1 day ago)
 - [sahajananddigital/workflows](https://github.com/sahajananddigital/workflows) - Our Automated Workflow Files (6 days ago)
 - [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) - Blog written in HUGO, deployed by GitHub pages and actions (1 week ago)
 - [vanpariyar/seminar-ai-intro-and-game-development](https://github.com/vanpariyar/seminar-ai-intro-and-game-development) -  (1 week ago)
-- [sahajananddigital/static-wordpress-playground](https://github.com/sahajananddigital/static-wordpress-playground) - Hosted Static playground for the website runner (2 weeks ago)
 
 #### 🌱 My latest projects
 
