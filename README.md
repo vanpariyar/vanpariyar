@@ -58,11 +58,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [H4rshxs](https://github.com/H4rshxs)
 - [Pavanpatil326](https://github.com/Pavanpatil326)
 - [Charles-Chrismann](https://github.com/Charles-Chrismann)
 - [sujalteli](https://github.com/sujalteli)
 - [JamesRyo](https://github.com/JamesRyo)
-- [Mihir288](https://github.com/Mihir288)
 
 #### 💬 Feedback
 
