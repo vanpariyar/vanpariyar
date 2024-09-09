@@ -47,11 +47,11 @@
 
 #### ⭐ Recent Stars
 
+- [solidtime-io/self-hosting-examples](https://github.com/solidtime-io/self-hosting-examples) - Example self-hosting setups for solidtime (today)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (4 days ago)
 - [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world. (6 days ago)
 - [Sidsector9/wp-settings-page-gutenberg](https://github.com/Sidsector9/wp-settings-page-gutenberg) -  (1 week ago)
 - [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads. (3 weeks ago)
-- [BuildWithHussain/batwara](https://github.com/BuildWithHussain/batwara) - Simple and Open Source Splitwise alternative (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
