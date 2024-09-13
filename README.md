@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [sahajananddigital/learning-assignment](https://github.com/sahajananddigital/learning-assignment) -  (today)
 - [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) - Blog written in HUGO, deployed by GitHub pages and actions (4 days ago)
-- [sahajananddigital/learning-assignment](https://github.com/sahajananddigital/learning-assignment) -  (1 week ago)
 - [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) -  (1 week ago)
 - [sahajananddigital/workflows](https://github.com/sahajananddigital/workflows) - Our Automated Workflow Files (2 weeks ago)
 - [vanpariyar/seminar-ai-intro-and-game-development](https://github.com/vanpariyar/seminar-ai-intro-and-game-development) -  (2 weeks ago)
