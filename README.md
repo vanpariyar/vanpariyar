@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sahajananddigital/learning-assignment](https://github.com/sahajananddigital/learning-assignment) -  (3 days ago)
+- [sahajananddigital/learning-assignment](https://github.com/sahajananddigital/learning-assignment) -  (4 days ago)
 - [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) - Blog written in HUGO, deployed by GitHub pages and actions (1 week ago)
 - [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) -  (1 week ago)
 - [sahajananddigital/workflows](https://github.com/sahajananddigital/workflows) - Our Automated Workflow Files (2 weeks ago)
@@ -39,7 +39,7 @@
 
 #### 📓 Gists I wrote
 
-- [How to Migrate website Database from Mysql to Sqlite or vice versa](https://gist.github.com/720f04a57721e24eb2af2b1112ec89c4) (3 weeks ago)
+- [How to Migrate website Database from Mysql to Sqlite or vice versa](https://gist.github.com/720f04a57721e24eb2af2b1112ec89c4) (4 weeks ago)
 - [How to fix Unix socket error in Docker in WSL2](https://gist.github.com/c3e90157b6aec1f19ae9462941412672) (7 months ago)
 - [Day to day customisation needed for code so making one plugin to reuse in every plugin ](https://gist.github.com/95880b458a6110bb9f4d8c588cb4f119) (11 months ago)
 - [Get permalink and title from the database WordPress](https://gist.github.com/d955fc9b1678f61b5839d306fa0ab55a) (1 year ago)
@@ -49,9 +49,9 @@
 
 - [solidtime-io/self-hosting-examples](https://github.com/solidtime-io/self-hosting-examples) - Example self-hosting setups for solidtime (1 week ago)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (1 week ago)
-- [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world. (1 week ago)
+- [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world. (2 weeks ago)
 - [Sidsector9/wp-settings-page-gutenberg](https://github.com/Sidsector9/wp-settings-page-gutenberg) -  (2 weeks ago)
-- [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads. (4 weeks ago)
+- [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
