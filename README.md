@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) - Blog written in HUGO, deployed by GitHub pages and actions (2 days ago)
-- [sahajananddigital/learning-assignment](https://github.com/sahajananddigital/learning-assignment) -  (6 days ago)
+- [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) - Blog written in HUGO, deployed by GitHub pages and actions (3 days ago)
+- [sahajananddigital/learning-assignment](https://github.com/sahajananddigital/learning-assignment) -  (1 week ago)
 - [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) -  (2 weeks ago)
-- [sahajananddigital/workflows](https://github.com/sahajananddigital/workflows) - Our Automated Workflow Files (2 weeks ago)
+- [sahajananddigital/workflows](https://github.com/sahajananddigital/workflows) - Our Automated Workflow Files (3 weeks ago)
 - [vanpariyar/seminar-ai-intro-and-game-development](https://github.com/vanpariyar/seminar-ai-intro-and-game-development) -  (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -23,15 +23,15 @@
 
 #### 🔨 My recent Pull Requests
 
-- [REV](https://github.com/vanpariyar/vanpariyar.github.io/pull/31) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (2 days ago)
-- [Adde New Blog](https://github.com/vanpariyar/vanpariyar.github.io/pull/30) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (2 days ago)
+- [REV](https://github.com/vanpariyar/vanpariyar.github.io/pull/31) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (3 days ago)
+- [Adde New Blog](https://github.com/vanpariyar/vanpariyar.github.io/pull/30) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (3 days ago)
 - [Writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/29) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (1 week ago)
 - [Writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/28) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (3 weeks ago)
 - [Merge pull request #26 from vanpariyar/writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/27) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
-- [How to Self-Host WordPress Playground on GitHub Pages with a Custom Domain](https://vanpariyar.in/blog/how-to-self-host-wordpress-playground-on-github-pages-with-a-custom-domain/) (3 days ago)
+- [How to Self-Host WordPress Playground on GitHub Pages with a Custom Domain](https://vanpariyar.in/blog/how-to-self-host-wordpress-playground-on-github-pages-with-a-custom-domain/) (4 days ago)
 - [Getting Started with Gutenberg Editor Custom Block Development](https://vanpariyar.in/blog/how-to-start-with-gutenberg-editor-custom-block-development/) (1 week ago)
 - [Fetch Instagram Details](https://vanpariyar.in/blog/fetch-instagram-details/) (1 week ago)
 - [How to remove HTML tags from the REST API title and content in WordPress](https://vanpariyar.in/blog/how-to-remove-html-tags-from-the-rest-api-title-and-content-in-wordpress/) (2 weeks ago)
@@ -41,7 +41,7 @@
 
 - [How to Migrate website Database from Mysql to Sqlite or vice versa](https://gist.github.com/720f04a57721e24eb2af2b1112ec89c4) (1 month ago)
 - [How to fix Unix socket error in Docker in WSL2](https://gist.github.com/c3e90157b6aec1f19ae9462941412672) (7 months ago)
-- [Day to day customisation needed for code so making one plugin to reuse in every plugin ](https://gist.github.com/95880b458a6110bb9f4d8c588cb4f119) (11 months ago)
+- [Day to day customisation needed for code so making one plugin to reuse in every plugin ](https://gist.github.com/95880b458a6110bb9f4d8c588cb4f119) (1 year ago)
 - [Get permalink and title from the database WordPress](https://gist.github.com/d955fc9b1678f61b5839d306fa0ab55a) (1 year ago)
 - [Register callback for dynamic block from PHP](https://gist.github.com/c31889716cefaa9dec24a40e0beb086f) (1 year ago)
 
