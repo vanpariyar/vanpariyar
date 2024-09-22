@@ -47,11 +47,11 @@
 
 #### ⭐ Recent Stars
 
+- [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js (today)
 - [solidtime-io/self-hosting-examples](https://github.com/solidtime-io/self-hosting-examples) - Example self-hosting setups for solidtime (1 week ago)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (2 weeks ago)
 - [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world. (2 weeks ago)
 - [Sidsector9/wp-settings-page-gutenberg](https://github.com/Sidsector9/wp-settings-page-gutenberg) -  (3 weeks ago)
-- [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
