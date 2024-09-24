@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) - Blog written in HUGO, deployed by GitHub pages and actions (6 days ago)
+- [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) - Blog written in HUGO, deployed by GitHub pages and actions (1 week ago)
 - [sahajananddigital/learning-assignment](https://github.com/sahajananddigital/learning-assignment) -  (1 week ago)
 - [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) -  (2 weeks ago)
 - [sahajananddigital/workflows](https://github.com/sahajananddigital/workflows) - Our Automated Workflow Files (3 weeks ago)
@@ -23,11 +23,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [REV](https://github.com/vanpariyar/vanpariyar.github.io/pull/31) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (6 days ago)
-- [Adde New Blog](https://github.com/vanpariyar/vanpariyar.github.io/pull/30) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (6 days ago)
+- [REV](https://github.com/vanpariyar/vanpariyar.github.io/pull/31) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (1 week ago)
+- [Adde New Blog](https://github.com/vanpariyar/vanpariyar.github.io/pull/30) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (1 week ago)
 - [Writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/29) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (2 weeks ago)
-- [Writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/28) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (4 weeks ago)
-- [Merge pull request #26 from vanpariyar/writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/27) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (4 weeks ago)
+- [Writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/28) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (1 month ago)
+- [Merge pull request #26 from vanpariyar/writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/27) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (1 month ago)
 
 #### 📜 My recent blog posts
 
@@ -47,10 +47,10 @@
 
 #### ⭐ Recent Stars
 
-- [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js (1 day ago)
+- [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js (2 days ago)
 - [solidtime-io/self-hosting-examples](https://github.com/solidtime-io/self-hosting-examples) - Example self-hosting setups for solidtime (2 weeks ago)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (2 weeks ago)
-- [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world. (2 weeks ago)
+- [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world. (3 weeks ago)
 - [Sidsector9/wp-settings-page-gutenberg](https://github.com/Sidsector9/wp-settings-page-gutenberg) -  (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
