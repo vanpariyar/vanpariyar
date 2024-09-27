@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Shiksha-Skills-Institute/links](https://github.com/Shiksha-Skills-Institute/links) -  (2 days ago)
+- [Shiksha-Skills-Institute/links](https://github.com/Shiksha-Skills-Institute/links) -  (3 days ago)
 - [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) - Blog written in HUGO, deployed by GitHub pages and actions (1 week ago)
-- [sahajananddigital/learning-assignment](https://github.com/sahajananddigital/learning-assignment) -  (1 week ago)
+- [sahajananddigital/learning-assignment](https://github.com/sahajananddigital/learning-assignment) -  (2 weeks ago)
 - [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) -  (3 weeks ago)
-- [sahajananddigital/workflows](https://github.com/sahajananddigital/workflows) - Our Automated Workflow Files (3 weeks ago)
+- [sahajananddigital/workflows](https://github.com/sahajananddigital/workflows) - Our Automated Workflow Files (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -35,7 +35,7 @@
 - [Getting Started with Gutenberg Editor Custom Block Development](https://vanpariyar.in/blog/how-to-start-with-gutenberg-editor-custom-block-development/) (2 weeks ago)
 - [Fetch Instagram Details](https://vanpariyar.in/blog/fetch-instagram-details/) (2 weeks ago)
 - [How to remove HTML tags from the REST API title and content in WordPress](https://vanpariyar.in/blog/how-to-remove-html-tags-from-the-rest-api-title-and-content-in-wordpress/) (3 weeks ago)
-- [My 2023 Yearly Updates and Notes](https://vanpariyar.in/blog/my-2023-yearly-updates-and-notes/) (7 months ago)
+- [My 2023 Yearly Updates and Notes](https://vanpariyar.in/blog/my-2023-yearly-updates-and-notes/) (8 months ago)
 
 #### 📓 Gists I wrote
 
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js (4 days ago)
+- [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js (5 days ago)
 - [solidtime-io/self-hosting-examples](https://github.com/solidtime-io/self-hosting-examples) - Example self-hosting setups for solidtime (2 weeks ago)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (3 weeks ago)
 - [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world. (3 weeks ago)
