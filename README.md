@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (today)
 - [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (today)
 - [Shiksha-Skills-Institute/youtube-web-development-notes](https://github.com/Shiksha-Skills-Institute/youtube-web-development-notes) -  (1 day ago)
 - [Shiksha-Skills-Institute/links](https://github.com/Shiksha-Skills-Institute/links) -  (4 days ago)
 - [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) - Blog written in HUGO, deployed by GitHub pages and actions (1 week ago)
-- [sahajananddigital/learning-assignment](https://github.com/sahajananddigital/learning-assignment) -  (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -58,11 +58,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [eust-w](https://github.com/eust-w)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [H4rshxs](https://github.com/H4rshxs)
 - [Pavanpatil326](https://github.com/Pavanpatil326)
 - [Charles-Chrismann](https://github.com/Charles-Chrismann)
-- [sujalteli](https://github.com/sujalteli)
 
 #### 💬 Feedback
 
