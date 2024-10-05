@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (5 days ago)
-- [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (6 days ago)
+- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (6 days ago)
+- [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (1 week ago)
 - [Shiksha-Skills-Institute/youtube-web-development-notes](https://github.com/Shiksha-Skills-Institute/youtube-web-development-notes) -  (1 week ago)
 - [Shiksha-Skills-Institute/links](https://github.com/Shiksha-Skills-Institute/links) -  (1 week ago)
 - [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) - Blog written in HUGO, deployed by GitHub pages and actions (2 weeks ago)
@@ -34,7 +34,7 @@
 - [How to Self-Host WordPress Playground on GitHub Pages with a Custom Domain](https://vanpariyar.in/blog/how-to-self-host-wordpress-playground-on-github-pages-with-a-custom-domain/) (2 weeks ago)
 - [Getting Started with Gutenberg Editor Custom Block Development](https://vanpariyar.in/blog/how-to-start-with-gutenberg-editor-custom-block-development/) (3 weeks ago)
 - [Fetch Instagram Details](https://vanpariyar.in/blog/fetch-instagram-details/) (3 weeks ago)
-- [How to remove HTML tags from the REST API title and content in WordPress](https://vanpariyar.in/blog/how-to-remove-html-tags-from-the-rest-api-title-and-content-in-wordpress/) (4 weeks ago)
+- [How to remove HTML tags from the REST API title and content in WordPress](https://vanpariyar.in/blog/how-to-remove-html-tags-from-the-rest-api-title-and-content-in-wordpress/) (1 month ago)
 - [My 2023 Yearly Updates and Notes](https://vanpariyar.in/blog/my-2023-yearly-updates-and-notes/) (8 months ago)
 
 #### 📓 Gists I wrote
@@ -47,8 +47,8 @@
 
 #### ⭐ Recent Stars
 
-- [dumblob/mysql2sqlite](https://github.com/dumblob/mysql2sqlite) - Converts MySQL dump to SQLite3 compatible dump (4 days ago)
-- [wpelevator/wp-inspector-browser-extension](https://github.com/wpelevator/wp-inspector-browser-extension) -  (5 days ago)
+- [dumblob/mysql2sqlite](https://github.com/dumblob/mysql2sqlite) - Converts MySQL dump to SQLite3 compatible dump (5 days ago)
+- [wpelevator/wp-inspector-browser-extension](https://github.com/wpelevator/wp-inspector-browser-extension) -  (6 days ago)
 - [GoogleChromeLabs/wp-third-parties](https://github.com/GoogleChromeLabs/wp-third-parties) -  (1 week ago)
 - [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js (1 week ago)
 - [solidtime-io/self-hosting-examples](https://github.com/solidtime-io/self-hosting-examples) - Example self-hosting setups for solidtime (3 weeks ago)
