@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Swaminarayan-Gurukul/selfie](https://github.com/Swaminarayan-Gurukul/selfie) -  (1 day ago)
+- [Swaminarayan-Gurukul/selfie](https://github.com/Swaminarayan-Gurukul/selfie) -  (2 days ago)
 - [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (1 week ago)
 - [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (1 week ago)
-- [Shiksha-Skills-Institute/youtube-web-development-notes](https://github.com/Shiksha-Skills-Institute/youtube-web-development-notes) -  (1 week ago)
+- [Shiksha-Skills-Institute/youtube-web-development-notes](https://github.com/Shiksha-Skills-Institute/youtube-web-development-notes) -  (2 weeks ago)
 - [Shiksha-Skills-Institute/links](https://github.com/Shiksha-Skills-Institute/links) -  (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -40,7 +40,7 @@
 #### 📓 Gists I wrote
 
 - [How to Migrate website Database from Mysql to Sqlite or vice versa](https://gist.github.com/720f04a57721e24eb2af2b1112ec89c4) (1 month ago)
-- [How to fix Unix socket error in Docker in WSL2](https://gist.github.com/c3e90157b6aec1f19ae9462941412672) (7 months ago)
+- [How to fix Unix socket error in Docker in WSL2](https://gist.github.com/c3e90157b6aec1f19ae9462941412672) (8 months ago)
 - [Day to day customisation needed for code so making one plugin to reuse in every plugin ](https://gist.github.com/95880b458a6110bb9f4d8c588cb4f119) (1 year ago)
 - [Get permalink and title from the database WordPress](https://gist.github.com/d955fc9b1678f61b5839d306fa0ab55a) (1 year ago)
 - [Register callback for dynamic block from PHP](https://gist.github.com/c31889716cefaa9dec24a40e0beb086f) (1 year ago)
@@ -49,7 +49,7 @@
 
 - [dumblob/mysql2sqlite](https://github.com/dumblob/mysql2sqlite) - Converts MySQL dump to SQLite3 compatible dump (1 week ago)
 - [wpelevator/wp-inspector-browser-extension](https://github.com/wpelevator/wp-inspector-browser-extension) -  (1 week ago)
-- [GoogleChromeLabs/wp-third-parties](https://github.com/GoogleChromeLabs/wp-third-parties) -  (1 week ago)
+- [GoogleChromeLabs/wp-third-parties](https://github.com/GoogleChromeLabs/wp-third-parties) -  (2 weeks ago)
 - [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js (2 weeks ago)
 - [solidtime-io/self-hosting-examples](https://github.com/solidtime-io/self-hosting-examples) - Example self-hosting setups for solidtime (1 month ago)
 
