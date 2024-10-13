@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Swaminarayan-Gurukul/selfie](https://github.com/Swaminarayan-Gurukul/selfie) -  (3 days ago)
-- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (1 week ago)
+- [Swaminarayan-Gurukul/selfie](https://github.com/Swaminarayan-Gurukul/selfie) -  (4 days ago)
+- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (2 weeks ago)
 - [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (2 weeks ago)
 - [Shiksha-Skills-Institute/youtube-web-development-notes](https://github.com/Shiksha-Skills-Institute/youtube-web-development-notes) -  (2 weeks ago)
 - [Shiksha-Skills-Institute/links](https://github.com/Shiksha-Skills-Institute/links) -  (2 weeks ago)
@@ -47,11 +47,11 @@
 
 #### ⭐ Recent Stars
 
-- [Shashank-Jha/redis-lite](https://github.com/Shashank-Jha/redis-lite) - `RedisLite` is a basic implementation of simple, lightweight in-memory key-value store built in `Java`, inspired by Redis.  (today)
+- [Shashank-Jha/redis-lite](https://github.com/Shashank-Jha/redis-lite) - `RedisLite` is a basic implementation of simple, lightweight in-memory key-value store built in `Java`, inspired by Redis.  (1 day ago)
 - [dumblob/mysql2sqlite](https://github.com/dumblob/mysql2sqlite) - Converts MySQL dump to SQLite3 compatible dump (1 week ago)
-- [wpelevator/wp-inspector-browser-extension](https://github.com/wpelevator/wp-inspector-browser-extension) -  (1 week ago)
+- [wpelevator/wp-inspector-browser-extension](https://github.com/wpelevator/wp-inspector-browser-extension) -  (2 weeks ago)
 - [GoogleChromeLabs/wp-third-parties](https://github.com/GoogleChromeLabs/wp-third-parties) -  (2 weeks ago)
-- [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js (2 weeks ago)
+- [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
