@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Swaminarayan-Gurukul/selfie](https://github.com/Swaminarayan-Gurukul/selfie) -  (5 days ago)
+- [Swaminarayan-Gurukul/selfie](https://github.com/Swaminarayan-Gurukul/selfie) -  (6 days ago)
 - [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (2 weeks ago)
 - [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (2 weeks ago)
 - [Shiksha-Skills-Institute/youtube-web-development-notes](https://github.com/Shiksha-Skills-Institute/youtube-web-development-notes) -  (2 weeks ago)
-- [Shiksha-Skills-Institute/links](https://github.com/Shiksha-Skills-Institute/links) -  (2 weeks ago)
+- [Shiksha-Skills-Institute/links](https://github.com/Shiksha-Skills-Institute/links) -  (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -23,8 +23,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [REV](https://github.com/vanpariyar/vanpariyar.github.io/pull/31) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (3 weeks ago)
-- [Adde New Blog](https://github.com/vanpariyar/vanpariyar.github.io/pull/30) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (3 weeks ago)
+- [REV](https://github.com/vanpariyar/vanpariyar.github.io/pull/31) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (4 weeks ago)
+- [Adde New Blog](https://github.com/vanpariyar/vanpariyar.github.io/pull/30) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (4 weeks ago)
 - [Writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/29) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (1 month ago)
 - [Writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/28) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (1 month ago)
 - [Merge pull request #26 from vanpariyar/writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/27) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (1 month ago)
@@ -43,11 +43,11 @@
 - [How to fix Unix socket error in Docker in WSL2](https://gist.github.com/c3e90157b6aec1f19ae9462941412672) (8 months ago)
 - [Day to day customisation needed for code so making one plugin to reuse in every plugin ](https://gist.github.com/95880b458a6110bb9f4d8c588cb4f119) (1 year ago)
 - [Get permalink and title from the database WordPress](https://gist.github.com/d955fc9b1678f61b5839d306fa0ab55a) (1 year ago)
-- [Register callback for dynamic block from PHP](https://gist.github.com/c31889716cefaa9dec24a40e0beb086f) (1 year ago)
+- [Register callback for dynamic block from PHP](https://gist.github.com/c31889716cefaa9dec24a40e0beb086f) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [Shashank-Jha/redis-lite](https://github.com/Shashank-Jha/redis-lite) - `RedisLite` is a basic implementation of simple, lightweight in-memory key-value store built in `Java`, inspired by Redis.  (2 days ago)
+- [Shashank-Jha/redis-lite](https://github.com/Shashank-Jha/redis-lite) - `RedisLite` is a basic implementation of simple, lightweight in-memory key-value store built in `Java`, inspired by Redis.  (3 days ago)
 - [dumblob/mysql2sqlite](https://github.com/dumblob/mysql2sqlite) - Converts MySQL dump to SQLite3 compatible dump (2 weeks ago)
 - [wpelevator/wp-inspector-browser-extension](https://github.com/wpelevator/wp-inspector-browser-extension) -  (2 weeks ago)
 - [GoogleChromeLabs/wp-third-parties](https://github.com/GoogleChromeLabs/wp-third-parties) -  (2 weeks ago)
