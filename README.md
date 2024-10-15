@@ -58,11 +58,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [vivek-329](https://github.com/vivek-329)
 - [eust-w](https://github.com/eust-w)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [H4rshxs](https://github.com/H4rshxs)
 - [Pavanpatil326](https://github.com/Pavanpatil326)
-- [Charles-Chrismann](https://github.com/Charles-Chrismann)
 
 #### 💬 Feedback
 
