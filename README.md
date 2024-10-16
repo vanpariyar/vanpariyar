@@ -47,11 +47,11 @@
 
 #### ⭐ Recent Stars
 
+- [stefanpejcic/OpenPanel](https://github.com/stefanpejcic/OpenPanel) - OpenPanel is a powerful and flexible web hosting control panel for Linux systems. (today)
 - [Shashank-Jha/redis-lite](https://github.com/Shashank-Jha/redis-lite) - `RedisLite` is a basic implementation of simple, lightweight in-memory key-value store built in `Java`, inspired by Redis.  (4 days ago)
 - [dumblob/mysql2sqlite](https://github.com/dumblob/mysql2sqlite) - Converts MySQL dump to SQLite3 compatible dump (2 weeks ago)
 - [wpelevator/wp-inspector-browser-extension](https://github.com/wpelevator/wp-inspector-browser-extension) -  (2 weeks ago)
 - [GoogleChromeLabs/wp-third-parties](https://github.com/GoogleChromeLabs/wp-third-parties) -  (2 weeks ago)
-- [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
