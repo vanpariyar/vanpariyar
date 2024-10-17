@@ -23,8 +23,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [REV](https://github.com/vanpariyar/vanpariyar.github.io/pull/31) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (4 weeks ago)
-- [Adde New Blog](https://github.com/vanpariyar/vanpariyar.github.io/pull/30) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (4 weeks ago)
+- [REV](https://github.com/vanpariyar/vanpariyar.github.io/pull/31) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (1 month ago)
+- [Adde New Blog](https://github.com/vanpariyar/vanpariyar.github.io/pull/30) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (1 month ago)
 - [Writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/29) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (1 month ago)
 - [Writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/28) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (1 month ago)
 - [Merge pull request #26 from vanpariyar/writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/27) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (1 month ago)
@@ -47,8 +47,8 @@
 
 #### ⭐ Recent Stars
 
-- [stefanpejcic/OpenPanel](https://github.com/stefanpejcic/OpenPanel) - OpenPanel is the most customizable web hosting control panel. (today)
-- [Shashank-Jha/redis-lite](https://github.com/Shashank-Jha/redis-lite) - `RedisLite` is a basic implementation of simple, lightweight in-memory key-value store built in `Java`, inspired by Redis.  (4 days ago)
+- [stefanpejcic/OpenPanel](https://github.com/stefanpejcic/OpenPanel) - OpenPanel is the most customizable web hosting control panel. (1 day ago)
+- [Shashank-Jha/redis-lite](https://github.com/Shashank-Jha/redis-lite) - `RedisLite` is a basic implementation of simple, lightweight in-memory key-value store built in `Java`, inspired by Redis.  (5 days ago)
 - [dumblob/mysql2sqlite](https://github.com/dumblob/mysql2sqlite) - Converts MySQL dump to SQLite3 compatible dump (2 weeks ago)
 - [wpelevator/wp-inspector-browser-extension](https://github.com/wpelevator/wp-inspector-browser-extension) -  (2 weeks ago)
 - [GoogleChromeLabs/wp-third-parties](https://github.com/GoogleChromeLabs/wp-third-parties) -  (2 weeks ago)
@@ -58,11 +58,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [trinhminhtriet](https://github.com/trinhminhtriet)
 - [vivek-329](https://github.com/vivek-329)
 - [eust-w](https://github.com/eust-w)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [H4rshxs](https://github.com/H4rshxs)
-- [Pavanpatil326](https://github.com/Pavanpatil326)
 
 #### 💬 Feedback
 
