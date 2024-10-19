@@ -4,7 +4,7 @@
 
 - [Swaminarayan-Gurukul/selfie](https://github.com/Swaminarayan-Gurukul/selfie) -  (1 week ago)
 - [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (2 weeks ago)
-- [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (2 weeks ago)
+- [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (3 weeks ago)
 - [Shiksha-Skills-Institute/youtube-web-development-notes](https://github.com/Shiksha-Skills-Institute/youtube-web-development-notes) -  (3 weeks ago)
 - [Shiksha-Skills-Institute/links](https://github.com/Shiksha-Skills-Institute/links) -  (3 weeks ago)
 
@@ -39,7 +39,7 @@
 
 #### 📓 Gists I wrote
 
-- [How to Migrate website Database from Mysql to Sqlite or vice versa](https://gist.github.com/720f04a57721e24eb2af2b1112ec89c4) (1 month ago)
+- [How to Migrate website Database from Mysql to Sqlite or vice versa](https://gist.github.com/720f04a57721e24eb2af2b1112ec89c4) (2 months ago)
 - [How to fix Unix socket error in Docker in WSL2](https://gist.github.com/c3e90157b6aec1f19ae9462941412672) (8 months ago)
 - [Day to day customisation needed for code so making one plugin to reuse in every plugin ](https://gist.github.com/95880b458a6110bb9f4d8c588cb4f119) (1 year ago)
 - [Get permalink and title from the database WordPress](https://gist.github.com/d955fc9b1678f61b5839d306fa0ab55a) (1 year ago)
@@ -47,8 +47,8 @@
 
 #### ⭐ Recent Stars
 
-- [stefanpejcic/OpenPanel](https://github.com/stefanpejcic/OpenPanel) - OpenPanel is the most customizable web hosting control panel. (2 days ago)
-- [Shashank-Jha/redis-lite](https://github.com/Shashank-Jha/redis-lite) - `RedisLite` is a basic implementation of simple, lightweight in-memory key-value store built in `Java`, inspired by Redis.  (6 days ago)
+- [stefanpejcic/OpenPanel](https://github.com/stefanpejcic/OpenPanel) - OpenPanel is the most customizable web hosting control panel. (3 days ago)
+- [Shashank-Jha/redis-lite](https://github.com/Shashank-Jha/redis-lite) - `RedisLite` is a basic implementation of simple, lightweight in-memory key-value store built in `Java`, inspired by Redis.  (1 week ago)
 - [dumblob/mysql2sqlite](https://github.com/dumblob/mysql2sqlite) - Converts MySQL dump to SQLite3 compatible dump (2 weeks ago)
 - [wpelevator/wp-inspector-browser-extension](https://github.com/wpelevator/wp-inspector-browser-extension) -  (2 weeks ago)
 - [GoogleChromeLabs/wp-third-parties](https://github.com/GoogleChromeLabs/wp-third-parties) -  (3 weeks ago)
