@@ -58,11 +58,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [blocage](https://github.com/blocage)
 - [trinhminhtriet](https://github.com/trinhminhtriet)
 - [vivek-329](https://github.com/vivek-329)
 - [eust-w](https://github.com/eust-w)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
+- [H4rshxs](https://github.com/H4rshxs)
 
 #### 💬 Feedback
 
