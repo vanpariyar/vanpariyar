@@ -47,11 +47,11 @@
 
 #### ⭐ Recent Stars
 
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (today)
 - [frappe/press](https://github.com/frappe/press) - Full service cloud hosting for the Frappe stack - powers Frappe Cloud (2 days ago)
 - [stefanpejcic/OpenPanel](https://github.com/stefanpejcic/OpenPanel) - OpenPanel is the most customizable web hosting control panel. (6 days ago)
 - [Shashank-Jha/redis-lite](https://github.com/Shashank-Jha/redis-lite) - `RedisLite` is a basic implementation of simple, lightweight in-memory key-value store built in `Java`, inspired by Redis.  (1 week ago)
 - [dumblob/mysql2sqlite](https://github.com/dumblob/mysql2sqlite) - Converts MySQL dump to SQLite3 compatible dump (3 weeks ago)
-- [wpelevator/wp-inspector-browser-extension](https://github.com/wpelevator/wp-inspector-browser-extension) -  (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
