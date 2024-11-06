@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [vanpariyar/python-scripts](https://github.com/vanpariyar/python-scripts) - Here are my public scripts that i run every time to automating manual works (1 week ago)
-- [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) - Blog written in HUGO, deployed by GitHub pages and actions (1 week ago)
-- [Swaminarayan-Gurukul/selfie](https://github.com/Swaminarayan-Gurukul/selfie) -  (3 weeks ago)
+- [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) - Blog written in HUGO, deployed by GitHub pages and actions (2 weeks ago)
+- [Swaminarayan-Gurukul/selfie](https://github.com/Swaminarayan-Gurukul/selfie) -  (4 weeks ago)
 - [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (1 month ago)
 - [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (1 month ago)
 
@@ -23,7 +23,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/32) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (1 week ago)
+- [Writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/32) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (2 weeks ago)
 - [REV](https://github.com/vanpariyar/vanpariyar.github.io/pull/31) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (1 month ago)
 - [Adde New Blog](https://github.com/vanpariyar/vanpariyar.github.io/pull/30) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (1 month ago)
 - [Writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/29) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (1 month ago)
@@ -47,11 +47,11 @@
 
 #### ⭐ Recent Stars
 
-- [lonekorean/wordpress-export-to-markdown](https://github.com/lonekorean/wordpress-export-to-markdown) - Converts a WordPress export XML file into Markdown files. (2 days ago)
+- [lonekorean/wordpress-export-to-markdown](https://github.com/lonekorean/wordpress-export-to-markdown) - Converts a WordPress export XML file into Markdown files. (3 days ago)
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀 (1 week ago)
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (2 weeks ago)
 - [frappe/press](https://github.com/frappe/press) - Full service cloud hosting for the Frappe stack - powers Frappe Cloud (2 weeks ago)
-- [stefanpejcic/OpenPanel](https://github.com/stefanpejcic/OpenPanel) - OpenPanel is the most customizable web hosting control panel ✌️ (2 weeks ago)
+- [stefanpejcic/OpenPanel](https://github.com/stefanpejcic/OpenPanel) - OpenPanel is the most customizable web hosting control panel ✌️ (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
