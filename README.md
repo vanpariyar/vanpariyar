@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vanpariyar/chrome-extensions](https://github.com/vanpariyar/chrome-extensions) - This is the web vital chrome extension from the tutorial :- https://www.youtube.com/watch?v=8B8LUn6XEkA (today)
-- [vanpariyar/python-scripts](https://github.com/vanpariyar/python-scripts) - Here are my public scripts that i run every time to automating manual works (3 days ago)
+- [vanpariyar/chrome-extensions](https://github.com/vanpariyar/chrome-extensions) - This is the web vital chrome extension from the tutorial :- https://www.youtube.com/watch?v=8B8LUn6XEkA (1 day ago)
+- [vanpariyar/python-scripts](https://github.com/vanpariyar/python-scripts) - Here are my public scripts that i run every time to automating manual works (4 days ago)
 - [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) - Blog written in HUGO, deployed by GitHub pages and actions (1 month ago)
 - [Swaminarayan-Gurukul/selfie](https://github.com/Swaminarayan-Gurukul/selfie) -  (1 month ago)
 - [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (2 months ago)
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖 (6 days ago)
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖 (1 week ago)
 - [lonekorean/wordpress-export-to-markdown](https://github.com/lonekorean/wordpress-export-to-markdown) - Converts a WordPress export XML file into Markdown files. (3 weeks ago)
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀 (1 month ago)
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (1 month ago)
