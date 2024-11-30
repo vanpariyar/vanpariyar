@@ -59,10 +59,10 @@
 #### 👯 Check out some of my recent followers
 
 - [mustafacagri](https://github.com/mustafacagri)
-- [trinhminhtriet](https://github.com/trinhminhtriet)
 - [vivek-329](https://github.com/vivek-329)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [H4rshxs](https://github.com/H4rshxs)
+- [Pavanpatil326](https://github.com/Pavanpatil326)
 
 #### 💬 Feedback
 
