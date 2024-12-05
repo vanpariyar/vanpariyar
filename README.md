@@ -2,19 +2,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [vanpariyar/sahitya](https://github.com/vanpariyar/sahitya) -  (today)
 - [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) - This is the simple plugin that counts the views of the your wordpress website (5 days ago)
 - [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (5 days ago)
 - [vanpariyar/chrome-extensions](https://github.com/vanpariyar/chrome-extensions) - This is the web vital chrome extension from the tutorial :- https://www.youtube.com/watch?v=8B8LUn6XEkA (1 week ago)
 - [vanpariyar/python-scripts](https://github.com/vanpariyar/python-scripts) - Here are my public scripts that i run every time to automating manual works (1 week ago)
-- [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) - Blog written in HUGO, deployed by GitHub pages and actions (1 month ago)
 
 #### 🌱 My latest projects
 
+- [vanpariyar/sahitya](https://github.com/vanpariyar/sahitya) - 
 - [vanpariyar/seminar-ai-intro-and-game-development](https://github.com/vanpariyar/seminar-ai-intro-and-game-development) - 
 - [vanpariyar/dotfiles](https://github.com/vanpariyar/dotfiles) - My .files contains WorkFlow related files
 - [vanpariyar/python-scripts](https://github.com/vanpariyar/python-scripts) - Here are my public scripts that i run every time to automating manual works
 - [vanpariyar/learning-monorepo](https://github.com/vanpariyar/learning-monorepo) - Learning Mono Repository contains all my learning files
-- [vanpariyar/thoughts-daily-quotes](https://github.com/vanpariyar/thoughts-daily-quotes) - This is the website contains various quotes from the various authors and devotees
 
 #### 🔭 Latest releases I've contributed to
 
