@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vanpariyar/sahitya](https://github.com/vanpariyar/sahitya) -  (4 days ago)
+- [vanpariyar/sahitya](https://github.com/vanpariyar/sahitya) -  (5 days ago)
 - [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) - This is the simple plugin that counts the views of the your wordpress website (1 week ago)
 - [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (1 week ago)
 - [vanpariyar/chrome-extensions](https://github.com/vanpariyar/chrome-extensions) - This is the web vital chrome extension from the tutorial :- https://www.youtube.com/watch?v=8B8LUn6XEkA (1 week ago)
@@ -40,7 +40,7 @@
 #### 📓 Gists I wrote
 
 - [How to Migrate website Database from Mysql to Sqlite or vice versa](https://gist.github.com/720f04a57721e24eb2af2b1112ec89c4) (3 months ago)
-- [How to fix Unix socket error in Docker in WSL2](https://gist.github.com/c3e90157b6aec1f19ae9462941412672) (9 months ago)
+- [How to fix Unix socket error in Docker in WSL2](https://gist.github.com/c3e90157b6aec1f19ae9462941412672) (10 months ago)
 - [Day to day customisation needed for code so making one plugin to reuse in every plugin ](https://gist.github.com/95880b458a6110bb9f4d8c588cb4f119) (1 year ago)
 - [Get permalink and title from the database WordPress](https://gist.github.com/d955fc9b1678f61b5839d306fa0ab55a) (2 years ago)
 - [Register callback for dynamic block from PHP](https://gist.github.com/c31889716cefaa9dec24a40e0beb086f) (2 years ago)
