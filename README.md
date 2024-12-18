@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sahajananddigital/workflows](https://github.com/sahajananddigital/workflows) - Our Automated Workflow Files (today)
-- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) - This is the simple plugin that counts the views of the your wordpress website (1 day ago)
+- [sahajananddigital/workflows](https://github.com/sahajananddigital/workflows) - Our Automated Workflow Files (1 day ago)
+- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) - This is the simple plugin that counts the views of the your wordpress website (2 days ago)
 - [vanpariyar/sahitya](https://github.com/vanpariyar/sahitya) -  (1 week ago)
 - [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (2 weeks ago)
 - [vanpariyar/chrome-extensions](https://github.com/vanpariyar/chrome-extensions) - This is the web vital chrome extension from the tutorial :- https://www.youtube.com/watch?v=8B8LUn6XEkA (2 weeks ago)
@@ -18,13 +18,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.19](https://github.com/vanpariyar/wp-post-views/releases/tag/1.19), 1 day ago) - This is the simple plugin that counts the views of the your wordpress website
+- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.19](https://github.com/vanpariyar/wp-post-views/releases/tag/1.19), 2 days ago) - This is the simple plugin that counts the views of the your wordpress website
 - [sahajananddigital/selfie.sahajananddigital.in](https://github.com/sahajananddigital/selfie.sahajananddigital.in) ([0.0.1](https://github.com/sahajananddigital/selfie.sahajananddigital.in/releases/tag/0.0.1), 2 years ago) - Selfie Website - Get Link from the Readme
 
 #### 🔨 My recent Pull Requests
 
-- [Version Update](https://github.com/vanpariyar/wp-post-views/pull/41) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (1 day ago)
-- [Remove Home page check from Js](https://github.com/vanpariyar/wp-post-views/pull/40) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (1 day ago)
+- [Version Update](https://github.com/vanpariyar/wp-post-views/pull/41) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (2 days ago)
+- [Remove Home page check from Js](https://github.com/vanpariyar/wp-post-views/pull/40) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (2 days ago)
 - [Writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/32) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (1 month ago)
 - [REV](https://github.com/vanpariyar/vanpariyar.github.io/pull/31) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (3 months ago)
 - [Adde New Blog](https://github.com/vanpariyar/vanpariyar.github.io/pull/30) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (3 months ago)
@@ -39,7 +39,7 @@
 
 #### 📓 Gists I wrote
 
-- [How to Migrate website Database from Mysql to Sqlite or vice versa](https://gist.github.com/720f04a57721e24eb2af2b1112ec89c4) (3 months ago)
+- [How to Migrate website Database from Mysql to Sqlite or vice versa](https://gist.github.com/720f04a57721e24eb2af2b1112ec89c4) (4 months ago)
 - [How to fix Unix socket error in Docker in WSL2](https://gist.github.com/c3e90157b6aec1f19ae9462941412672) (10 months ago)
 - [Day to day customisation needed for code so making one plugin to reuse in every plugin ](https://gist.github.com/95880b458a6110bb9f4d8c588cb4f119) (1 year ago)
 - [Get permalink and title from the database WordPress](https://gist.github.com/d955fc9b1678f61b5839d306fa0ab55a) (2 years ago)
