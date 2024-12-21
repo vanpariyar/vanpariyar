@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) -  (2 days ago)
-- [sahajananddigital/workflows](https://github.com/sahajananddigital/workflows) - Our Automated Workflow Files (3 days ago)
-- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) - This is the simple plugin that counts the views of the your wordpress website (4 days ago)
+- [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) -  (3 days ago)
+- [sahajananddigital/workflows](https://github.com/sahajananddigital/workflows) - Our Automated Workflow Files (4 days ago)
+- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) - This is the simple plugin that counts the views of the your wordpress website (5 days ago)
 - [vanpariyar/sahitya](https://github.com/vanpariyar/sahitya) -  (2 weeks ago)
-- [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (2 weeks ago)
+- [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -18,13 +18,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.19](https://github.com/vanpariyar/wp-post-views/releases/tag/1.19), 4 days ago) - This is the simple plugin that counts the views of the your wordpress website
+- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.19](https://github.com/vanpariyar/wp-post-views/releases/tag/1.19), 5 days ago) - This is the simple plugin that counts the views of the your wordpress website
 - [sahajananddigital/selfie.sahajananddigital.in](https://github.com/sahajananddigital/selfie.sahajananddigital.in) ([0.0.1](https://github.com/sahajananddigital/selfie.sahajananddigital.in/releases/tag/0.0.1), 2 years ago) - Selfie Website - Get Link from the Readme
 
 #### 🔨 My recent Pull Requests
 
-- [Version Update](https://github.com/vanpariyar/wp-post-views/pull/41) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (4 days ago)
-- [Remove Home page check from Js](https://github.com/vanpariyar/wp-post-views/pull/40) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (4 days ago)
+- [Version Update](https://github.com/vanpariyar/wp-post-views/pull/41) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (5 days ago)
+- [Remove Home page check from Js](https://github.com/vanpariyar/wp-post-views/pull/40) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (5 days ago)
 - [Writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/32) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (1 month ago)
 - [REV](https://github.com/vanpariyar/vanpariyar.github.io/pull/31) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (3 months ago)
 - [Adde New Blog](https://github.com/vanpariyar/vanpariyar.github.io/pull/30) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (3 months ago)
@@ -50,7 +50,7 @@
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖 (4 weeks ago)
 - [lonekorean/wordpress-export-to-markdown](https://github.com/lonekorean/wordpress-export-to-markdown) - Converts a WordPress export XML file into Markdown files. (1 month ago)
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀 (1 month ago)
-- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (1 month ago)
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (2 months ago)
 - [frappe/press](https://github.com/frappe/press) - Full service cloud hosting for the Frappe stack - powers Frappe Cloud (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
