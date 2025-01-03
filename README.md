@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) -  (1 day ago)
-- [sahajananddigital/satsang-app](https://github.com/sahajananddigital/satsang-app) -  (2 days ago)
-- [vanpariyar/python-scripts](https://github.com/vanpariyar/python-scripts) - Here are my public scripts that i run every time to automating manual works (6 days ago)
+- [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) -  (2 days ago)
+- [sahajananddigital/satsang-app](https://github.com/sahajananddigital/satsang-app) -  (3 days ago)
+- [vanpariyar/python-scripts](https://github.com/vanpariyar/python-scripts) - Here are my public scripts that i run every time to automating manual works (1 week ago)
 - [Shiksha-Skills-Institute/robotics-course](https://github.com/Shiksha-Skills-Institute/robotics-course) -  (1 week ago)
 - [sahajananddigital/selfie.sahajananddigital.in](https://github.com/sahajananddigital/selfie.sahajananddigital.in) - Selfie Website - Get Link from the Readme (1 week ago)
 
@@ -34,7 +34,7 @@
 - [How to Self-Host WordPress Playground on GitHub Pages with a Custom Domain](https://vanpariyar.in/blog/how-to-self-host-wordpress-playground-on-github-pages-with-a-custom-domain/) (2 months ago)
 - [Getting Started with Gutenberg Editor Custom Block Development](https://vanpariyar.in/blog/how-to-start-with-gutenberg-editor-custom-block-development/) (3 months ago)
 - [Fetch Instagram Details](https://vanpariyar.in/blog/fetch-instagram-details/) (3 months ago)
-- [How to remove HTML tags from the REST API title and content in WordPress](https://vanpariyar.in/blog/how-to-remove-html-tags-from-the-rest-api-title-and-content-in-wordpress/) (3 months ago)
+- [How to remove HTML tags from the REST API title and content in WordPress](https://vanpariyar.in/blog/how-to-remove-html-tags-from-the-rest-api-title-and-content-in-wordpress/) (4 months ago)
 - [My 2023 Yearly Updates and Notes](https://vanpariyar.in/blog/my-2023-yearly-updates-and-notes/) (11 months ago)
 
 #### 📓 Gists I wrote
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [lukaszkus/react-native-music-app](https://github.com/lukaszkus/react-native-music-app) - The React Native mobile app that displays the top 100 albums based on the iTunes API. (2 days ago)
+- [lukaszkus/react-native-music-app](https://github.com/lukaszkus/react-native-music-app) - The React Native mobile app that displays the top 100 albums based on the iTunes API. (3 days ago)
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖 (1 month ago)
 - [lonekorean/wordpress-export-to-markdown](https://github.com/lonekorean/wordpress-export-to-markdown) - Converts a WordPress export XML file into Markdown files. (2 months ago)
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀 (2 months ago)
