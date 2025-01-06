@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) -  (1 day ago)
-- [sahajananddigital/satsang-app](https://github.com/sahajananddigital/satsang-app) -  (5 days ago)
+- [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) -  (2 days ago)
+- [sahajananddigital/satsang-app](https://github.com/sahajananddigital/satsang-app) -  (6 days ago)
 - [vanpariyar/python-scripts](https://github.com/vanpariyar/python-scripts) - Here are my public scripts that i run every time to automating manual works (1 week ago)
 - [Shiksha-Skills-Institute/robotics-course](https://github.com/Shiksha-Skills-Institute/robotics-course) -  (2 weeks ago)
 - [sahajananddigital/selfie.sahajananddigital.in](https://github.com/sahajananddigital/selfie.sahajananddigital.in) - Selfie Website - Get Link from the Readme (2 weeks ago)
@@ -18,13 +18,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.19](https://github.com/vanpariyar/wp-post-views/releases/tag/1.19), 2 weeks ago) - This is the simple plugin that counts the views of the your wordpress website
+- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.19](https://github.com/vanpariyar/wp-post-views/releases/tag/1.19), 3 weeks ago) - This is the simple plugin that counts the views of the your wordpress website
 - [sahajananddigital/selfie.sahajananddigital.in](https://github.com/sahajananddigital/selfie.sahajananddigital.in) ([0.0.1](https://github.com/sahajananddigital/selfie.sahajananddigital.in/releases/tag/0.0.1), 2 years ago) - Selfie Website - Get Link from the Readme
 
 #### 🔨 My recent Pull Requests
 
-- [Version Update](https://github.com/vanpariyar/wp-post-views/pull/41) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (2 weeks ago)
-- [Remove Home page check from Js](https://github.com/vanpariyar/wp-post-views/pull/40) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (2 weeks ago)
+- [Version Update](https://github.com/vanpariyar/wp-post-views/pull/41) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (3 weeks ago)
+- [Remove Home page check from Js](https://github.com/vanpariyar/wp-post-views/pull/40) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (3 weeks ago)
 - [Writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/32) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (2 months ago)
 - [REV](https://github.com/vanpariyar/vanpariyar.github.io/pull/31) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (3 months ago)
 - [Adde New Blog](https://github.com/vanpariyar/vanpariyar.github.io/pull/30) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (3 months ago)
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [lukaszkus/react-native-music-app](https://github.com/lukaszkus/react-native-music-app) - The React Native mobile app that displays the top 100 albums based on the iTunes API. (5 days ago)
+- [lukaszkus/react-native-music-app](https://github.com/lukaszkus/react-native-music-app) - The React Native mobile app that displays the top 100 albums based on the iTunes API. (6 days ago)
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖 (1 month ago)
 - [lonekorean/wordpress-export-to-markdown](https://github.com/lonekorean/wordpress-export-to-markdown) - Converts a WordPress export XML file into Markdown files. (2 months ago)
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀 (2 months ago)
