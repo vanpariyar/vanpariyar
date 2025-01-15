@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) -  (today)
 - [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (6 days ago)
 - [Shiksha-Skills-Institute/youtube-web-development-notes](https://github.com/Shiksha-Skills-Institute/youtube-web-development-notes) -  (1 week ago)
 - [sahajananddigital/workflows](https://github.com/sahajananddigital/workflows) - Our Automated Workflow Files (1 week ago)
-- [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) -  (1 week ago)
 - [sahajananddigital/satsang-app](https://github.com/sahajananddigital/satsang-app) -  (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -23,11 +23,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added New site for Mahila san](https://github.com/sahajananddigital/photo-frame-react/pull/2) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (today)
 - [Version Update](https://github.com/vanpariyar/wp-post-views/pull/41) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (1 month ago)
 - [Remove Home page check from Js](https://github.com/vanpariyar/wp-post-views/pull/40) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (1 month ago)
 - [Writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/32) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (2 months ago)
 - [REV](https://github.com/vanpariyar/vanpariyar.github.io/pull/31) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (4 months ago)
-- [Adde New Blog](https://github.com/vanpariyar/vanpariyar.github.io/pull/30) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (4 months ago)
 
 #### 📜 My recent blog posts
 
