@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (5 days ago)
-- [Shiksha-Skills-Institute/youtube-web-development-notes](https://github.com/Shiksha-Skills-Institute/youtube-web-development-notes) -  (6 days ago)
+- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (6 days ago)
+- [Shiksha-Skills-Institute/youtube-web-development-notes](https://github.com/Shiksha-Skills-Institute/youtube-web-development-notes) -  (1 week ago)
 - [sahajananddigital/workflows](https://github.com/sahajananddigital/workflows) - Our Automated Workflow Files (1 week ago)
 - [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) -  (1 week ago)
 - [sahajananddigital/satsang-app](https://github.com/sahajananddigital/satsang-app) -  (2 weeks ago)
@@ -18,16 +18,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.19](https://github.com/vanpariyar/wp-post-views/releases/tag/1.19), 4 weeks ago) - This is the simple plugin that counts the views of the your wordpress website
+- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.19](https://github.com/vanpariyar/wp-post-views/releases/tag/1.19), 1 month ago) - This is the simple plugin that counts the views of the your wordpress website
 - [sahajananddigital/selfie.sahajananddigital.in](https://github.com/sahajananddigital/selfie.sahajananddigital.in) ([0.0.1](https://github.com/sahajananddigital/selfie.sahajananddigital.in/releases/tag/0.0.1), 2 years ago) - Selfie Website - Get Link from the Readme
 
 #### 🔨 My recent Pull Requests
 
-- [Version Update](https://github.com/vanpariyar/wp-post-views/pull/41) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (4 weeks ago)
-- [Remove Home page check from Js](https://github.com/vanpariyar/wp-post-views/pull/40) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (4 weeks ago)
+- [Version Update](https://github.com/vanpariyar/wp-post-views/pull/41) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (1 month ago)
+- [Remove Home page check from Js](https://github.com/vanpariyar/wp-post-views/pull/40) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (1 month ago)
 - [Writing](https://github.com/vanpariyar/vanpariyar.github.io/pull/32) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (2 months ago)
-- [REV](https://github.com/vanpariyar/vanpariyar.github.io/pull/31) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (3 months ago)
-- [Adde New Blog](https://github.com/vanpariyar/vanpariyar.github.io/pull/30) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (3 months ago)
+- [REV](https://github.com/vanpariyar/vanpariyar.github.io/pull/31) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (4 months ago)
+- [Adde New Blog](https://github.com/vanpariyar/vanpariyar.github.io/pull/30) on [vanpariyar/vanpariyar.github.io](https://github.com/vanpariyar/vanpariyar.github.io) (4 months ago)
 
 #### 📜 My recent blog posts
 
