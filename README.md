@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) -  (1 day ago)
-- [sahajananddigital/workflows](https://github.com/sahajananddigital/workflows) - Our Automated Workflow Files (2 days ago)
+- [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) -  (2 days ago)
+- [sahajananddigital/workflows](https://github.com/sahajananddigital/workflows) - Our Automated Workflow Files (3 days ago)
 - [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (1 week ago)
 - [Shiksha-Skills-Institute/youtube-web-development-notes](https://github.com/Shiksha-Skills-Institute/youtube-web-development-notes) -  (1 week ago)
 - [sahajananddigital/satsang-app](https://github.com/sahajananddigital/satsang-app) -  (2 weeks ago)
@@ -23,11 +23,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [added text size](https://github.com/sahajananddigital/photo-frame-react/pull/6) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (1 day ago)
-- [Added Font](https://github.com/sahajananddigital/photo-frame-react/pull/5) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (4 days ago)
-- [Setup New URL](https://github.com/sahajananddigital/photo-frame-react/pull/4) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (4 days ago)
-- [Update deploy.yml](https://github.com/sahajananddigital/photo-frame-react/pull/3) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (4 days ago)
-- [Added New site for Mahila san](https://github.com/sahajananddigital/photo-frame-react/pull/2) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (4 days ago)
+- [added text size](https://github.com/sahajananddigital/photo-frame-react/pull/6) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (2 days ago)
+- [Added Font](https://github.com/sahajananddigital/photo-frame-react/pull/5) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (5 days ago)
+- [Setup New URL](https://github.com/sahajananddigital/photo-frame-react/pull/4) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (5 days ago)
+- [Update deploy.yml](https://github.com/sahajananddigital/photo-frame-react/pull/3) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (5 days ago)
+- [Added New site for Mahila san](https://github.com/sahajananddigital/photo-frame-react/pull/2) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -51,7 +51,7 @@
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖 (1 month ago)
 - [lonekorean/wordpress-export-to-markdown](https://github.com/lonekorean/wordpress-export-to-markdown) - Converts a WordPress export XML file into Markdown files. (2 months ago)
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀 (2 months ago)
-- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (2 months ago)
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
