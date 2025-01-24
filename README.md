@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (1 day ago)
-- [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) -  (5 days ago)
-- [sahajananddigital/workflows](https://github.com/sahajananddigital/workflows) - Our Automated Workflow Files (6 days ago)
+- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (2 days ago)
+- [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) -  (6 days ago)
+- [sahajananddigital/workflows](https://github.com/sahajananddigital/workflows) - Our Automated Workflow Files (1 week ago)
 - [Shiksha-Skills-Institute/youtube-web-development-notes](https://github.com/Shiksha-Skills-Institute/youtube-web-development-notes) -  (2 weeks ago)
 - [sahajananddigital/satsang-app](https://github.com/sahajananddigital/satsang-app) -  (3 weeks ago)
 
@@ -23,7 +23,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [added text size](https://github.com/sahajananddigital/photo-frame-react/pull/6) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (5 days ago)
+- [added text size](https://github.com/sahajananddigital/photo-frame-react/pull/6) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (6 days ago)
 - [Added Font](https://github.com/sahajananddigital/photo-frame-react/pull/5) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (1 week ago)
 - [Setup New URL](https://github.com/sahajananddigital/photo-frame-react/pull/4) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (1 week ago)
 - [Update deploy.yml](https://github.com/sahajananddigital/photo-frame-react/pull/3) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (1 week ago)
@@ -47,8 +47,8 @@
 
 #### ⭐ Recent Stars
 
-- [upnrunnHQ/wp-schema](https://github.com/upnrunnHQ/wp-schema) - WP Schema: Register different Models in WordPress Database (WIP) (today)
-- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. (2 days ago)
+- [upnrunnHQ/wp-schema](https://github.com/upnrunnHQ/wp-schema) - WP Schema: Register different Models in WordPress Database (WIP) (1 day ago)
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. (3 days ago)
 - [lukaszkus/react-native-music-app](https://github.com/lukaszkus/react-native-music-app) - The React Native mobile app that displays the top 100 albums based on the iTunes API. (3 weeks ago)
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖 (2 months ago)
 - [lonekorean/wordpress-export-to-markdown](https://github.com/lonekorean/wordpress-export-to-markdown) - Converts a WordPress export XML file into Markdown files. (2 months ago)
