@@ -2,19 +2,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [vanpariyar/python-learning](https://github.com/vanpariyar/python-learning) -  (today)
 - [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (5 days ago)
 - [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) -  (1 week ago)
 - [sahajananddigital/workflows](https://github.com/sahajananddigital/workflows) - Our Automated Workflow Files (1 week ago)
 - [Shiksha-Skills-Institute/youtube-web-development-notes](https://github.com/Shiksha-Skills-Institute/youtube-web-development-notes) -  (2 weeks ago)
-- [sahajananddigital/satsang-app](https://github.com/sahajananddigital/satsang-app) -  (3 weeks ago)
 
 #### 🌱 My latest projects
 
+- [vanpariyar/python-learning](https://github.com/vanpariyar/python-learning) - 
 - [vanpariyar/sahitya](https://github.com/vanpariyar/sahitya) - 
 - [vanpariyar/seminar-ai-intro-and-game-development](https://github.com/vanpariyar/seminar-ai-intro-and-game-development) - 
 - [vanpariyar/dotfiles](https://github.com/vanpariyar/dotfiles) - My .files contains WorkFlow related files
 - [vanpariyar/python-scripts](https://github.com/vanpariyar/python-scripts) - Here are my public scripts that i run every time to automating manual works
-- [vanpariyar/learning-monorepo](https://github.com/vanpariyar/learning-monorepo) - Learning Mono Repository contains all my learning files
 
 #### 🔭 Latest releases I've contributed to
 
