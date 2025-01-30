@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (today)
-- [vanpariyar/python-learning](https://github.com/vanpariyar/python-learning) -  (2 days ago)
+- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (1 day ago)
+- [vanpariyar/python-learning](https://github.com/vanpariyar/python-learning) -  (3 days ago)
 - [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) -  (1 week ago)
 - [sahajananddigital/workflows](https://github.com/sahajananddigital/workflows) - Our Automated Workflow Files (1 week ago)
 - [Shiksha-Skills-Institute/youtube-web-development-notes](https://github.com/Shiksha-Skills-Institute/youtube-web-development-notes) -  (3 weeks ago)
@@ -47,9 +47,9 @@
 
 #### ⭐ Recent Stars
 
-- [upnrunnHQ/wp-schema](https://github.com/upnrunnHQ/wp-schema) - WP Schema: Register different Models in WordPress Database (WIP) (6 days ago)
+- [upnrunnHQ/wp-schema](https://github.com/upnrunnHQ/wp-schema) - WP Schema: Register different Models in WordPress Database (WIP) (1 week ago)
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. (1 week ago)
-- [lukaszkus/react-native-music-app](https://github.com/lukaszkus/react-native-music-app) - The React Native mobile app that displays the top 100 albums based on the iTunes API. (4 weeks ago)
+- [lukaszkus/react-native-music-app](https://github.com/lukaszkus/react-native-music-app) - The React Native mobile app that displays the top 100 albums based on the iTunes API. (1 month ago)
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖 (2 months ago)
 - [lonekorean/wordpress-export-to-markdown](https://github.com/lonekorean/wordpress-export-to-markdown) - Converts a WordPress export XML file into Markdown files. (2 months ago)
 
