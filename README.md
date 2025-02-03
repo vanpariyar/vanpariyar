@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sahajananddigital/smart-attendance](https://github.com/sahajananddigital/smart-attendance) -  (2 days ago)
-- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (3 days ago)
-- [vanpariyar/python-learning](https://github.com/vanpariyar/python-learning) -  (6 days ago)
+- [sahajananddigital/smart-attendance](https://github.com/sahajananddigital/smart-attendance) -  (3 days ago)
+- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (4 days ago)
+- [vanpariyar/python-learning](https://github.com/vanpariyar/python-learning) -  (1 week ago)
 - [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) -  (2 weeks ago)
 - [sahajananddigital/workflows](https://github.com/sahajananddigital/workflows) - Our Automated Workflow Files (2 weeks ago)
 
