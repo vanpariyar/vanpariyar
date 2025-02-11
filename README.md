@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Shiksha-Skills-Institute/DSA-and-Algorithm](https://github.com/Shiksha-Skills-Institute/DSA-and-Algorithm) -  (today)
-- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (4 days ago)
-- [sahajananddigital/csv-to-labels](https://github.com/sahajananddigital/csv-to-labels) -  (6 days ago)
+- [Shiksha-Skills-Institute/DSA-and-Algorithm](https://github.com/Shiksha-Skills-Institute/DSA-and-Algorithm) -  (1 day ago)
+- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (5 days ago)
+- [sahajananddigital/csv-to-labels](https://github.com/sahajananddigital/csv-to-labels) -  (1 week ago)
 - [sahajananddigital/smart-attendance](https://github.com/sahajananddigital/smart-attendance) -  (1 week ago)
 - [vanpariyar/python-learning](https://github.com/vanpariyar/python-learning) -  (2 weeks ago)
 
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.20](https://github.com/vanpariyar/wp-post-views/releases/tag/1.20), 6 days ago) - This is the simple plugin that counts the views of the your wordpress website
+- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.20](https://github.com/vanpariyar/wp-post-views/releases/tag/1.20), 1 week ago) - This is the simple plugin that counts the views of the your wordpress website
 - [sahajananddigital/selfie.sahajananddigital.in](https://github.com/sahajananddigital/selfie.sahajananddigital.in) ([0.0.1](https://github.com/sahajananddigital/selfie.sahajananddigital.in/releases/tag/0.0.1), 2 years ago) - Selfie Website - Get Link from the Readme
 
 #### 🔨 My recent Pull Requests
@@ -47,9 +47,9 @@
 
 #### ⭐ Recent Stars
 
-- [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing (5 days ago)
+- [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing (6 days ago)
 - [upnrunnHQ/wp-schema](https://github.com/upnrunnHQ/wp-schema) - WP Schema: Register different Models in WordPress Database (WIP) (2 weeks ago)
-- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. (2 weeks ago)
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. (3 weeks ago)
 - [lukaszkus/react-native-music-app](https://github.com/lukaszkus/react-native-music-app) - The React Native mobile app that displays the top 100 albums based on the iTunes API. (1 month ago)
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖 (2 months ago)
 
