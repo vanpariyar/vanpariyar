@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Shiksha-Skills-Institute/Live-Workshops](https://github.com/Shiksha-Skills-Institute/Live-Workshops) -  (today)
-- [Shiksha-Skills-Institute/DSA-and-Algorithm](https://github.com/Shiksha-Skills-Institute/DSA-and-Algorithm) -  (1 day ago)
-- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (5 days ago)
+- [Shiksha-Skills-Institute/Live-Workshops](https://github.com/Shiksha-Skills-Institute/Live-Workshops) -  (1 day ago)
+- [Shiksha-Skills-Institute/DSA-and-Algorithm](https://github.com/Shiksha-Skills-Institute/DSA-and-Algorithm) -  (2 days ago)
+- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (6 days ago)
 - [sahajananddigital/csv-to-labels](https://github.com/sahajananddigital/csv-to-labels) -  (1 week ago)
 - [sahajananddigital/smart-attendance](https://github.com/sahajananddigital/smart-attendance) -  (1 week ago)
 
@@ -24,10 +24,10 @@
 #### 🔨 My recent Pull Requests
 
 - [added text size](https://github.com/sahajananddigital/photo-frame-react/pull/6) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (3 weeks ago)
-- [Added Font](https://github.com/sahajananddigital/photo-frame-react/pull/5) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (3 weeks ago)
-- [Setup New URL](https://github.com/sahajananddigital/photo-frame-react/pull/4) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (3 weeks ago)
-- [Update deploy.yml](https://github.com/sahajananddigital/photo-frame-react/pull/3) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (3 weeks ago)
-- [Added New site for Mahila san](https://github.com/sahajananddigital/photo-frame-react/pull/2) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (3 weeks ago)
+- [Added Font](https://github.com/sahajananddigital/photo-frame-react/pull/5) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (4 weeks ago)
+- [Setup New URL](https://github.com/sahajananddigital/photo-frame-react/pull/4) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (4 weeks ago)
+- [Update deploy.yml](https://github.com/sahajananddigital/photo-frame-react/pull/3) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (4 weeks ago)
+- [Added New site for Mahila san](https://github.com/sahajananddigital/photo-frame-react/pull/2) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing (6 days ago)
+- [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing (1 week ago)
 - [upnrunnHQ/wp-schema](https://github.com/upnrunnHQ/wp-schema) - WP Schema: Register different Models in WordPress Database (WIP) (2 weeks ago)
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. (3 weeks ago)
 - [lukaszkus/react-native-music-app](https://github.com/lukaszkus/react-native-music-app) - The React Native mobile app that displays the top 100 albums based on the iTunes API. (1 month ago)
