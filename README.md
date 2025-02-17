@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (3 days ago)
+- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (today)
 - [Shiksha-Skills-Institute/Live-Workshops](https://github.com/Shiksha-Skills-Institute/Live-Workshops) -  (6 days ago)
 - [Shiksha-Skills-Institute/DSA-and-Algorithm](https://github.com/Shiksha-Skills-Institute/DSA-and-Algorithm) -  (1 week ago)
 - [sahajananddigital/csv-to-labels](https://github.com/sahajananddigital/csv-to-labels) -  (1 week ago)
