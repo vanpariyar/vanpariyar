@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (today)
-- [Shiksha-Skills-Institute/Live-Workshops](https://github.com/Shiksha-Skills-Institute/Live-Workshops) -  (1 week ago)
+- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (1 day ago)
+- [Shiksha-Skills-Institute/Live-Workshops](https://github.com/Shiksha-Skills-Institute/Live-Workshops) -  (2 weeks ago)
 - [Shiksha-Skills-Institute/DSA-and-Algorithm](https://github.com/Shiksha-Skills-Institute/DSA-and-Algorithm) -  (2 weeks ago)
-- [sahajananddigital/csv-to-labels](https://github.com/sahajananddigital/csv-to-labels) -  (2 weeks ago)
+- [sahajananddigital/csv-to-labels](https://github.com/sahajananddigital/csv-to-labels) -  (3 weeks ago)
 - [sahajananddigital/smart-attendance](https://github.com/sahajananddigital/smart-attendance) -  (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.20](https://github.com/vanpariyar/wp-post-views/releases/tag/1.20), 2 weeks ago) - This is the simple plugin that counts the views of the your wordpress website
+- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.20](https://github.com/vanpariyar/wp-post-views/releases/tag/1.20), 3 weeks ago) - This is the simple plugin that counts the views of the your wordpress website
 - [sahajananddigital/selfie.sahajananddigital.in](https://github.com/sahajananddigital/selfie.sahajananddigital.in) ([0.0.1](https://github.com/sahajananddigital/selfie.sahajananddigital.in/releases/tag/0.0.1), 2 years ago) - Selfie Website - Get Link from the Readme
 
 #### 🔨 My recent Pull Requests
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. (4 days ago)
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. (5 days ago)
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing (2 weeks ago)
 - [upnrunnHQ/wp-schema](https://github.com/upnrunnHQ/wp-schema) - WP Schema: Register different Models in WordPress Database (WIP) (1 month ago)
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. (1 month ago)
