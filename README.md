@@ -47,11 +47,11 @@
 
 #### ⭐ Recent Stars
 
+- [labnol/mailman](https://github.com/labnol/mailman) - MailMan - Send Email with Google Sheets and Gmail (today)
 - [jwala-anirudh/chai-aur-code-cohort](https://github.com/jwala-anirudh/chai-aur-code-cohort) - Code files lesson wise (1 week ago)
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. (2 weeks ago)
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing (1 month ago)
 - [upnrunnHQ/wp-schema](https://github.com/upnrunnHQ/wp-schema) - WP Schema: Register different Models in WordPress Database (WIP) (1 month ago)
-- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
