@@ -47,11 +47,11 @@
 
 #### ⭐ Recent Stars
 
+- [StarKnightt/wallpaperz](https://github.com/StarKnightt/wallpaperz) - A modern, open-source wallpaper discovery and sharing platform built with Next.js, with ai image generation (today)
 - [wpsocio/wp-projects](https://github.com/wpsocio/wp-projects) - The development monorepo for our WordPress plugins. (1 day ago)
 - [labnol/mailman](https://github.com/labnol/mailman) - MailMan - Send Email with Google Sheets and Gmail (1 day ago)
 - [jwala-anirudh/chai-aur-code-cohort](https://github.com/jwala-anirudh/chai-aur-code-cohort) - Code files lesson wise (1 week ago)
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. (2 weeks ago)
-- [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
