@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) -  (today)
-- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (5 days ago)
+- [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) -  (1 day ago)
+- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (6 days ago)
 - [sahajananddigital/docker-setups](https://github.com/sahajananddigital/docker-setups) -  (1 week ago)
 - [sahajananddigital/classp-google-apps-script-setup](https://github.com/sahajananddigital/classp-google-apps-script-setup) -  (1 week ago)
 - [Shiksha-Skills-Institute/Live-Workshops](https://github.com/Shiksha-Skills-Institute/Live-Workshops) -  (4 weeks ago)
@@ -47,8 +47,8 @@
 
 #### ⭐ Recent Stars
 
-- [wpsocio/wp-projects](https://github.com/wpsocio/wp-projects) - The development monorepo for our WordPress plugins. (today)
-- [labnol/mailman](https://github.com/labnol/mailman) - MailMan - Send Email with Google Sheets and Gmail (today)
+- [wpsocio/wp-projects](https://github.com/wpsocio/wp-projects) - The development monorepo for our WordPress plugins. (1 day ago)
+- [labnol/mailman](https://github.com/labnol/mailman) - MailMan - Send Email with Google Sheets and Gmail (1 day ago)
 - [jwala-anirudh/chai-aur-code-cohort](https://github.com/jwala-anirudh/chai-aur-code-cohort) - Code files lesson wise (1 week ago)
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. (2 weeks ago)
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing (1 month ago)
