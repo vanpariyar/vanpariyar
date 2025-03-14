@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vanpariyar/links](https://github.com/vanpariyar/links) -  (today)
-- [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) -  (1 day ago)
+- [vanpariyar/links](https://github.com/vanpariyar/links) -  (1 day ago)
+- [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) -  (2 days ago)
 - [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (1 week ago)
 - [sahajananddigital/docker-setups](https://github.com/sahajananddigital/docker-setups) -  (1 week ago)
 - [sahajananddigital/classp-google-apps-script-setup](https://github.com/sahajananddigital/classp-google-apps-script-setup) -  (1 week ago)
@@ -47,9 +47,9 @@
 
 #### ⭐ Recent Stars
 
-- [StarKnightt/wallpaperz](https://github.com/StarKnightt/wallpaperz) - A modern, open-source wallpaper discovery and sharing platform built with Next.js, with ai image generation (1 day ago)
-- [wpsocio/wp-projects](https://github.com/wpsocio/wp-projects) - The development monorepo for our WordPress plugins. (2 days ago)
-- [labnol/mailman](https://github.com/labnol/mailman) - MailMan - Send Email with Google Sheets and Gmail (2 days ago)
+- [StarKnightt/wallpaperz](https://github.com/StarKnightt/wallpaperz) - A modern, open-source wallpaper discovery and sharing platform built with Next.js, with ai image generation (2 days ago)
+- [wpsocio/wp-projects](https://github.com/wpsocio/wp-projects) - The development monorepo for our WordPress plugins. (3 days ago)
+- [labnol/mailman](https://github.com/labnol/mailman) - MailMan - Send Email with Google Sheets and Gmail (3 days ago)
 - [jwala-anirudh/chai-aur-code-cohort](https://github.com/jwala-anirudh/chai-aur-code-cohort) - Code files lesson wise (1 week ago)
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. (3 weeks ago)
 
@@ -58,11 +58,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [AI4Networking](https://github.com/AI4Networking)
 - [chipnertkj](https://github.com/chipnertkj)
 - [trinhminhtriet](https://github.com/trinhminhtriet)
 - [Nisarg266](https://github.com/Nisarg266)
 - [Asib177](https://github.com/Asib177)
-- [mustafacagri](https://github.com/mustafacagri)
 
 #### 💬 Feedback
 
