@@ -47,11 +47,11 @@
 
 #### ⭐ Recent Stars
 
+- [aurooba/cpt](https://github.com/aurooba/cpt) - Quickly register custom post types and associated taxonomies with intelligent defaults in your WordPress projects. (today)
 - [StarKnightt/wallpaperz](https://github.com/StarKnightt/wallpaperz) - A modern, open-source wallpaper discovery and sharing platform built with Next.js, with ai image generation (2 days ago)
 - [wpsocio/wp-projects](https://github.com/wpsocio/wp-projects) - The development monorepo for our WordPress plugins. (3 days ago)
 - [labnol/mailman](https://github.com/labnol/mailman) - MailMan - Send Email with Google Sheets and Gmail (3 days ago)
 - [jwala-anirudh/chai-aur-code-cohort](https://github.com/jwala-anirudh/chai-aur-code-cohort) - Code files lesson wise (1 week ago)
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
