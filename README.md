@@ -2,19 +2,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [vanpariyar/frappe-learning](https://github.com/vanpariyar/frappe-learning) -  (today)
 - [vanpariyar/links](https://github.com/vanpariyar/links) -  (2 days ago)
 - [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) -  (3 days ago)
 - [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (1 week ago)
 - [sahajananddigital/docker-setups](https://github.com/sahajananddigital/docker-setups) -  (1 week ago)
-- [sahajananddigital/classp-google-apps-script-setup](https://github.com/sahajananddigital/classp-google-apps-script-setup) -  (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [vanpariyar/frappe-learning](https://github.com/vanpariyar/frappe-learning) - 
 - [vanpariyar/python-learning](https://github.com/vanpariyar/python-learning) - 
 - [vanpariyar/sahitya](https://github.com/vanpariyar/sahitya) - 
 - [vanpariyar/seminar-ai-intro-and-game-development](https://github.com/vanpariyar/seminar-ai-intro-and-game-development) - 
 - [vanpariyar/dotfiles](https://github.com/vanpariyar/dotfiles) - My .files contains WorkFlow related files
-- [vanpariyar/python-scripts](https://github.com/vanpariyar/python-scripts) - Here are my public scripts that i run every time to automating manual works
 
 #### 🔭 Latest releases I've contributed to
 
