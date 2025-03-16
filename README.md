@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vanpariyar/frappe-learning](https://github.com/vanpariyar/frappe-learning) -  (today)
-- [vanpariyar/links](https://github.com/vanpariyar/links) -  (2 days ago)
-- [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) -  (3 days ago)
+- [vanpariyar/frappe-learning](https://github.com/vanpariyar/frappe-learning) -  (1 day ago)
+- [vanpariyar/links](https://github.com/vanpariyar/links) -  (3 days ago)
+- [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) -  (4 days ago)
 - [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (1 week ago)
 - [sahajananddigital/docker-setups](https://github.com/sahajananddigital/docker-setups) -  (1 week ago)
 
@@ -24,10 +24,10 @@
 #### 🔨 My recent Pull Requests
 
 - [added text size](https://github.com/sahajananddigital/photo-frame-react/pull/6) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (1 month ago)
-- [Added Font](https://github.com/sahajananddigital/photo-frame-react/pull/5) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (1 month ago)
-- [Setup New URL](https://github.com/sahajananddigital/photo-frame-react/pull/4) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (1 month ago)
-- [Update deploy.yml](https://github.com/sahajananddigital/photo-frame-react/pull/3) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (1 month ago)
-- [Added New site for Mahila san](https://github.com/sahajananddigital/photo-frame-react/pull/2) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (1 month ago)
+- [Added Font](https://github.com/sahajananddigital/photo-frame-react/pull/5) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (2 months ago)
+- [Setup New URL](https://github.com/sahajananddigital/photo-frame-react/pull/4) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (2 months ago)
+- [Update deploy.yml](https://github.com/sahajananddigital/photo-frame-react/pull/3) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (2 months ago)
+- [Added New site for Mahila san](https://github.com/sahajananddigital/photo-frame-react/pull/2) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (2 months ago)
 
 #### 📜 My recent blog posts
 
@@ -47,11 +47,11 @@
 
 #### ⭐ Recent Stars
 
-- [phppot/basis](https://github.com/phppot/basis) - A PHP model application to learn Model View Controller (MVC) architecture and its implementation in PHP.  (1 day ago)
-- [aurooba/cpt](https://github.com/aurooba/cpt) - Quickly register custom post types and associated taxonomies with intelligent defaults in your WordPress projects. (1 day ago)
-- [StarKnightt/wallpaperz](https://github.com/StarKnightt/wallpaperz) - A modern, open-source wallpaper discovery and sharing platform built with Next.js, with ai image generation (3 days ago)
-- [wpsocio/wp-projects](https://github.com/wpsocio/wp-projects) - The development monorepo for our WordPress plugins. (4 days ago)
-- [labnol/mailman](https://github.com/labnol/mailman) - MailMan - Send Email with Google Sheets and Gmail (4 days ago)
+- [phppot/basis](https://github.com/phppot/basis) - A PHP model application to learn Model View Controller (MVC) architecture and its implementation in PHP.  (2 days ago)
+- [aurooba/cpt](https://github.com/aurooba/cpt) - Quickly register custom post types and associated taxonomies with intelligent defaults in your WordPress projects. (2 days ago)
+- [StarKnightt/wallpaperz](https://github.com/StarKnightt/wallpaperz) - A modern, open-source wallpaper discovery and sharing platform built with Next.js, with ai image generation (4 days ago)
+- [wpsocio/wp-projects](https://github.com/wpsocio/wp-projects) - The development monorepo for our WordPress plugins. (5 days ago)
+- [labnol/mailman](https://github.com/labnol/mailman) - MailMan - Send Email with Google Sheets and Gmail (5 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
