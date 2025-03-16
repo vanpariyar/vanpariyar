@@ -47,11 +47,11 @@
 
 #### ⭐ Recent Stars
 
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) -  (today)
 - [phppot/basis](https://github.com/phppot/basis) - A PHP model application to learn Model View Controller (MVC) architecture and its implementation in PHP.  (2 days ago)
 - [aurooba/cpt](https://github.com/aurooba/cpt) - Quickly register custom post types and associated taxonomies with intelligent defaults in your WordPress projects. (2 days ago)
 - [StarKnightt/wallpaperz](https://github.com/StarKnightt/wallpaperz) - A modern, open-source wallpaper discovery and sharing platform built with Next.js, with ai image generation (4 days ago)
 - [wpsocio/wp-projects](https://github.com/wpsocio/wp-projects) - The development monorepo for our WordPress plugins. (5 days ago)
-- [labnol/mailman](https://github.com/labnol/mailman) - MailMan - Send Email with Google Sheets and Gmail (5 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
