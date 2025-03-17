@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sahajananddigital/csv-to-labels](https://github.com/sahajananddigital/csv-to-labels) -  (today)
-- [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) -  (today)
-- [vanpariyar/frappe-learning](https://github.com/vanpariyar/frappe-learning) -  (1 day ago)
-- [vanpariyar/links](https://github.com/vanpariyar/links) -  (3 days ago)
+- [sahajananddigital/csv-to-labels](https://github.com/sahajananddigital/csv-to-labels) -  (1 day ago)
+- [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) -  (1 day ago)
+- [vanpariyar/frappe-learning](https://github.com/vanpariyar/frappe-learning) -  (2 days ago)
+- [vanpariyar/links](https://github.com/vanpariyar/links) -  (4 days ago)
 - [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (1 week ago)
 
 #### 🌱 My latest projects
@@ -47,11 +47,11 @@
 
 #### ⭐ Recent Stars
 
-- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) -  (today)
-- [phppot/basis](https://github.com/phppot/basis) - A PHP model application to learn Model View Controller (MVC) architecture and its implementation in PHP.  (2 days ago)
-- [aurooba/cpt](https://github.com/aurooba/cpt) - Quickly register custom post types and associated taxonomies with intelligent defaults in your WordPress projects. (2 days ago)
-- [StarKnightt/wallpaperz](https://github.com/StarKnightt/wallpaperz) - A modern, open-source wallpaper discovery and sharing platform built with Next.js, with ai image generation (4 days ago)
-- [wpsocio/wp-projects](https://github.com/wpsocio/wp-projects) - The development monorepo for our WordPress plugins. (5 days ago)
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) -  (1 day ago)
+- [phppot/basis](https://github.com/phppot/basis) - A PHP model application to learn Model View Controller (MVC) architecture and its implementation in PHP.  (3 days ago)
+- [aurooba/cpt](https://github.com/aurooba/cpt) - Quickly register custom post types and associated taxonomies with intelligent defaults in your WordPress projects. (3 days ago)
+- [StarKnightt/wallpaperz](https://github.com/StarKnightt/wallpaperz) - A modern, open-source wallpaper discovery and sharing platform built with Next.js, with ai image generation (5 days ago)
+- [wpsocio/wp-projects](https://github.com/wpsocio/wp-projects) - The development monorepo for our WordPress plugins. (6 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
