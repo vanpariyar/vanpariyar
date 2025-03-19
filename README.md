@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) -  (3 days ago)
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications. (3 days ago)
 - [phppot/basis](https://github.com/phppot/basis) - A PHP model application to learn Model View Controller (MVC) architecture and its implementation in PHP.  (5 days ago)
 - [aurooba/cpt](https://github.com/aurooba/cpt) - Quickly register custom post types and associated taxonomies with intelligent defaults in your WordPress projects. (5 days ago)
 - [StarKnightt/wallpaperz](https://github.com/StarKnightt/wallpaperz) - A modern, open-source wallpaper discovery and sharing platform built with Next.js, with ai image generation (1 week ago)
