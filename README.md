@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (1 day ago)
-- [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) -  (5 days ago)
-- [sahajananddigital/csv-to-labels](https://github.com/sahajananddigital/csv-to-labels) -  (5 days ago)
-- [vanpariyar/frappe-learning](https://github.com/vanpariyar/frappe-learning) -  (6 days ago)
+- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (2 days ago)
+- [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) -  (6 days ago)
+- [sahajananddigital/csv-to-labels](https://github.com/sahajananddigital/csv-to-labels) -  (6 days ago)
+- [vanpariyar/frappe-learning](https://github.com/vanpariyar/frappe-learning) -  (1 week ago)
 - [vanpariyar/links](https://github.com/vanpariyar/links) -  (1 week ago)
 
 #### 🌱 My latest projects
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications. (5 days ago)
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications. (6 days ago)
 - [phppot/basis](https://github.com/phppot/basis) - A PHP model application to learn Model View Controller (MVC) architecture and its implementation in PHP.  (1 week ago)
 - [aurooba/cpt](https://github.com/aurooba/cpt) - Quickly register custom post types and associated taxonomies with intelligent defaults in your WordPress projects. (1 week ago)
 - [StarKnightt/wallpaperz](https://github.com/StarKnightt/wallpaperz) - A modern, open-source wallpaper discovery and sharing platform built with Next.js, with ai image generation (1 week ago)
