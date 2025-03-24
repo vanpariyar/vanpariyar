@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Shiksha-Skills-Institute/demo](https://github.com/Shiksha-Skills-Institute/demo) - This is the demo repository for learning purpose (today)
 - [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (4 days ago)
-- [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) -  (1 week ago)
 - [sahajananddigital/csv-to-labels](https://github.com/sahajananddigital/csv-to-labels) -  (1 week ago)
+- [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) -  (1 week ago)
 - [vanpariyar/frappe-learning](https://github.com/vanpariyar/frappe-learning) -  (1 week ago)
-- [vanpariyar/links](https://github.com/vanpariyar/links) -  (1 week ago)
 
 #### 🌱 My latest projects
 
