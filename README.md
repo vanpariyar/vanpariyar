@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vanpariyar/redirect-link](https://github.com/vanpariyar/redirect-link) -  (1 day ago)
-- [vanpariyar/swaminarayan-kirtan](https://github.com/vanpariyar/swaminarayan-kirtan) - This is the Swaminarayan kirtans project that contains Kirtans, Channd, Duha, Kavita etc.. all related to Swaminaryan Bhagwan (3 days ago)
-- [Shiksha-Skills-Institute/demo](https://github.com/Shiksha-Skills-Institute/demo) - This is the demo repository for learning purpose (6 days ago)
+- [vanpariyar/redirect-link](https://github.com/vanpariyar/redirect-link) -  (2 days ago)
+- [vanpariyar/swaminarayan-kirtan](https://github.com/vanpariyar/swaminarayan-kirtan) - This is the Swaminarayan kirtans project that contains Kirtans, Channd, Duha, Kavita etc.. all related to Swaminaryan Bhagwan (4 days ago)
+- [Shiksha-Skills-Institute/demo](https://github.com/Shiksha-Skills-Institute/demo) - This is the demo repository for learning purpose (1 week ago)
 - [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (1 week ago)
 - [sahajananddigital/csv-to-labels](https://github.com/sahajananddigital/csv-to-labels) -  (2 weeks ago)
 
