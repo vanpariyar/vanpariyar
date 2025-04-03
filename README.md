@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (today)
-- [Shiksha-Skills-Institute/links](https://github.com/Shiksha-Skills-Institute/links) -  (today)
-- [vanpariyar/redirect-link](https://github.com/vanpariyar/redirect-link) -  (4 days ago)
-- [vanpariyar/swaminarayan-kirtan](https://github.com/vanpariyar/swaminarayan-kirtan) - This is the Swaminarayan kirtans project that contains Kirtans, Channd, Duha, Kavita etc.. all related to Swaminaryan Bhagwan (6 days ago)
+- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (1 day ago)
+- [Shiksha-Skills-Institute/links](https://github.com/Shiksha-Skills-Institute/links) -  (1 day ago)
+- [vanpariyar/redirect-link](https://github.com/vanpariyar/redirect-link) -  (5 days ago)
+- [vanpariyar/swaminarayan-kirtan](https://github.com/vanpariyar/swaminarayan-kirtan) - This is the Swaminarayan kirtans project that contains Kirtans, Channd, Duha, Kavita etc.. all related to Swaminaryan Bhagwan (1 week ago)
 - [sahajananddigital/csv-to-labels](https://github.com/sahajananddigital/csv-to-labels) -  (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -34,7 +34,7 @@
 - [How to Self-Host WordPress Playground on GitHub Pages with a Custom Domain](https://vanpariyar.in/blog/how-to-self-host-wordpress-playground-on-github-pages-with-a-custom-domain/) (5 months ago)
 - [Getting Started with Gutenberg Editor Custom Block Development](https://vanpariyar.in/blog/how-to-start-with-gutenberg-editor-custom-block-development/) (6 months ago)
 - [Fetch Instagram Details](https://vanpariyar.in/blog/fetch-instagram-details/) (6 months ago)
-- [How to remove HTML tags from the REST API title and content in WordPress](https://vanpariyar.in/blog/how-to-remove-html-tags-from-the-rest-api-title-and-content-in-wordpress/) (6 months ago)
+- [How to remove HTML tags from the REST API title and content in WordPress](https://vanpariyar.in/blog/how-to-remove-html-tags-from-the-rest-api-title-and-content-in-wordpress/) (7 months ago)
 - [My 2023 Yearly Updates and Notes](https://vanpariyar.in/blog/my-2023-yearly-updates-and-notes/) (1 year ago)
 
 #### 📓 Gists I wrote
