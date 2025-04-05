@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (today)
-- [Shiksha-Skills-Institute/tools](https://github.com/Shiksha-Skills-Institute/tools) -  (1 day ago)
-- [Shiksha-Skills-Institute/links](https://github.com/Shiksha-Skills-Institute/links) -  (2 days ago)
-- [vanpariyar/redirect-link](https://github.com/vanpariyar/redirect-link) -  (6 days ago)
+- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (1 day ago)
+- [Shiksha-Skills-Institute/tools](https://github.com/Shiksha-Skills-Institute/tools) -  (2 days ago)
+- [Shiksha-Skills-Institute/links](https://github.com/Shiksha-Skills-Institute/links) -  (3 days ago)
+- [vanpariyar/redirect-link](https://github.com/vanpariyar/redirect-link) -  (1 week ago)
 - [vanpariyar/swaminarayan-kirtan](https://github.com/vanpariyar/swaminarayan-kirtan) - This is the Swaminarayan kirtans project that contains Kirtans, Channd, Duha, Kavita etc.. all related to Swaminaryan Bhagwan (1 week ago)
 
 #### 🌱 My latest projects
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.20](https://github.com/vanpariyar/wp-post-views/releases/tag/1.20), 1 month ago) - This is the simple plugin that counts the views of the your wordpress website
+- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.20](https://github.com/vanpariyar/wp-post-views/releases/tag/1.20), 2 months ago) - This is the simple plugin that counts the views of the your wordpress website
 - [sahajananddigital/selfie.sahajananddigital.in](https://github.com/sahajananddigital/selfie.sahajananddigital.in) ([0.0.1](https://github.com/sahajananddigital/selfie.sahajananddigital.in/releases/tag/0.0.1), 2 years ago) - Selfie Website - Get Link from the Readme
 
 #### 🔨 My recent Pull Requests
