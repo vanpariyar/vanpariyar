@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Shiksha-Skills-Institute/my-first-project](https://github.com/Shiksha-Skills-Institute/my-first-project) - This is the project for learning (today)
 - [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (1 day ago)
 - [Shiksha-Skills-Institute/tools](https://github.com/Shiksha-Skills-Institute/tools) -  (5 days ago)
 - [Shiksha-Skills-Institute/links](https://github.com/Shiksha-Skills-Institute/links) -  (6 days ago)
 - [vanpariyar/redirect-link](https://github.com/vanpariyar/redirect-link) -  (1 week ago)
-- [vanpariyar/swaminarayan-kirtan](https://github.com/vanpariyar/swaminarayan-kirtan) - This is the Swaminarayan kirtans project that contains Kirtans, Channd, Duha, Kavita etc.. all related to Swaminaryan Bhagwan (1 week ago)
 
 #### 🌱 My latest projects
 
