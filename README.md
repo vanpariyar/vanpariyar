@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (5 days ago)
+- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (today)
 - [Shiksha-Skills-Institute/basic-courses](https://github.com/Shiksha-Skills-Institute/basic-courses) -  (6 days ago)
 - [Shiksha-Skills-Institute/my-first-project](https://github.com/Shiksha-Skills-Institute/my-first-project) - This is the project for learning (1 week ago)
 - [Shiksha-Skills-Institute/tools](https://github.com/Shiksha-Skills-Institute/tools) -  (1 week ago)
