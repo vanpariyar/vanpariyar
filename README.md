@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (today)
-- [Shiksha-Skills-Institute/basic-courses](https://github.com/Shiksha-Skills-Institute/basic-courses) -  (6 days ago)
+- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (1 day ago)
+- [Shiksha-Skills-Institute/basic-courses](https://github.com/Shiksha-Skills-Institute/basic-courses) -  (1 week ago)
 - [Shiksha-Skills-Institute/my-first-project](https://github.com/Shiksha-Skills-Institute/my-first-project) - This is the project for learning (1 week ago)
-- [Shiksha-Skills-Institute/tools](https://github.com/Shiksha-Skills-Institute/tools) -  (1 week ago)
+- [Shiksha-Skills-Institute/tools](https://github.com/Shiksha-Skills-Institute/tools) -  (2 weeks ago)
 - [Shiksha-Skills-Institute/links](https://github.com/Shiksha-Skills-Institute/links) -  (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -39,7 +39,7 @@
 
 #### 📓 Gists I wrote
 
-- [How to Migrate website Database from Mysql to Sqlite or vice versa](https://gist.github.com/720f04a57721e24eb2af2b1112ec89c4) (7 months ago)
+- [How to Migrate website Database from Mysql to Sqlite or vice versa](https://gist.github.com/720f04a57721e24eb2af2b1112ec89c4) (8 months ago)
 - [How to fix Unix socket error in Docker in WSL2](https://gist.github.com/c3e90157b6aec1f19ae9462941412672) (1 year ago)
 - [Day to day customisation needed for code so making one plugin to reuse in every plugin ](https://gist.github.com/95880b458a6110bb9f4d8c588cb4f119) (2 years ago)
 - [Get permalink and title from the database WordPress](https://gist.github.com/d955fc9b1678f61b5839d306fa0ab55a) (2 years ago)
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [khaouitiabdelhakim/Microsoft-Office-With-Activation-For-Lifetime](https://github.com/khaouitiabdelhakim/Microsoft-Office-With-Activation-For-Lifetime) - Microsoft Office Installation and Activation (today)
+- [khaouitiabdelhakim/Microsoft-Office-With-Activation-For-Lifetime](https://github.com/khaouitiabdelhakim/Microsoft-Office-With-Activation-For-Lifetime) - Microsoft Office Installation and Activation (1 day ago)
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications. (1 month ago)
 - [phppot/basis](https://github.com/phppot/basis) - A PHP model application to learn Model View Controller (MVC) architecture and its implementation in PHP.  (1 month ago)
 - [aurooba/cpt](https://github.com/aurooba/cpt) - Quickly register custom post types and associated taxonomies with intelligent defaults in your WordPress projects. (1 month ago)
