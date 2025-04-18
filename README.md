@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (today)
+- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (1 day ago)
 - [Shiksha-Skills-Institute/basic-courses](https://github.com/Shiksha-Skills-Institute/basic-courses) -  (1 week ago)
 - [Shiksha-Skills-Institute/my-first-project](https://github.com/Shiksha-Skills-Institute/my-first-project) - This is the project for learning (1 week ago)
 - [Shiksha-Skills-Institute/tools](https://github.com/Shiksha-Skills-Institute/tools) -  (2 weeks ago)
@@ -23,7 +23,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [added text size](https://github.com/sahajananddigital/photo-frame-react/pull/6) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (2 months ago)
+- [added text size](https://github.com/sahajananddigital/photo-frame-react/pull/6) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (3 months ago)
 - [Added Font](https://github.com/sahajananddigital/photo-frame-react/pull/5) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (3 months ago)
 - [Setup New URL](https://github.com/sahajananddigital/photo-frame-react/pull/4) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (3 months ago)
 - [Update deploy.yml](https://github.com/sahajananddigital/photo-frame-react/pull/3) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (3 months ago)
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [khaouitiabdelhakim/Microsoft-Office-With-Activation-For-Lifetime](https://github.com/khaouitiabdelhakim/Microsoft-Office-With-Activation-For-Lifetime) - Microsoft Office Installation and Activation (1 day ago)
+- [khaouitiabdelhakim/Microsoft-Office-With-Activation-For-Lifetime](https://github.com/khaouitiabdelhakim/Microsoft-Office-With-Activation-For-Lifetime) - Microsoft Office Installation and Activation (2 days ago)
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications. (1 month ago)
 - [phppot/basis](https://github.com/phppot/basis) - A PHP model application to learn Model View Controller (MVC) architecture and its implementation in PHP.  (1 month ago)
 - [aurooba/cpt](https://github.com/aurooba/cpt) - Quickly register custom post types and associated taxonomies with intelligent defaults in your WordPress projects. (1 month ago)
