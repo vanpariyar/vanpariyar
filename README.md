@@ -23,11 +23,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Updated Changes](https://github.com/gopiramani1025/vmc-project/pull/1) on [gopiramani1025/vmc-project](https://github.com/gopiramani1025/vmc-project) (today)
 - [added text size](https://github.com/sahajananddigital/photo-frame-react/pull/6) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (3 months ago)
 - [Added Font](https://github.com/sahajananddigital/photo-frame-react/pull/5) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (3 months ago)
 - [Setup New URL](https://github.com/sahajananddigital/photo-frame-react/pull/4) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (3 months ago)
 - [Update deploy.yml](https://github.com/sahajananddigital/photo-frame-react/pull/3) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (3 months ago)
-- [Added New site for Mahila san](https://github.com/sahajananddigital/photo-frame-react/pull/2) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (3 months ago)
 
 #### 📜 My recent blog posts
 
