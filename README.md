@@ -23,7 +23,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Updated Changes](https://github.com/gopiramani1025/vmc-project/pull/1) on [gopiramani1025/vmc-project](https://github.com/gopiramani1025/vmc-project) (today)
+- [Updated Changes](https://github.com/gopiramani1025/vmc-project/pull/1) on [gopiramani1025/vmc-project](https://github.com/gopiramani1025/vmc-project) (1 day ago)
 - [added text size](https://github.com/sahajananddigital/photo-frame-react/pull/6) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (3 months ago)
 - [Added Font](https://github.com/sahajananddigital/photo-frame-react/pull/5) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (3 months ago)
 - [Setup New URL](https://github.com/sahajananddigital/photo-frame-react/pull/4) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (3 months ago)
@@ -51,7 +51,7 @@
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications. (1 month ago)
 - [phppot/basis](https://github.com/phppot/basis) - A PHP model application to learn Model View Controller (MVC) architecture and its implementation in PHP.  (1 month ago)
 - [aurooba/cpt](https://github.com/aurooba/cpt) - Quickly register custom post types and associated taxonomies with intelligent defaults in your WordPress projects. (1 month ago)
-- [StarKnightt/wallpaperz](https://github.com/StarKnightt/wallpaperz) - A modern, open-source wallpaper discovery and sharing platform built with Next.js, with ai image generation (1 month ago)
+- [StarKnightt/wallpaperz](https://github.com/StarKnightt/wallpaperz) - A modern, open-source wallpaper discovery and sharing platform built with Next.js, with ai image generation (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
