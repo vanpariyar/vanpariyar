@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gopiramani1025/vmc-project](https://github.com/gopiramani1025/vmc-project) -  (1 day ago)
+- [gopiramani1025/vmc-project](https://github.com/gopiramani1025/vmc-project) -  (2 days ago)
 - [vanpariyar/python-scripts](https://github.com/vanpariyar/python-scripts) - Here are my public scripts that i run every time to automating manual works (1 week ago)
-- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (1 week ago)
+- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (2 weeks ago)
 - [vanpariyar/links](https://github.com/vanpariyar/links) -  (2 weeks ago)
 - [Shiksha-Skills-Institute/basic-courses](https://github.com/Shiksha-Skills-Institute/basic-courses) -  (1 month ago)
 
@@ -23,7 +23,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Updated Changes](https://github.com/gopiramani1025/vmc-project/pull/1) on [gopiramani1025/vmc-project](https://github.com/gopiramani1025/vmc-project) (1 day ago)
+- [Updated Changes](https://github.com/gopiramani1025/vmc-project/pull/1) on [gopiramani1025/vmc-project](https://github.com/gopiramani1025/vmc-project) (2 days ago)
 - [added text size](https://github.com/sahajananddigital/photo-frame-react/pull/6) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (3 months ago)
 - [Added Font](https://github.com/sahajananddigital/photo-frame-react/pull/5) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (3 months ago)
 - [Setup New URL](https://github.com/sahajananddigital/photo-frame-react/pull/4) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (3 months ago)
