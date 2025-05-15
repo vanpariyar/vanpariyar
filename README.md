@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gopiramani1025/vmc-project](https://github.com/gopiramani1025/vmc-project) -  (4 days ago)
-- [vanpariyar/python-scripts](https://github.com/vanpariyar/python-scripts) - Here are my public scripts that i run every time to automating manual works (1 week ago)
+- [gopiramani1025/vmc-project](https://github.com/gopiramani1025/vmc-project) -  (5 days ago)
+- [vanpariyar/python-scripts](https://github.com/vanpariyar/python-scripts) - Here are my public scripts that i run every time to automating manual works (2 weeks ago)
 - [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (2 weeks ago)
 - [vanpariyar/links](https://github.com/vanpariyar/links) -  (3 weeks ago)
 - [Shiksha-Skills-Institute/basic-courses](https://github.com/Shiksha-Skills-Institute/basic-courses) -  (1 month ago)
@@ -23,11 +23,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Updated Changes](https://github.com/gopiramani1025/vmc-project/pull/1) on [gopiramani1025/vmc-project](https://github.com/gopiramani1025/vmc-project) (4 days ago)
+- [Updated Changes](https://github.com/gopiramani1025/vmc-project/pull/1) on [gopiramani1025/vmc-project](https://github.com/gopiramani1025/vmc-project) (5 days ago)
 - [added text size](https://github.com/sahajananddigital/photo-frame-react/pull/6) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (3 months ago)
-- [Added Font](https://github.com/sahajananddigital/photo-frame-react/pull/5) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (3 months ago)
-- [Setup New URL](https://github.com/sahajananddigital/photo-frame-react/pull/4) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (3 months ago)
-- [Update deploy.yml](https://github.com/sahajananddigital/photo-frame-react/pull/3) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (3 months ago)
+- [Added Font](https://github.com/sahajananddigital/photo-frame-react/pull/5) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (4 months ago)
+- [Setup New URL](https://github.com/sahajananddigital/photo-frame-react/pull/4) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (4 months ago)
+- [Update deploy.yml](https://github.com/sahajananddigital/photo-frame-react/pull/3) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (4 months ago)
 
 #### 📜 My recent blog posts
 
@@ -48,7 +48,7 @@
 #### ⭐ Recent Stars
 
 - [khaouitiabdelhakim/Microsoft-Office-With-Activation-For-Lifetime](https://github.com/khaouitiabdelhakim/Microsoft-Office-With-Activation-For-Lifetime) - Microsoft Office Installation and Activation (4 weeks ago)
-- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications. (1 month ago)
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications. (2 months ago)
 - [phppot/basis](https://github.com/phppot/basis) - A PHP model application to learn Model View Controller (MVC) architecture and its implementation in PHP.  (2 months ago)
 - [aurooba/cpt](https://github.com/aurooba/cpt) - Quickly register custom post types and associated taxonomies with intelligent defaults in your WordPress projects. (2 months ago)
 - [StarKnightt/wallpaperz](https://github.com/StarKnightt/wallpaperz) - A modern, open-source wallpaper discovery and sharing platform built with Next.js, with ai image generation (2 months ago)
