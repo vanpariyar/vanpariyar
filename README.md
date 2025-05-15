@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gopiramani1025/vmc-project](https://github.com/gopiramani1025/vmc-project) -  (5 days ago)
+- [vanpariyar/vmc-project](https://github.com/vanpariyar/vmc-project) -  (5 days ago)
 - [vanpariyar/python-scripts](https://github.com/vanpariyar/python-scripts) - Here are my public scripts that i run every time to automating manual works (2 weeks ago)
 - [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (2 weeks ago)
 - [vanpariyar/links](https://github.com/vanpariyar/links) -  (3 weeks ago)
@@ -10,11 +10,11 @@
 
 #### 🌱 My latest projects
 
+- [vanpariyar/vmc-project](https://github.com/vanpariyar/vmc-project) - 
 - [vanpariyar/frappe-learning](https://github.com/vanpariyar/frappe-learning) - 
 - [vanpariyar/python-learning](https://github.com/vanpariyar/python-learning) - 
 - [vanpariyar/sahitya](https://github.com/vanpariyar/sahitya) - 
 - [vanpariyar/seminar-ai-intro-and-game-development](https://github.com/vanpariyar/seminar-ai-intro-and-game-development) - 
-- [vanpariyar/dotfiles](https://github.com/vanpariyar/dotfiles) - My .files contains WorkFlow related files
 
 #### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Updated Changes](https://github.com/gopiramani1025/vmc-project/pull/1) on [gopiramani1025/vmc-project](https://github.com/gopiramani1025/vmc-project) (5 days ago)
 - [added text size](https://github.com/sahajananddigital/photo-frame-react/pull/6) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (3 months ago)
 - [Added Font](https://github.com/sahajananddigital/photo-frame-react/pull/5) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (4 months ago)
 - [Setup New URL](https://github.com/sahajananddigital/photo-frame-react/pull/4) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (4 months ago)
 - [Update deploy.yml](https://github.com/sahajananddigital/photo-frame-react/pull/3) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (4 months ago)
+- [Added New site for Mahila san](https://github.com/sahajananddigital/photo-frame-react/pull/2) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (4 months ago)
 
 #### 📜 My recent blog posts
 
