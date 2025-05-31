@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [Swaminarayan-Gurukul/selfie](https://github.com/Swaminarayan-Gurukul/selfie) -  (2 weeks ago)
-- [vanpariyar/vmc-project](https://github.com/vanpariyar/vmc-project) -  (2 weeks ago)
-- [vanpariyar/python-scripts](https://github.com/vanpariyar/python-scripts) - Here are my public scripts that i run every time to automating manual works (4 weeks ago)
+- [vanpariyar/vmc-project](https://github.com/vanpariyar/vmc-project) -  (3 weeks ago)
+- [vanpariyar/python-scripts](https://github.com/vanpariyar/python-scripts) - Here are my public scripts that i run every time to automating manual works (1 month ago)
 - [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (1 month ago)
 - [vanpariyar/links](https://github.com/vanpariyar/links) -  (1 month ago)
 
