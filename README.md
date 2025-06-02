@@ -34,7 +34,7 @@
 - [How to Self-Host WordPress Playground on GitHub Pages with a Custom Domain](https://vanpariyar.in/blog/how-to-self-host-wordpress-playground-on-github-pages-with-a-custom-domain/) (7 months ago)
 - [Getting Started with Gutenberg Editor Custom Block Development](https://vanpariyar.in/blog/how-to-start-with-gutenberg-editor-custom-block-development/) (8 months ago)
 - [Fetch Instagram Details](https://vanpariyar.in/blog/fetch-instagram-details/) (8 months ago)
-- [How to remove HTML tags from the REST API title and content in WordPress](https://vanpariyar.in/blog/how-to-remove-html-tags-from-the-rest-api-title-and-content-in-wordpress/) (8 months ago)
+- [How to remove HTML tags from the REST API title and content in WordPress](https://vanpariyar.in/blog/how-to-remove-html-tags-from-the-rest-api-title-and-content-in-wordpress/) (9 months ago)
 - [My 2023 Yearly Updates and Notes](https://vanpariyar.in/blog/my-2023-yearly-updates-and-notes/) (1 year ago)
 
 #### 📓 Gists I wrote
