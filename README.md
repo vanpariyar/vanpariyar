@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.20](https://github.com/vanpariyar/wp-post-views/releases/tag/1.20), 3 months ago) - This is the simple plugin that counts the views of the your wordpress website
+- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.20](https://github.com/vanpariyar/wp-post-views/releases/tag/1.20), 4 months ago) - This is the simple plugin that counts the views of the your wordpress website
 - [sahajananddigital/selfie.sahajananddigital.in](https://github.com/sahajananddigital/selfie.sahajananddigital.in) ([0.0.1](https://github.com/sahajananddigital/selfie.sahajananddigital.in/releases/tag/0.0.1), 2 years ago) - Selfie Website - Get Link from the Readme
 
 #### 🔨 My recent Pull Requests
