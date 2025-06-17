@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sahajananddigital/harismruti-path-tracker](https://github.com/sahajananddigital/harismruti-path-tracker) -  (1 day ago)
-- [sahajananddigital/gurkul-account-manager](https://github.com/sahajananddigital/gurkul-account-manager) - Built with Google Apps script - Gurukul Vouchers, Invoice, Expenses, Food Pass etc (2 days ago)
+- [sahajananddigital/harismruti-path-tracker](https://github.com/sahajananddigital/harismruti-path-tracker) -  (2 days ago)
+- [sahajananddigital/gurkul-account-manager](https://github.com/sahajananddigital/gurkul-account-manager) - Built with Google Apps script - Gurukul Vouchers, Invoice, Expenses, Food Pass etc (3 days ago)
 - [Swaminarayan-Gurukul/selfie](https://github.com/Swaminarayan-Gurukul/selfie) -  (1 month ago)
 - [vanpariyar/vmc-project](https://github.com/vanpariyar/vmc-project) -  (1 month ago)
 - [vanpariyar/python-scripts](https://github.com/vanpariyar/python-scripts) - Here are my public scripts that i run every time to automating manual works (1 month ago)
@@ -23,7 +23,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [added text size](https://github.com/sahajananddigital/photo-frame-react/pull/6) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (4 months ago)
+- [added text size](https://github.com/sahajananddigital/photo-frame-react/pull/6) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (5 months ago)
 - [Added Font](https://github.com/sahajananddigital/photo-frame-react/pull/5) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (5 months ago)
 - [Setup New URL](https://github.com/sahajananddigital/photo-frame-react/pull/4) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (5 months ago)
 - [Update deploy.yml](https://github.com/sahajananddigital/photo-frame-react/pull/3) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (5 months ago)
@@ -39,7 +39,7 @@
 
 #### 📓 Gists I wrote
 
-- [Fix Google Appscript error, CORS](https://gist.github.com/c198a2ab9912c97a8eea002f71f61b0d) (1 day ago)
+- [Fix Google Appscript error, CORS](https://gist.github.com/c198a2ab9912c97a8eea002f71f61b0d) (2 days ago)
 - [How to Migrate website Database from Mysql to Sqlite or vice versa](https://gist.github.com/720f04a57721e24eb2af2b1112ec89c4) (10 months ago)
 - [How to fix Unix socket error in Docker in WSL2](https://gist.github.com/c3e90157b6aec1f19ae9462941412672) (1 year ago)
 - [Day to day customisation needed for code so making one plugin to reuse in every plugin ](https://gist.github.com/95880b458a6110bb9f4d8c588cb4f119) (2 years ago)
