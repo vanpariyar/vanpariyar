@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sahajananddigital/harismruti-path-tracker](https://github.com/sahajananddigital/harismruti-path-tracker) -  (today)
-- [sahajananddigital/gurkul-account-manager](https://github.com/sahajananddigital/gurkul-account-manager) - Built with Google Apps script - Gurukul Vouchers, Invoice, Expenses, Food Pass etc (2 days ago)
-- [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) -  (1 week ago)
+- [sahajananddigital/harismruti-path-tracker](https://github.com/sahajananddigital/harismruti-path-tracker) -  (1 day ago)
+- [sahajananddigital/gurkul-account-manager](https://github.com/sahajananddigital/gurkul-account-manager) - Built with Google Apps script - Gurukul Vouchers, Invoice, Expenses, Food Pass etc (3 days ago)
+- [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) -  (2 weeks ago)
 - [Swaminarayan-Gurukul/selfie](https://github.com/Swaminarayan-Gurukul/selfie) -  (1 month ago)
 - [vanpariyar/vmc-project](https://github.com/vanpariyar/vmc-project) -  (1 month ago)
 
@@ -23,8 +23,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update README.md](https://github.com/sahajananddigital/photo-frame-react/pull/8) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (1 week ago)
-- [Harismruti](https://github.com/sahajananddigital/photo-frame-react/pull/7) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (1 week ago)
+- [Update README.md](https://github.com/sahajananddigital/photo-frame-react/pull/8) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (2 weeks ago)
+- [Harismruti](https://github.com/sahajananddigital/photo-frame-react/pull/7) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (2 weeks ago)
 - [added text size](https://github.com/sahajananddigital/photo-frame-react/pull/6) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (5 months ago)
 - [Added Font](https://github.com/sahajananddigital/photo-frame-react/pull/5) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (5 months ago)
 - [Setup New URL](https://github.com/sahajananddigital/photo-frame-react/pull/4) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (5 months ago)
