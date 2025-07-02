@@ -58,11 +58,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [PatilAditya009](https://github.com/PatilAditya009)
 - [seckinyasar](https://github.com/seckinyasar)
 - [Connor9994](https://github.com/Connor9994)
 - [badasswp](https://github.com/badasswp)
 - [JAY-77-ux](https://github.com/JAY-77-ux)
-- [mohammadhasanii](https://github.com/mohammadhasanii)
 
 #### 💬 Feedback
 
