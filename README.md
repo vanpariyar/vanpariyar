@@ -58,11 +58,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [helallao](https://github.com/helallao)
 - [SalmanO7](https://github.com/SalmanO7)
 - [PatilAditya009](https://github.com/PatilAditya009)
 - [seckinyasar](https://github.com/seckinyasar)
 - [Connor9994](https://github.com/Connor9994)
-- [badasswp](https://github.com/badasswp)
 
 #### 💬 Feedback
 
