@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vanpariyar/contact-form-rest-api](https://github.com/vanpariyar/contact-form-rest-api) - This is the simple Plugin to implement WordPress Headless Contact Entries. (today)
-- [sahajananddigital/harismruti-path-tracker](https://github.com/sahajananddigital/harismruti-path-tracker) -  (6 days ago)
+- [vanpariyar/contact-form-rest-api](https://github.com/vanpariyar/contact-form-rest-api) - This is the simple Plugin to implement WordPress Headless Contact Entries. (1 day ago)
+- [sahajananddigital/harismruti-path-tracker](https://github.com/sahajananddigital/harismruti-path-tracker) -  (1 week ago)
 - [sahajananddigital/gurkul-account-manager](https://github.com/sahajananddigital/gurkul-account-manager) - Built with Google Apps script - Gurukul Vouchers, Invoice, Expenses, Food Pass etc (1 week ago)
 - [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) -  (3 weeks ago)
 - [Swaminarayan-Gurukul/selfie](https://github.com/Swaminarayan-Gurukul/selfie) -  (1 month ago)
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [Tobee1406/Awesome-Google-Dorks](https://github.com/Tobee1406/Awesome-Google-Dorks) - A collection of Awesome Google Dorks. (1 day ago)
+- [Tobee1406/Awesome-Google-Dorks](https://github.com/Tobee1406/Awesome-Google-Dorks) - A collection of Awesome Google Dorks. (2 days ago)
 - [khaouitiabdelhakim/Microsoft-Office-With-Activation-For-Lifetime](https://github.com/khaouitiabdelhakim/Microsoft-Office-With-Activation-For-Lifetime) - Microsoft Office Installation and Activation (2 months ago)
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications. (3 months ago)
 - [phppot/basis](https://github.com/phppot/basis) - A PHP model application to learn Model View Controller (MVC) architecture and its implementation in PHP.  (3 months ago)
