@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vanpariyar/contact-form-rest-api](https://github.com/vanpariyar/contact-form-rest-api) - This is the simple Plugin to implement WordPress Headless Contact Entries. (2 days ago)
+- [vanpariyar/contact-form-rest-api](https://github.com/vanpariyar/contact-form-rest-api) - This is the simple Plugin to implement WordPress Headless Contact Entries. (today)
 - [sahajananddigital/harismruti-path-tracker](https://github.com/sahajananddigital/harismruti-path-tracker) -  (1 week ago)
 - [sahajananddigital/gurkul-account-manager](https://github.com/sahajananddigital/gurkul-account-manager) - Built with Google Apps script - Gurukul Vouchers, Invoice, Expenses, Food Pass etc (1 week ago)
 - [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) -  (3 weeks ago)
