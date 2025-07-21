@@ -2,19 +2,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [vanpariyar/learning-monorepo](https://github.com/vanpariyar/learning-monorepo) - Learning Mono Repository contains all my learning files (today)
 - [sahajananddigital/harismruti-path-tracker](https://github.com/sahajananddigital/harismruti-path-tracker) -  (1 day ago)
 - [vanpariyar/contact-form-rest-api](https://github.com/vanpariyar/contact-form-rest-api) - This is the simple Plugin to implement WordPress Headless Contact Entries. (2 days ago)
 - [sahajananddigital/sahajananddigital.github.io](https://github.com/sahajananddigital/sahajananddigital.github.io) -  (1 week ago)
 - [sahajananddigital/gurkul-account-manager](https://github.com/sahajananddigital/gurkul-account-manager) - Built with Google Apps script - Gurukul Vouchers, Invoice, Expenses, Food Pass etc (3 weeks ago)
-- [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) -  (1 month ago)
 
 #### 🌱 My latest projects
 
 - [vanpariyar/vmc-project](https://github.com/vanpariyar/vmc-project) - 
-- [vanpariyar/frappe-learning](https://github.com/vanpariyar/frappe-learning) - 
-- [vanpariyar/python-learning](https://github.com/vanpariyar/python-learning) - 
 - [vanpariyar/sahitya](https://github.com/vanpariyar/sahitya) - 
 - [vanpariyar/seminar-ai-intro-and-game-development](https://github.com/vanpariyar/seminar-ai-intro-and-game-development) - 
+- [vanpariyar/dotfiles](https://github.com/vanpariyar/dotfiles) - My .files contains WorkFlow related files
+- [vanpariyar/python-scripts](https://github.com/vanpariyar/python-scripts) - Here are my public scripts that i run every time to automating manual works
 
 #### 🔭 Latest releases I've contributed to
 
