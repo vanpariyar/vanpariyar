@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vanpariyar/learning-monorepo](https://github.com/vanpariyar/learning-monorepo) - Learning Mono Repository contains all my learning files (2 days ago)
-- [sahajananddigital/harismruti-path-tracker](https://github.com/sahajananddigital/harismruti-path-tracker) -  (3 days ago)
-- [vanpariyar/contact-form-rest-api](https://github.com/vanpariyar/contact-form-rest-api) - This is the simple Plugin to implement WordPress Headless Contact Entries. (4 days ago)
+- [vanpariyar/learning-monorepo](https://github.com/vanpariyar/learning-monorepo) - Learning Mono Repository contains all my learning files (3 days ago)
+- [sahajananddigital/harismruti-path-tracker](https://github.com/sahajananddigital/harismruti-path-tracker) -  (4 days ago)
+- [vanpariyar/contact-form-rest-api](https://github.com/vanpariyar/contact-form-rest-api) - This is the simple Plugin to implement WordPress Headless Contact Entries. (5 days ago)
 - [sahajananddigital/sahajananddigital.github.io](https://github.com/sahajananddigital/sahajananddigital.github.io) -  (1 week ago)
 - [sahajananddigital/gurukul-account-manager](https://github.com/sahajananddigital/gurukul-account-manager) - Built with Google Apps script - Gurukul Vouchers, Invoice, Expenses, Food Pass etc (3 weeks ago)
 
@@ -35,7 +35,7 @@
 - [Getting Started with Gutenberg Editor Custom Block Development](https://vanpariyar.in/blog/how-to-start-with-gutenberg-editor-custom-block-development/) (10 months ago)
 - [Fetch Instagram Details](https://vanpariyar.in/blog/fetch-instagram-details/) (10 months ago)
 - [How to remove HTML tags from the REST API title and content in WordPress](https://vanpariyar.in/blog/how-to-remove-html-tags-from-the-rest-api-title-and-content-in-wordpress/) (10 months ago)
-- [My 2023 Yearly Updates and Notes](https://vanpariyar.in/blog/my-2023-yearly-updates-and-notes/) (1 year ago)
+- [My 2023 Yearly Updates and Notes](https://vanpariyar.in/blog/my-2023-yearly-updates-and-notes/) (2 years ago)
 
 #### 📓 Gists I wrote
 
