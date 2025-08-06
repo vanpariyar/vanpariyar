@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sahajananddigital/csv-to-labels](https://github.com/sahajananddigital/csv-to-labels) -  (3 days ago)
-- [sahajananddigital/gurukul-account-manager](https://github.com/sahajananddigital/gurukul-account-manager) - Built with Google Apps script - Gurukul Vouchers, Invoice, Expenses, Food Pass etc (5 days ago)
+- [sahajananddigital/csv-to-labels](https://github.com/sahajananddigital/csv-to-labels) -  (4 days ago)
+- [sahajananddigital/gurukul-account-manager](https://github.com/sahajananddigital/gurukul-account-manager) - Built with Google Apps script - Gurukul Vouchers, Invoice, Expenses, Food Pass etc (6 days ago)
 - [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (1 week ago)
 - [sahajananddigital/sahajananddigital.github.io](https://github.com/sahajananddigital/sahajananddigital.github.io) -  (1 week ago)
 - [vanpariyar/learning-monorepo](https://github.com/vanpariyar/learning-monorepo) - Learning Mono Repository contains all my learning files (2 weeks ago)
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [speedyapply/2026-AI-College-Jobs](https://github.com/speedyapply/2026-AI-College-Jobs) - 2026 AI/ML internship &amp; new graduate job list updated daily (1 day ago)
+- [speedyapply/2026-AI-College-Jobs](https://github.com/speedyapply/2026-AI-College-Jobs) - 2026 AI/ML internship &amp; new graduate job list updated daily (2 days ago)
 - [Tobee1406/Awesome-Google-Dorks](https://github.com/Tobee1406/Awesome-Google-Dorks) - A collection of Awesome Google Dorks. (4 weeks ago)
 - [khaouitiabdelhakim/Microsoft-Office-With-Activation-For-Lifetime](https://github.com/khaouitiabdelhakim/Microsoft-Office-With-Activation-For-Lifetime) - Microsoft Office Installation and Activation (3 months ago)
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications. (4 months ago)
