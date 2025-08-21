@@ -60,9 +60,9 @@
 
 - [abhi-2255](https://github.com/abhi-2255)
 - [ableksaju](https://github.com/ableksaju)
-- [helallao](https://github.com/helallao)
 - [SalmanO7](https://github.com/SalmanO7)
 - [PatilAditya009](https://github.com/PatilAditya009)
+- [Connor9994](https://github.com/Connor9994)
 
 #### 💬 Feedback
 
