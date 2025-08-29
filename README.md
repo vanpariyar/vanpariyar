@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (today)
+- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (1 day ago)
 - [Shiksha-Skills-Institute/ai-ml-data-science](https://github.com/Shiksha-Skills-Institute/ai-ml-data-science) - This Repository will contain the project files for learning and some solutions, (1 week ago)
 - [sahajananddigital/gurukul-account-manager](https://github.com/sahajananddigital/gurukul-account-manager) - Built with Google Apps script - Gurukul Vouchers, Invoice, Expenses, Food Pass etc (1 week ago)
 - [sahajananddigital/gurukul-alumni-students-manager](https://github.com/sahajananddigital/gurukul-alumni-students-manager) -  (2 weeks ago)
