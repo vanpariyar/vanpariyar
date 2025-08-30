@@ -58,11 +58,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Dharm3112](https://github.com/Dharm3112)
 - [abhi-2255](https://github.com/abhi-2255)
 - [ableksaju](https://github.com/ableksaju)
 - [SalmanO7](https://github.com/SalmanO7)
 - [PatilAditya009](https://github.com/PatilAditya009)
-- [Connor9994](https://github.com/Connor9994)
 
 #### 💬 Feedback
 
