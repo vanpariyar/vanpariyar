@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (today)
+- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (1 day ago)
 - [Shiksha-Skills-Institute/ai-ml-data-science](https://github.com/Shiksha-Skills-Institute/ai-ml-data-science) - This Repository will contain the project files for learning and some solutions, (1 week ago)
-- [sahajananddigital/gurukul-account-manager](https://github.com/sahajananddigital/gurukul-account-manager) - Built with Google Apps script - Gurukul Vouchers, Invoice, Expenses, Food Pass etc (1 week ago)
+- [sahajananddigital/gurukul-account-manager](https://github.com/sahajananddigital/gurukul-account-manager) - Built with Google Apps script - Gurukul Vouchers, Invoice, Expenses, Food Pass etc (2 weeks ago)
 - [sahajananddigital/gurukul-alumni-students-manager](https://github.com/sahajananddigital/gurukul-alumni-students-manager) -  (3 weeks ago)
 - [sahajananddigital/csv-to-labels](https://github.com/sahajananddigital/csv-to-labels) -  (1 month ago)
 
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.20](https://github.com/vanpariyar/wp-post-views/releases/tag/1.20), 6 months ago) - This is the simple plugin that counts the views of the your wordpress website
+- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.20](https://github.com/vanpariyar/wp-post-views/releases/tag/1.20), 7 months ago) - This is the simple plugin that counts the views of the your wordpress website
 - [sahajananddigital/selfie.sahajananddigital.in](https://github.com/sahajananddigital/selfie.sahajananddigital.in) ([0.0.1](https://github.com/sahajananddigital/selfie.sahajananddigital.in/releases/tag/0.0.1), 2 years ago) - Selfie Website - Get Link from the Readme
 
 #### 🔨 My recent Pull Requests
