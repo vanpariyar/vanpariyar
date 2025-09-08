@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (2 days ago)
-- [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (5 days ago)
+- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (3 days ago)
+- [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (6 days ago)
 - [Shiksha-Skills-Institute/ai-ml-data-science](https://github.com/Shiksha-Skills-Institute/ai-ml-data-science) - This Repository will contain the project files for learning and some solutions, (2 weeks ago)
 - [sahajananddigital/gurukul-account-manager](https://github.com/sahajananddigital/gurukul-account-manager) - Built with Google Apps script - Gurukul Vouchers, Invoice, Expenses, Food Pass etc (2 weeks ago)
-- [sahajananddigital/gurukul-alumni-students-manager](https://github.com/sahajananddigital/gurukul-alumni-students-manager) -  (4 weeks ago)
+- [sahajananddigital/gurukul-alumni-students-manager](https://github.com/sahajananddigital/gurukul-alumni-students-manager) -  (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [bhavesh95863/workboard](https://github.com/bhavesh95863/workboard) - WorkBoard is an internal work management system built on Frappe Framework. (2 weeks ago)
+- [bhavesh95863/workboard](https://github.com/bhavesh95863/workboard) - WorkBoard is an internal work management system built on Frappe Framework. (3 weeks ago)
 - [speedyapply/2026-AI-College-Jobs](https://github.com/speedyapply/2026-AI-College-Jobs) - 2026 AI/ML internship &amp; new graduate job list updated daily (1 month ago)
 - [Tobee1406/Awesome-Google-Dorks](https://github.com/Tobee1406/Awesome-Google-Dorks) - A collection of Awesome Google Dorks. (2 months ago)
 - [khaouitiabdelhakim/Microsoft-Office-With-Activation-For-Lifetime](https://github.com/khaouitiabdelhakim/Microsoft-Office-With-Activation-For-Lifetime) - Microsoft Office Installation and Activation (4 months ago)
