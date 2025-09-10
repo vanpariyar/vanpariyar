@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) -  (today)
 - [vanpariyar/useful-scripts](https://github.com/vanpariyar/useful-scripts) - This repo for the shell script for wordpress automatic install and etc (today)
 - [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (2 days ago)
 - [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (1 week ago)
 - [Shiksha-Skills-Institute/ai-ml-data-science](https://github.com/Shiksha-Skills-Institute/ai-ml-data-science) - This Repository will contain the project files for learning and some solutions, (2 weeks ago)
-- [sahajananddigital/gurukul-account-manager](https://github.com/sahajananddigital/gurukul-account-manager) - Built with Google Apps script - Gurukul Vouchers, Invoice, Expenses, Food Pass etc (3 weeks ago)
 
 #### 🌱 My latest projects
 
