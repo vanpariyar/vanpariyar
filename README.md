@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sahajananddigital/gurukul-food-inventory-management](https://github.com/sahajananddigital/gurukul-food-inventory-management) - This Application is used to manage the food Inventory for the daily usage (1 day ago)
-- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (1 day ago)
-- [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) -  (3 days ago)
-- [vanpariyar/useful-scripts](https://github.com/vanpariyar/useful-scripts) - This repo for the shell script for wordpress automatic install and etc (3 days ago)
+- [sahajananddigital/gurukul-food-inventory-management](https://github.com/sahajananddigital/gurukul-food-inventory-management) - This Application is used to manage the food Inventory for the daily usage (2 days ago)
+- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (2 days ago)
+- [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) -  (4 days ago)
+- [vanpariyar/useful-scripts](https://github.com/vanpariyar/useful-scripts) - This repo for the shell script for wordpress automatic install and etc (4 days ago)
 - [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (1 week ago)
 
 #### 🌱 My latest projects
@@ -39,7 +39,7 @@
 
 #### 📓 Gists I wrote
 
-- [How to fetch sites using wget / Make website static ](https://gist.github.com/766ef11b8b0df51532d9caa859e1fa84) (3 days ago)
+- [How to fetch sites using wget / Make website static ](https://gist.github.com/766ef11b8b0df51532d9caa859e1fa84) (4 days ago)
 - [Fix Google Appscript error, CORS](https://gist.github.com/c198a2ab9912c97a8eea002f71f61b0d) (3 months ago)
 - [How to Migrate website Database from Mysql to Sqlite or vice versa](https://gist.github.com/720f04a57721e24eb2af2b1112ec89c4) (1 year ago)
 - [How to fix Unix socket error in Docker in WSL2](https://gist.github.com/c3e90157b6aec1f19ae9462941412672) (2 years ago)
