@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (3 days ago)
-- [sahajananddigital/gurukul-food-inventory-management](https://github.com/sahajananddigital/gurukul-food-inventory-management) - This Application is used to manage the food Inventory for the daily usage (3 days ago)
-- [vanpariyar/useful-scripts](https://github.com/vanpariyar/useful-scripts) - This repo for the shell script for wordpress automatic install and etc (5 days ago)
-- [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) -  (5 days ago)
-- [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (1 week ago)
+- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (4 days ago)
+- [sahajananddigital/gurukul-food-inventory-management](https://github.com/sahajananddigital/gurukul-food-inventory-management) - This Application is used to manage the food Inventory for the daily usage (4 days ago)
+- [vanpariyar/useful-scripts](https://github.com/vanpariyar/useful-scripts) - This repo for the shell script for wordpress automatic install and etc (6 days ago)
+- [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) -  (6 days ago)
+- [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -31,7 +31,7 @@
 
 #### 📜 My recent blog posts
 
-- [How to Self-Host WordPress Playground on GitHub Pages with a Custom Domain](https://vanpariyar.in/blog/how-to-self-host-wordpress-playground-on-github-pages-with-a-custom-domain/) (10 months ago)
+- [How to Self-Host WordPress Playground on GitHub Pages with a Custom Domain](https://vanpariyar.in/blog/how-to-self-host-wordpress-playground-on-github-pages-with-a-custom-domain/) (11 months ago)
 - [Getting Started with Gutenberg Editor Custom Block Development](https://vanpariyar.in/blog/how-to-start-with-gutenberg-editor-custom-block-development/) (1 year ago)
 - [Fetch Instagram Details](https://vanpariyar.in/blog/fetch-instagram-details/) (1 year ago)
 - [How to remove HTML tags from the REST API title and content in WordPress](https://vanpariyar.in/blog/how-to-remove-html-tags-from-the-rest-api-title-and-content-in-wordpress/) (1 year ago)
@@ -39,7 +39,7 @@
 
 #### 📓 Gists I wrote
 
-- [How to fetch sites using wget / Make website static ](https://gist.github.com/766ef11b8b0df51532d9caa859e1fa84) (5 days ago)
+- [How to fetch sites using wget / Make website static ](https://gist.github.com/766ef11b8b0df51532d9caa859e1fa84) (6 days ago)
 - [Fix Google Appscript error, CORS](https://gist.github.com/c198a2ab9912c97a8eea002f71f61b0d) (3 months ago)
 - [How to Migrate website Database from Mysql to Sqlite or vice versa](https://gist.github.com/720f04a57721e24eb2af2b1112ec89c4) (1 year ago)
 - [How to fix Unix socket error in Docker in WSL2](https://gist.github.com/c3e90157b6aec1f19ae9462941412672) (2 years ago)
