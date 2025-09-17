@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (today)
-- [sahajananddigital/gurukul-food-inventory-management](https://github.com/sahajananddigital/gurukul-food-inventory-management) - This Application is used to manage the food Inventory for the daily usage (4 days ago)
-- [vanpariyar/useful-scripts](https://github.com/vanpariyar/useful-scripts) - This repo for the shell script for wordpress automatic install and etc (6 days ago)
-- [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) -  (6 days ago)
+- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (1 day ago)
+- [sahajananddigital/gurukul-food-inventory-management](https://github.com/sahajananddigital/gurukul-food-inventory-management) - This Application is used to manage the food Inventory for the daily usage (5 days ago)
+- [vanpariyar/useful-scripts](https://github.com/vanpariyar/useful-scripts) - This repo for the shell script for wordpress automatic install and etc (1 week ago)
+- [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) -  (1 week ago)
 - [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -39,7 +39,7 @@
 
 #### 📓 Gists I wrote
 
-- [How to fetch sites using wget / Make website static ](https://gist.github.com/766ef11b8b0df51532d9caa859e1fa84) (6 days ago)
+- [How to fetch sites using wget / Make website static ](https://gist.github.com/766ef11b8b0df51532d9caa859e1fa84) (1 week ago)
 - [Fix Google Appscript error, CORS](https://gist.github.com/c198a2ab9912c97a8eea002f71f61b0d) (3 months ago)
 - [How to Migrate website Database from Mysql to Sqlite or vice versa](https://gist.github.com/720f04a57721e24eb2af2b1112ec89c4) (1 year ago)
 - [How to fix Unix socket error in Docker in WSL2](https://gist.github.com/c3e90157b6aec1f19ae9462941412672) (2 years ago)
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [bhavesh95863/workboard](https://github.com/bhavesh95863/workboard) - WorkBoard is an internal work management system built on Frappe Framework. (4 weeks ago)
+- [bhavesh95863/workboard](https://github.com/bhavesh95863/workboard) - WorkBoard is an internal work management system built on Frappe Framework. (1 month ago)
 - [speedyapply/2026-AI-College-Jobs](https://github.com/speedyapply/2026-AI-College-Jobs) - 2026 AI/ML internship &amp; new graduate job list updated daily (1 month ago)
 - [Tobee1406/Awesome-Google-Dorks](https://github.com/Tobee1406/Awesome-Google-Dorks) - A collection of Awesome Google Dorks. (2 months ago)
 - [khaouitiabdelhakim/Microsoft-Office-With-Activation-For-Lifetime](https://github.com/khaouitiabdelhakim/Microsoft-Office-With-Activation-For-Lifetime) - Microsoft Office Installation and Activation (5 months ago)
