@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (1 day ago)
-- [sahajananddigital/gurukul-food-inventory-management](https://github.com/sahajananddigital/gurukul-food-inventory-management) - This Application is used to manage the food Inventory for the daily usage (6 days ago)
+- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (2 days ago)
+- [sahajananddigital/gurukul-food-inventory-management](https://github.com/sahajananddigital/gurukul-food-inventory-management) - This Application is used to manage the food Inventory for the daily usage (1 week ago)
 - [vanpariyar/useful-scripts](https://github.com/vanpariyar/useful-scripts) - This repo for the shell script for wordpress automatic install and etc (1 week ago)
 - [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) -  (1 week ago)
 - [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (2 weeks ago)
