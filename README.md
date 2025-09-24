@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Swaminarayan-Gurukul/gurukul-account-manager](https://github.com/Swaminarayan-Gurukul/gurukul-account-manager) - Built with Google Apps script - Gurukul Vouchers, Invoice, Expenses, Food Pass etc (1 day ago)
-- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (1 day ago)
-- [Swaminarayan-Gurukul/Swaminarayan-Gurukul.github.io](https://github.com/Swaminarayan-Gurukul/Swaminarayan-Gurukul.github.io) - Pages Wesbite (3 days ago)
-- [sahajananddigital/fossbilling-razorpay-payment-gateway](https://github.com/sahajananddigital/fossbilling-razorpay-payment-gateway) - This is the opensource payment gateway for FOSSBilling software (4 days ago)
+- [Swaminarayan-Gurukul/gurukul-account-manager](https://github.com/Swaminarayan-Gurukul/gurukul-account-manager) - Built with Google Apps script - Gurukul Vouchers, Invoice, Expenses, Food Pass etc (2 days ago)
+- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (2 days ago)
+- [Swaminarayan-Gurukul/Swaminarayan-Gurukul.github.io](https://github.com/Swaminarayan-Gurukul/Swaminarayan-Gurukul.github.io) - Pages Wesbite (4 days ago)
+- [sahajananddigital/fossbilling-razorpay-payment-gateway](https://github.com/sahajananddigital/fossbilling-razorpay-payment-gateway) - This is the opensource payment gateway for FOSSBilling software (5 days ago)
 - [Swaminarayan-Gurukul/gurukul-food-inventory-management](https://github.com/Swaminarayan-Gurukul/gurukul-food-inventory-management) - This Application is used to manage the food Inventory for the daily usage (1 week ago)
 
 #### 🌱 My latest projects
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sahajananddigital/fossbilling-razorpay-payment-gateway](https://github.com/sahajananddigital/fossbilling-razorpay-payment-gateway) ([1.0](https://github.com/sahajananddigital/fossbilling-razorpay-payment-gateway/releases/tag/1.0), 4 days ago) - This is the opensource payment gateway for FOSSBilling software
+- [sahajananddigital/fossbilling-razorpay-payment-gateway](https://github.com/sahajananddigital/fossbilling-razorpay-payment-gateway) ([1.0](https://github.com/sahajananddigital/fossbilling-razorpay-payment-gateway/releases/tag/1.0), 5 days ago) - This is the opensource payment gateway for FOSSBilling software
 - [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.20](https://github.com/vanpariyar/wp-post-views/releases/tag/1.20), 7 months ago) - This is the simple plugin that counts the views of the your wordpress website
 - [sahajananddigital/selfie.sahajananddigital.in](https://github.com/sahajananddigital/selfie.sahajananddigital.in) ([0.0.1](https://github.com/sahajananddigital/selfie.sahajananddigital.in/releases/tag/0.0.1), 2 years ago) - Selfie Website - Get Link from the Readme
 
@@ -40,7 +40,7 @@
 
 #### 📓 Gists I wrote
 
-- [How to fetch sites using wget / Make website static ](https://gist.github.com/766ef11b8b0df51532d9caa859e1fa84) (1 week ago)
+- [How to fetch sites using wget / Make website static ](https://gist.github.com/766ef11b8b0df51532d9caa859e1fa84) (2 weeks ago)
 - [Fix Google Appscript error, CORS](https://gist.github.com/c198a2ab9912c97a8eea002f71f61b0d) (3 months ago)
 - [How to Migrate website Database from Mysql to Sqlite or vice versa](https://gist.github.com/720f04a57721e24eb2af2b1112ec89c4) (1 year ago)
 - [How to fix Unix socket error in Docker in WSL2](https://gist.github.com/c3e90157b6aec1f19ae9462941412672) (2 years ago)
