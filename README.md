@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) - This is the simple plugin that counts the views of the your wordpress website (today)
 - [vanpariyar/telegram-youtube-rss-bot](https://github.com/vanpariyar/telegram-youtube-rss-bot) - Telegram RSS bot (today)
+- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) - This is the simple plugin that counts the views of the your wordpress website (today)
+- [Swaminarayan-Gurukul/gurukul-food-inventory-management](https://github.com/Swaminarayan-Gurukul/gurukul-food-inventory-management) - This Application is used to manage the food Inventory for the daily usage (today)
 - [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (1 day ago)
 - [Swaminarayan-Gurukul/gurukul-account-manager](https://github.com/Swaminarayan-Gurukul/gurukul-account-manager) - Built with Google Apps script - Gurukul Vouchers, Invoice, Expenses, Food Pass etc (4 days ago)
-- [Swaminarayan-Gurukul/Swaminarayan-Gurukul.github.io](https://github.com/Swaminarayan-Gurukul/Swaminarayan-Gurukul.github.io) - Pages Wesbite (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -24,11 +24,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Enhance user feedback in transaction handling and improve optimistic UI updates](https://github.com/Swaminarayan-Gurukul/gurukul-food-inventory-management/pull/1) on [Swaminarayan-Gurukul/gurukul-food-inventory-management](https://github.com/Swaminarayan-Gurukul/gurukul-food-inventory-management) (today)
 - [Update README.md](https://github.com/sahajananddigital/photo-frame-react/pull/8) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (3 months ago)
 - [Harismruti](https://github.com/sahajananddigital/photo-frame-react/pull/7) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (3 months ago)
 - [added text size](https://github.com/sahajananddigital/photo-frame-react/pull/6) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (8 months ago)
 - [Added Font](https://github.com/sahajananddigital/photo-frame-react/pull/5) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (8 months ago)
-- [Setup New URL](https://github.com/sahajananddigital/photo-frame-react/pull/4) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (8 months ago)
 
 #### 📜 My recent blog posts
 
