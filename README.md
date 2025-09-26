@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) - This is the simple plugin that counts the views of the your wordpress website (today)
 - [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (1 day ago)
 - [Swaminarayan-Gurukul/gurukul-account-manager](https://github.com/Swaminarayan-Gurukul/gurukul-account-manager) - Built with Google Apps script - Gurukul Vouchers, Invoice, Expenses, Food Pass etc (4 days ago)
 - [Swaminarayan-Gurukul/Swaminarayan-Gurukul.github.io](https://github.com/Swaminarayan-Gurukul/Swaminarayan-Gurukul.github.io) - Pages Wesbite (6 days ago)
 - [sahajananddigital/fossbilling-razorpay-payment-gateway](https://github.com/sahajananddigital/fossbilling-razorpay-payment-gateway) - This is the opensource payment gateway for FOSSBilling software (1 week ago)
-- [Swaminarayan-Gurukul/gurukul-food-inventory-management](https://github.com/Swaminarayan-Gurukul/gurukul-food-inventory-management) - This Application is used to manage the food Inventory for the daily usage (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.21](https://github.com/vanpariyar/wp-post-views/releases/tag/1.21), today) - This is the simple plugin that counts the views of the your wordpress website
 - [sahajananddigital/fossbilling-razorpay-payment-gateway](https://github.com/sahajananddigital/fossbilling-razorpay-payment-gateway) ([1.0](https://github.com/sahajananddigital/fossbilling-razorpay-payment-gateway/releases/tag/1.0), 1 week ago) - This is the opensource payment gateway for FOSSBilling software
-- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.20](https://github.com/vanpariyar/wp-post-views/releases/tag/1.20), 7 months ago) - This is the simple plugin that counts the views of the your wordpress website
 - [sahajananddigital/selfie.sahajananddigital.in](https://github.com/sahajananddigital/selfie.sahajananddigital.in) ([0.0.1](https://github.com/sahajananddigital/selfie.sahajananddigital.in/releases/tag/0.0.1), 2 years ago) - Selfie Website - Get Link from the Readme
 
 #### 🔨 My recent Pull Requests
