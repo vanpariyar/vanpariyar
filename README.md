@@ -3,18 +3,18 @@
 #### 👷 Check out what I'm currently working on
 
 - [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) - This is the simple plugin that counts the views of the your wordpress website (today)
+- [vanpariyar/telegram-youtube-rss-bot](https://github.com/vanpariyar/telegram-youtube-rss-bot) - Telegram RSS bot (today)
 - [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (1 day ago)
 - [Swaminarayan-Gurukul/gurukul-account-manager](https://github.com/Swaminarayan-Gurukul/gurukul-account-manager) - Built with Google Apps script - Gurukul Vouchers, Invoice, Expenses, Food Pass etc (4 days ago)
 - [Swaminarayan-Gurukul/Swaminarayan-Gurukul.github.io](https://github.com/Swaminarayan-Gurukul/Swaminarayan-Gurukul.github.io) - Pages Wesbite (6 days ago)
-- [sahajananddigital/fossbilling-razorpay-payment-gateway](https://github.com/sahajananddigital/fossbilling-razorpay-payment-gateway) - This is the opensource payment gateway for FOSSBilling software (1 week ago)
 
 #### 🌱 My latest projects
 
+- [vanpariyar/telegram-youtube-rss-bot](https://github.com/vanpariyar/telegram-youtube-rss-bot) - Telegram RSS bot
 - [vanpariyar/vmc-project](https://github.com/vanpariyar/vmc-project) - 
 - [vanpariyar/sahitya](https://github.com/vanpariyar/sahitya) - 
 - [vanpariyar/seminar-ai-intro-and-game-development](https://github.com/vanpariyar/seminar-ai-intro-and-game-development) - 
 - [vanpariyar/dotfiles](https://github.com/vanpariyar/dotfiles) - My .files contains WorkFlow related files
-- [vanpariyar/python-scripts](https://github.com/vanpariyar/python-scripts) - Here are my public scripts that i run every time to automating manual works
 
 #### 🔭 Latest releases I've contributed to
 
