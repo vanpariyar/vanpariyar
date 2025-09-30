@@ -60,7 +60,7 @@
 #### 👯 Check out some of my recent followers
 
 - [standardgalactic](https://github.com/standardgalactic)
-- [meliksahyorulmazlar](https://github.com/meliksahyorulmazlar)
+- [kamilmeliksahyorulmazlar](https://github.com/kamilmeliksahyorulmazlar)
 - [Dharm3112](https://github.com/Dharm3112)
 - [abhi-2255](https://github.com/abhi-2255)
 - [ableksaju](https://github.com/ableksaju)
