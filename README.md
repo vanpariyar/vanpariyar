@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) - This is the simple plugin that counts the views of the your wordpress website (4 days ago)
-- [Swaminarayan-Gurukul/gurukul-food-inventory-management](https://github.com/Swaminarayan-Gurukul/gurukul-food-inventory-management) - This Application is used to manage the food Inventory for the daily usage (4 days ago)
-- [vanpariyar/telegram-youtube-rss-bot](https://github.com/vanpariyar/telegram-youtube-rss-bot) - Telegram RSS bot (4 days ago)
-- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (5 days ago)
+- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) - This is the simple plugin that counts the views of the your wordpress website (5 days ago)
+- [Swaminarayan-Gurukul/gurukul-food-inventory-management](https://github.com/Swaminarayan-Gurukul/gurukul-food-inventory-management) - This Application is used to manage the food Inventory for the daily usage (5 days ago)
+- [vanpariyar/telegram-youtube-rss-bot](https://github.com/vanpariyar/telegram-youtube-rss-bot) - Telegram RSS bot (5 days ago)
+- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (6 days ago)
 - [Swaminarayan-Gurukul/gurukul-account-manager](https://github.com/Swaminarayan-Gurukul/gurukul-account-manager) - Built with Google Apps script - Gurukul Vouchers, Invoice, Expenses, Food Pass etc (1 week ago)
 
 #### 🌱 My latest projects
@@ -18,13 +18,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.21](https://github.com/vanpariyar/wp-post-views/releases/tag/1.21), 4 days ago) - This is the simple plugin that counts the views of the your wordpress website
+- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.21](https://github.com/vanpariyar/wp-post-views/releases/tag/1.21), 5 days ago) - This is the simple plugin that counts the views of the your wordpress website
 - [sahajananddigital/fossbilling-razorpay-payment-gateway](https://github.com/sahajananddigital/fossbilling-razorpay-payment-gateway) ([1.0](https://github.com/sahajananddigital/fossbilling-razorpay-payment-gateway/releases/tag/1.0), 1 week ago) - This is the opensource payment gateway for FOSSBilling software
 - [sahajananddigital/selfie.sahajananddigital.in](https://github.com/sahajananddigital/selfie.sahajananddigital.in) ([0.0.1](https://github.com/sahajananddigital/selfie.sahajananddigital.in/releases/tag/0.0.1), 2 years ago) - Selfie Website - Get Link from the Readme
 
 #### 🔨 My recent Pull Requests
 
-- [Enhance user feedback in transaction handling and improve optimistic UI updates](https://github.com/Swaminarayan-Gurukul/gurukul-food-inventory-management/pull/1) on [Swaminarayan-Gurukul/gurukul-food-inventory-management](https://github.com/Swaminarayan-Gurukul/gurukul-food-inventory-management) (4 days ago)
+- [Enhance user feedback in transaction handling and improve optimistic UI updates](https://github.com/Swaminarayan-Gurukul/gurukul-food-inventory-management/pull/1) on [Swaminarayan-Gurukul/gurukul-food-inventory-management](https://github.com/Swaminarayan-Gurukul/gurukul-food-inventory-management) (5 days ago)
 - [Update README.md](https://github.com/sahajananddigital/photo-frame-react/pull/8) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (3 months ago)
 - [Harismruti](https://github.com/sahajananddigital/photo-frame-react/pull/7) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (3 months ago)
 - [added text size](https://github.com/sahajananddigital/photo-frame-react/pull/6) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (8 months ago)
@@ -40,7 +40,7 @@
 
 #### 📓 Gists I wrote
 
-- [How to fetch sites using wget / Make website static ](https://gist.github.com/766ef11b8b0df51532d9caa859e1fa84) (2 weeks ago)
+- [How to fetch sites using wget / Make website static ](https://gist.github.com/766ef11b8b0df51532d9caa859e1fa84) (3 weeks ago)
 - [Fix Google Appscript error, CORS](https://gist.github.com/c198a2ab9912c97a8eea002f71f61b0d) (3 months ago)
 - [How to Migrate website Database from Mysql to Sqlite or vice versa](https://gist.github.com/720f04a57721e24eb2af2b1112ec89c4) (1 year ago)
 - [How to fix Unix socket error in Docker in WSL2](https://gist.github.com/c3e90157b6aec1f19ae9462941412672) (2 years ago)
@@ -48,7 +48,7 @@
 
 #### ⭐ Recent Stars
 
-- [vernu/textbee](https://github.com/vernu/textbee) - open-source sms-gateway. turn any android phone into an sms gateway (4 days ago)
+- [vernu/textbee](https://github.com/vernu/textbee) - open-source sms-gateway. turn any android phone into an sms gateway (5 days ago)
 - [bhavesh95863/workboard](https://github.com/bhavesh95863/workboard) - WorkBoard is an internal work management system built on Frappe Framework. (1 month ago)
 - [speedyapply/2026-AI-College-Jobs](https://github.com/speedyapply/2026-AI-College-Jobs) - 2026 AI/ML internship &amp; new graduate job list updated daily (1 month ago)
 - [Tobee1406/Awesome-Google-Dorks](https://github.com/Tobee1406/Awesome-Google-Dorks) - A collection of Awesome Google Dorks. (2 months ago)
