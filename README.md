@@ -63,7 +63,7 @@
 - [Dharm3112](https://github.com/Dharm3112)
 - [abhi-2255](https://github.com/abhi-2255)
 - [ableksaju](https://github.com/ableksaju)
-- [SalmanO7](https://github.com/SalmanO7)
+- [PatilAditya009](https://github.com/PatilAditya009)
 
 #### 💬 Feedback
 
