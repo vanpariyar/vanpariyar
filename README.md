@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Shiksha-Skills-Institute/quiz-application](https://github.com/Shiksha-Skills-Institute/quiz-application) - This is the Quiz Application, We have developed in 2025 while learning web development (1 day ago)
-- [sahajananddigital/csv-to-labels](https://github.com/sahajananddigital/csv-to-labels) -  (1 day ago)
-- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) - This is the simple plugin that counts the views of the your wordpress website (6 days ago)
-- [vanpariyar/telegram-youtube-rss-bot](https://github.com/vanpariyar/telegram-youtube-rss-bot) - Telegram RSS bot (6 days ago)
-- [Swaminarayan-Gurukul/gurukul-food-inventory-management](https://github.com/Swaminarayan-Gurukul/gurukul-food-inventory-management) - This Application is used to manage the food Inventory for the daily usage (6 days ago)
+- [Shiksha-Skills-Institute/quiz-application](https://github.com/Shiksha-Skills-Institute/quiz-application) - This is the Quiz Application, We have developed in 2025 while learning web development (2 days ago)
+- [sahajananddigital/csv-to-labels](https://github.com/sahajananddigital/csv-to-labels) -  (2 days ago)
+- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) - This is the simple plugin that counts the views of the your wordpress website (1 week ago)
+- [vanpariyar/telegram-youtube-rss-bot](https://github.com/vanpariyar/telegram-youtube-rss-bot) - Telegram RSS bot (1 week ago)
+- [Swaminarayan-Gurukul/gurukul-food-inventory-management](https://github.com/Swaminarayan-Gurukul/gurukul-food-inventory-management) - This Application is used to manage the food Inventory for the daily usage (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,14 +18,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.21](https://github.com/vanpariyar/wp-post-views/releases/tag/1.21), 6 days ago) - This is the simple plugin that counts the views of the your wordpress website
-- [sahajananddigital/fossbilling-razorpay-payment-gateway](https://github.com/sahajananddigital/fossbilling-razorpay-payment-gateway) ([1.0](https://github.com/sahajananddigital/fossbilling-razorpay-payment-gateway/releases/tag/1.0), 1 week ago) - This is the opensource payment gateway for FOSSBilling software
+- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.21](https://github.com/vanpariyar/wp-post-views/releases/tag/1.21), 1 week ago) - This is the simple plugin that counts the views of the your wordpress website
+- [sahajananddigital/fossbilling-razorpay-payment-gateway](https://github.com/sahajananddigital/fossbilling-razorpay-payment-gateway) ([1.0](https://github.com/sahajananddigital/fossbilling-razorpay-payment-gateway/releases/tag/1.0), 2 weeks ago) - This is the opensource payment gateway for FOSSBilling software
 - [sahajananddigital/selfie.sahajananddigital.in](https://github.com/sahajananddigital/selfie.sahajananddigital.in) ([0.0.1](https://github.com/sahajananddigital/selfie.sahajananddigital.in/releases/tag/0.0.1), 2 years ago) - Selfie Website - Get Link from the Readme
 
 #### 🔨 My recent Pull Requests
 
-- [Add custom fonts and update label drawing style](https://github.com/sahajananddigital/csv-to-labels/pull/1) on [sahajananddigital/csv-to-labels](https://github.com/sahajananddigital/csv-to-labels) (1 day ago)
-- [Enhance user feedback in transaction handling and improve optimistic UI updates](https://github.com/Swaminarayan-Gurukul/gurukul-food-inventory-management/pull/1) on [Swaminarayan-Gurukul/gurukul-food-inventory-management](https://github.com/Swaminarayan-Gurukul/gurukul-food-inventory-management) (6 days ago)
+- [Add custom fonts and update label drawing style](https://github.com/sahajananddigital/csv-to-labels/pull/1) on [sahajananddigital/csv-to-labels](https://github.com/sahajananddigital/csv-to-labels) (2 days ago)
+- [Enhance user feedback in transaction handling and improve optimistic UI updates](https://github.com/Swaminarayan-Gurukul/gurukul-food-inventory-management/pull/1) on [Swaminarayan-Gurukul/gurukul-food-inventory-management](https://github.com/Swaminarayan-Gurukul/gurukul-food-inventory-management) (1 week ago)
 - [Update README.md](https://github.com/sahajananddigital/photo-frame-react/pull/8) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (3 months ago)
 - [Harismruti](https://github.com/sahajananddigital/photo-frame-react/pull/7) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (3 months ago)
 - [added text size](https://github.com/sahajananddigital/photo-frame-react/pull/6) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (8 months ago)
@@ -48,9 +48,9 @@
 
 #### ⭐ Recent Stars
 
-- [vernu/textbee](https://github.com/vernu/textbee) - open-source sms-gateway. turn any android phone into an sms gateway (6 days ago)
+- [vernu/textbee](https://github.com/vernu/textbee) - open-source sms-gateway. turn any android phone into an sms gateway (1 week ago)
 - [bhavesh95863/workboard](https://github.com/bhavesh95863/workboard) - WorkBoard is an internal work management system built on Frappe Framework. (1 month ago)
-- [speedyapply/2026-AI-College-Jobs](https://github.com/speedyapply/2026-AI-College-Jobs) - 2026 AI/ML internship &amp; new graduate job list updated daily (1 month ago)
+- [speedyapply/2026-AI-College-Jobs](https://github.com/speedyapply/2026-AI-College-Jobs) - 2026 AI/ML internship &amp; new graduate job list updated daily (2 months ago)
 - [Tobee1406/Awesome-Google-Dorks](https://github.com/Tobee1406/Awesome-Google-Dorks) - A collection of Awesome Google Dorks. (2 months ago)
 - [khaouitiabdelhakim/Microsoft-Office-With-Activation-For-Lifetime](https://github.com/khaouitiabdelhakim/Microsoft-Office-With-Activation-For-Lifetime) - Microsoft Office Installation and Activation (5 months ago)
 
