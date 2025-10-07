@@ -2,19 +2,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [vanpariyar/books](https://github.com/vanpariyar/books) - Shows which book i am reading (today)
 - [Shiksha-Skills-Institute/quiz-application](https://github.com/Shiksha-Skills-Institute/quiz-application) - This is the Quiz Application, We have developed in 2025 while learning web development (today)
 - [sahajananddigital/csv-to-labels](https://github.com/sahajananddigital/csv-to-labels) -  (6 days ago)
-- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) - This is the simple plugin that counts the views of the your wordpress website (1 week ago)
-- [vanpariyar/telegram-youtube-rss-bot](https://github.com/vanpariyar/telegram-youtube-rss-bot) - Telegram RSS bot (1 week ago)
 - [Swaminarayan-Gurukul/gurukul-food-inventory-management](https://github.com/Swaminarayan-Gurukul/gurukul-food-inventory-management) - This Application is used to manage the food Inventory for the daily usage (1 week ago)
+- [vanpariyar/telegram-youtube-rss-bot](https://github.com/vanpariyar/telegram-youtube-rss-bot) - Telegram RSS bot (1 week ago)
 
 #### 🌱 My latest projects
 
+- [vanpariyar/books](https://github.com/vanpariyar/books) - Shows which book i am reading
 - [vanpariyar/telegram-youtube-rss-bot](https://github.com/vanpariyar/telegram-youtube-rss-bot) - Telegram RSS bot
 - [vanpariyar/vmc-project](https://github.com/vanpariyar/vmc-project) - 
 - [vanpariyar/sahitya](https://github.com/vanpariyar/sahitya) - 
 - [vanpariyar/seminar-ai-intro-and-game-development](https://github.com/vanpariyar/seminar-ai-intro-and-game-development) - 
-- [vanpariyar/dotfiles](https://github.com/vanpariyar/dotfiles) - My .files contains WorkFlow related files
 
 #### 🔭 Latest releases I've contributed to
 
