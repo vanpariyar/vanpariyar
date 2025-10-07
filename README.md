@@ -46,6 +46,9 @@
 - [How to fix Unix socket error in Docker in WSL2](https://gist.github.com/c3e90157b6aec1f19ae9462941412672) (2 years ago)
 - [Day to day customisation needed for code so making one plugin to reuse in every plugin ](https://gist.github.com/95880b458a6110bb9f4d8c588cb4f119) (2 years ago)
 
+#### 📓 Books I am Reading
+https://github.com/vanpariyar/books
+
 #### ⭐ Recent Stars
 
 - [vernu/textbee](https://github.com/vernu/textbee) - open-source sms-gateway. turn any android phone into an sms gateway (1 week ago)
