@@ -30,6 +30,13 @@
 - [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
+### 📚 Recent Books
+{{range json "https://raw.githubusercontent.com/vanpariyar/books/refs/heads/main/api.json" 5}}
+- [{{.title}}]({{.url}})  
+  <img src="{{.image}}" width="200" alt="{{.title}}" />  
+  _({{humanize .published}})_
+{{- end}}
+
 #### ⭐ Recent Stars
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
