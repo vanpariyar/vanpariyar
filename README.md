@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-#### 👷 Check out what I'm currently working on 
+#### 👷 Check out what I'm currently working on
 
 - [vanpariyar/books](https://github.com/vanpariyar/books) - Shows which book i am reading (today)
 - [Shiksha-Skills-Institute/quiz-application](https://github.com/Shiksha-Skills-Institute/quiz-application) - This is the Quiz Application, We have developed in 2025 while learning web development (today)
 - [sahajananddigital/csv-to-labels](https://github.com/sahajananddigital/csv-to-labels) -  (6 days ago)
 - [Swaminarayan-Gurukul/gurukul-food-inventory-management](https://github.com/Swaminarayan-Gurukul/gurukul-food-inventory-management) - This Application is used to manage the food Inventory for the daily usage (1 week ago)
-- [vanpariyar/telegram-youtube-rss-bot](https://github.com/vanpariyar/telegram-youtube-rss-bot) - Telegram RSS bot (1 week ago)
+- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) - This is the simple plugin that counts the views of the your wordpress website (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -87,4 +87,5 @@ Say Hello, I love to talk with you :smile: !
 ![Ronak Vanpariya's github stats](https://github-readme-stats.vercel.app/api?username=vanpariyar&show_icons=true&hide_border=true)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
+
 
