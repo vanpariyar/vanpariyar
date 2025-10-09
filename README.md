@@ -2,19 +2,19 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Shiksha-Skills-Institute/quiz-application](https://github.com/Shiksha-Skills-Institute/quiz-application) - This is the Quiz Application, We have developed in 2025 while learning web development (today)
+- [vanpariyar/action-create-recurring-issue](https://github.com/vanpariyar/action-create-recurring-issue) - Github Action that creates the Recurring issues, Maybe a missing piece from the github projects (today)
 - [vanpariyar/testing-repo](https://github.com/vanpariyar/testing-repo) - This is the testing repo (today)
+- [Shiksha-Skills-Institute/quiz-application](https://github.com/Shiksha-Skills-Institute/quiz-application) - This is the Quiz Application, We have developed in 2025 while learning web development (today)
 - [vanpariyar/books](https://github.com/vanpariyar/books) - Shows which book i am reading (2 days ago)
 - [sahajananddigital/csv-to-labels](https://github.com/sahajananddigital/csv-to-labels) -  (1 week ago)
-- [Swaminarayan-Gurukul/gurukul-food-inventory-management](https://github.com/Swaminarayan-Gurukul/gurukul-food-inventory-management) - This Application is used to manage the food Inventory for the daily usage (1 week ago)
 
 #### 🌱 My latest projects
 
+- [vanpariyar/action-create-recurring-issue](https://github.com/vanpariyar/action-create-recurring-issue) - Github Action that creates the Recurring issues, Maybe a missing piece from the github projects
 - [vanpariyar/testing-repo](https://github.com/vanpariyar/testing-repo) - This is the testing repo
 - [vanpariyar/books](https://github.com/vanpariyar/books) - Shows which book i am reading
 - [vanpariyar/telegram-youtube-rss-bot](https://github.com/vanpariyar/telegram-youtube-rss-bot) - Telegram RSS bot
 - [vanpariyar/vmc-project](https://github.com/vanpariyar/vmc-project) - 
-- [vanpariyar/sahitya](https://github.com/vanpariyar/sahitya) - 
 
 #### 🔭 Latest releases I've contributed to
 
