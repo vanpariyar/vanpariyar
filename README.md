@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vanpariyar/action-create-recurring-issue](https://github.com/vanpariyar/action-create-recurring-issue) - Github Action that creates the Recurring issues, Maybe a missing piece from the github projects (2 days ago)
-- [Shiksha-Skills-Institute/quiz-application](https://github.com/Shiksha-Skills-Institute/quiz-application) - This is the Quiz Application, We have developed in 2025 while learning web development (3 days ago)
-- [vanpariyar/testing-repo](https://github.com/vanpariyar/testing-repo) - This is the testing repo (3 days ago)
-- [vanpariyar/books](https://github.com/vanpariyar/books) - Shows which book i am reading (5 days ago)
+- [vanpariyar/action-create-recurring-issue](https://github.com/vanpariyar/action-create-recurring-issue) - Github Action that creates the Recurring issues, Maybe a missing piece from the github projects (3 days ago)
+- [Shiksha-Skills-Institute/quiz-application](https://github.com/Shiksha-Skills-Institute/quiz-application) - This is the Quiz Application, We have developed in 2025 while learning web development (4 days ago)
+- [vanpariyar/testing-repo](https://github.com/vanpariyar/testing-repo) - This is the testing repo (4 days ago)
+- [vanpariyar/books](https://github.com/vanpariyar/books) - Shows which book i am reading (6 days ago)
 - [sahajananddigital/csv-to-labels](https://github.com/sahajananddigital/csv-to-labels) -  (1 week ago)
 
 #### 🌱 My latest projects
@@ -41,7 +41,7 @@
 #### 📓 Gists I wrote
 
 - [How to fetch sites using wget / Make website static ](https://gist.github.com/766ef11b8b0df51532d9caa859e1fa84) (1 month ago)
-- [Fix Google Appscript error, CORS](https://gist.github.com/c198a2ab9912c97a8eea002f71f61b0d) (3 months ago)
+- [Fix Google Appscript error, CORS](https://gist.github.com/c198a2ab9912c97a8eea002f71f61b0d) (4 months ago)
 - [How to Migrate website Database from Mysql to Sqlite or vice versa](https://gist.github.com/720f04a57721e24eb2af2b1112ec89c4) (1 year ago)
 - [How to fix Unix socket error in Docker in WSL2](https://gist.github.com/c3e90157b6aec1f19ae9462941412672) (2 years ago)
 - [Day to day customisation needed for code so making one plugin to reuse in every plugin ](https://gist.github.com/95880b458a6110bb9f4d8c588cb4f119) (2 years ago)
@@ -55,7 +55,7 @@ https://github.com/vanpariyar/books
 - [bhavesh95863/workboard](https://github.com/bhavesh95863/workboard) - WorkBoard is an internal work management system built on Frappe Framework. (1 month ago)
 - [speedyapply/2026-AI-College-Jobs](https://github.com/speedyapply/2026-AI-College-Jobs) - 2026 AI/ML internship &amp; new graduate job list updated daily (2 months ago)
 - [Tobee1406/Awesome-Google-Dorks](https://github.com/Tobee1406/Awesome-Google-Dorks) - A collection of Awesome Google Dorks. (3 months ago)
-- [khaouitiabdelhakim/Microsoft-Office-With-Activation-For-Lifetime](https://github.com/khaouitiabdelhakim/Microsoft-Office-With-Activation-For-Lifetime) - Microsoft Office Installation and Activation (5 months ago)
+- [khaouitiabdelhakim/Microsoft-Office-With-Activation-For-Lifetime](https://github.com/khaouitiabdelhakim/Microsoft-Office-With-Activation-For-Lifetime) - Microsoft Office Installation and Activation (6 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
