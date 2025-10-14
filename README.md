@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Swaminarayan-Gurukul/gurukul-account-manager](https://github.com/Swaminarayan-Gurukul/gurukul-account-manager) - Built with Google Apps script - Gurukul Vouchers, Invoice, Expenses, Food Pass etc (today)
-- [vanpariyar/action-create-recurring-issue](https://github.com/vanpariyar/action-create-recurring-issue) - Github Action that creates the Recurring issues, Maybe a missing piece from the github projects (3 days ago)
-- [vanpariyar/testing-repo](https://github.com/vanpariyar/testing-repo) - This is the testing repo (4 days ago)
-- [Shiksha-Skills-Institute/quiz-application](https://github.com/Shiksha-Skills-Institute/quiz-application) - This is the Quiz Application, We have developed in 2025 while learning web development (4 days ago)
-- [vanpariyar/books](https://github.com/vanpariyar/books) - Shows which book i am reading (6 days ago)
+- [Swaminarayan-Gurukul/gurukul-account-manager](https://github.com/Swaminarayan-Gurukul/gurukul-account-manager) - Built with Google Apps script - Gurukul Vouchers, Invoice, Expenses, Food Pass etc (1 day ago)
+- [vanpariyar/action-create-recurring-issue](https://github.com/vanpariyar/action-create-recurring-issue) - Github Action that creates the Recurring issues, Maybe a missing piece from the github projects (4 days ago)
+- [vanpariyar/testing-repo](https://github.com/vanpariyar/testing-repo) - This is the testing repo (5 days ago)
+- [Shiksha-Skills-Institute/quiz-application](https://github.com/Shiksha-Skills-Institute/quiz-application) - This is the Quiz Application, We have developed in 2025 while learning web development (5 days ago)
+- [vanpariyar/books](https://github.com/vanpariyar/books) - Shows which book i am reading (1 week ago)
 
 #### 🌱 My latest projects
 
