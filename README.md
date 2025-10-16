@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Swaminarayan-Gurukul/gurukul-account-manager](https://github.com/Swaminarayan-Gurukul/gurukul-account-manager) - Built with Google Apps script - Gurukul Vouchers, Invoice, Expenses, Food Pass etc (2 days ago)
-- [vanpariyar/action-create-recurring-issue](https://github.com/vanpariyar/action-create-recurring-issue) - Github Action that creates the Recurring issues, Maybe a missing piece from the github projects (5 days ago)
-- [vanpariyar/testing-repo](https://github.com/vanpariyar/testing-repo) - This is the testing repo (6 days ago)
-- [Shiksha-Skills-Institute/quiz-application](https://github.com/Shiksha-Skills-Institute/quiz-application) - This is the Quiz Application, We have developed in 2025 while learning web development (6 days ago)
+- [Swaminarayan-Gurukul/gurukul-account-manager](https://github.com/Swaminarayan-Gurukul/gurukul-account-manager) - Built with Google Apps script - Gurukul Vouchers, Invoice, Expenses, Food Pass etc (3 days ago)
+- [vanpariyar/action-create-recurring-issue](https://github.com/vanpariyar/action-create-recurring-issue) - Github Action that creates the Recurring issues, Maybe a missing piece from the github projects (6 days ago)
+- [vanpariyar/testing-repo](https://github.com/vanpariyar/testing-repo) - This is the testing repo (1 week ago)
+- [Shiksha-Skills-Institute/quiz-application](https://github.com/Shiksha-Skills-Institute/quiz-application) - This is the Quiz Application, We have developed in 2025 while learning web development (1 week ago)
 - [vanpariyar/books](https://github.com/vanpariyar/books) - Shows which book i am reading (1 week ago)
 
 #### 🌱 My latest projects
@@ -32,7 +32,7 @@
 
 #### 📜 My recent blog posts
 
-- [How to Self-Host WordPress Playground on GitHub Pages with a Custom Domain](https://vanpariyar.in/blog/how-to-self-host-wordpress-playground-on-github-pages-with-a-custom-domain/) (11 months ago)
+- [How to Self-Host WordPress Playground on GitHub Pages with a Custom Domain](https://vanpariyar.in/blog/how-to-self-host-wordpress-playground-on-github-pages-with-a-custom-domain/) (1 year ago)
 - [Getting Started with Gutenberg Editor Custom Block Development](https://vanpariyar.in/blog/how-to-start-with-gutenberg-editor-custom-block-development/) (1 year ago)
 - [Fetch Instagram Details](https://vanpariyar.in/blog/fetch-instagram-details/) (1 year ago)
 - [How to remove HTML tags from the REST API title and content in WordPress](https://vanpariyar.in/blog/how-to-remove-html-tags-from-the-rest-api-title-and-content-in-wordpress/) (1 year ago)
