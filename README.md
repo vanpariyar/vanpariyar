@@ -52,11 +52,11 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
-- [vernu/textbee](https://github.com/vernu/textbee) - open-source sms-gateway. turn any android phone into an sms gateway (3 weeks ago)
-- [bhavesh95863/workboard](https://github.com/bhavesh95863/workboard) - WorkBoard is an internal work management system built on Frappe Framework. (2 months ago)
-- [speedyapply/2026-AI-College-Jobs](https://github.com/speedyapply/2026-AI-College-Jobs) - 2026 AI/ML internship &amp; new graduate job list updated daily (2 months ago)
-- [Tobee1406/Awesome-Google-Dorks](https://github.com/Tobee1406/Awesome-Google-Dorks) - A collection of Awesome Google Dorks. (3 months ago)
-- [khaouitiabdelhakim/Microsoft-Office-With-Activation-For-Lifetime](https://github.com/khaouitiabdelhakim/Microsoft-Office-With-Activation-For-Lifetime) - Microsoft Office Installation and Activation (6 months ago)
+- [wolffe/woocommerce-bulk-discount](https://github.com/wolffe/woocommerce-bulk-discount) - Bulk Discount for WooCommerce is a powerful plugin and marketing tool designed to help you run sitewide sales with ease. (today)
+- [wolffe/w3p-admin-login](https://github.com/wolffe/w3p-admin-login) - W3P Admin Login is an easy-to-use WordPress and ClassicPress plugin that allows you to safely change your website’s admin login URL to anything you want. (today)
+- [wolffe/wp-charity](https://github.com/wolffe/wp-charity) - Raise more money for your cause with the most powerful WordPress donation and fundraising plugin. Trusted by over 10,000&#43; organizations. (today)
+- [wolffe/woocommerce-conditional-blocks](https://github.com/wolffe/woocommerce-conditional-blocks) -  (today)
+- [wolffe/woocommerce-currency-switcher](https://github.com/wolffe/woocommerce-currency-switcher) - Allow your customers to shop seamlessly in their preferred currency. Allow fixed prices in multiple currencies, multiple display prices and accepts payments in multiple currencies. (today)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
