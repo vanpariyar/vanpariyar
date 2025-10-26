@@ -19,14 +19,14 @@
 #### 🔭 Latest releases I've contributed to
 
 - [vanpariyar/action-create-recurring-issue](https://github.com/vanpariyar/action-create-recurring-issue) ([1.0](https://github.com/vanpariyar/action-create-recurring-issue/releases/tag/1.0), 1 week ago) - Github Action that creates the Recurring issues, Maybe a missing piece from the github projects
-- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.21](https://github.com/vanpariyar/wp-post-views/releases/tag/1.21), 4 weeks ago) - This is the simple plugin that counts the views of the your wordpress website
+- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.21](https://github.com/vanpariyar/wp-post-views/releases/tag/1.21), 1 month ago) - This is the simple plugin that counts the views of the your wordpress website
 - [sahajananddigital/fossbilling-razorpay-payment-gateway](https://github.com/sahajananddigital/fossbilling-razorpay-payment-gateway) ([1.0](https://github.com/sahajananddigital/fossbilling-razorpay-payment-gateway/releases/tag/1.0), 1 month ago) - This is the opensource payment gateway for FOSSBilling software
 - [sahajananddigital/selfie.sahajananddigital.in](https://github.com/sahajananddigital/selfie.sahajananddigital.in) ([0.0.1](https://github.com/sahajananddigital/selfie.sahajananddigital.in/releases/tag/0.0.1), 2 years ago) - Selfie Website - Get Link from the Readme
 
 #### 🔨 My recent Pull Requests
 
 - [Add custom fonts and update label drawing style](https://github.com/sahajananddigital/csv-to-labels/pull/1) on [sahajananddigital/csv-to-labels](https://github.com/sahajananddigital/csv-to-labels) (3 weeks ago)
-- [Enhance user feedback in transaction handling and improve optimistic UI updates](https://github.com/Swaminarayan-Gurukul/gurukul-food-inventory-management/pull/1) on [Swaminarayan-Gurukul/gurukul-food-inventory-management](https://github.com/Swaminarayan-Gurukul/gurukul-food-inventory-management) (4 weeks ago)
+- [Enhance user feedback in transaction handling and improve optimistic UI updates](https://github.com/Swaminarayan-Gurukul/gurukul-food-inventory-management/pull/1) on [Swaminarayan-Gurukul/gurukul-food-inventory-management](https://github.com/Swaminarayan-Gurukul/gurukul-food-inventory-management) (1 month ago)
 - [Update README.md](https://github.com/sahajananddigital/photo-frame-react/pull/8) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (4 months ago)
 - [Harismruti](https://github.com/sahajananddigital/photo-frame-react/pull/7) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (4 months ago)
 - [added text size](https://github.com/sahajananddigital/photo-frame-react/pull/6) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (9 months ago)
