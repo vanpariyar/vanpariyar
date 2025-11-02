@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vanpariyar/action-create-recurring-issue](https://github.com/vanpariyar/action-create-recurring-issue) ([1.0](https://github.com/vanpariyar/action-create-recurring-issue/releases/tag/1.0), 2 weeks ago) - Github Action that creates the Recurring issues, Maybe a missing piece from the github projects
+- [vanpariyar/action-create-recurring-issue](https://github.com/vanpariyar/action-create-recurring-issue) ([1.0](https://github.com/vanpariyar/action-create-recurring-issue/releases/tag/1.0), today) - Github Action that creates the Recurring issues, Maybe a missing piece from the github projects
 - [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.21](https://github.com/vanpariyar/wp-post-views/releases/tag/1.21), 1 month ago) - This is the simple plugin that counts the views of the your wordpress website
 - [sahajananddigital/fossbilling-razorpay-payment-gateway](https://github.com/sahajananddigital/fossbilling-razorpay-payment-gateway) ([1.0](https://github.com/sahajananddigital/fossbilling-razorpay-payment-gateway/releases/tag/1.0), 1 month ago) - This is the opensource payment gateway for FOSSBilling software
 - [sahajananddigital/selfie.sahajananddigital.in](https://github.com/sahajananddigital/selfie.sahajananddigital.in) ([0.0.1](https://github.com/sahajananddigital/selfie.sahajananddigital.in/releases/tag/0.0.1), 2 years ago) - Selfie Website - Get Link from the Readme
