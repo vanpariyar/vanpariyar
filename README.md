@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [sahajananddigital/shajanand-server-client](https://github.com/sahajananddigital/shajanand-server-client) - client application for sahajanand-server (today)
 - [Shiksha-Skills-Institute/quiz-application](https://github.com/Shiksha-Skills-Institute/quiz-application) - This is the Quiz Application, We have developed in 2025 while learning web development (today)
 - [sahajananddigital/sahajanand-server](https://github.com/sahajananddigital/sahajanand-server) - Server infrastructure for Sahajanand Digital (2 days ago)
 - [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (1 week ago)
 - [sahajananddigital/csv-to-labels](https://github.com/sahajananddigital/csv-to-labels) -  (1 week ago)
-- [vanpariyar/action-create-recurring-issue](https://github.com/vanpariyar/action-create-recurring-issue) - Github Action that creates the Recurring issues, Maybe a missing piece from the github projects (2 weeks ago)
 
 #### 🌱 My latest projects
 
