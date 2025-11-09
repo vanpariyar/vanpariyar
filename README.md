@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sahajananddigital/sahajanand-server](https://github.com/sahajananddigital/sahajanand-server) - Server infrastructure for Sahajanand Digital (today)
-- [sahajananddigital/shajanand-server-client](https://github.com/sahajananddigital/shajanand-server-client) - client application for sahajanand-server (today)
-- [Shiksha-Skills-Institute/quiz-application](https://github.com/Shiksha-Skills-Institute/quiz-application) - This is the Quiz Application, We have developed in 2025 while learning web development (4 days ago)
+- [sahajananddigital/sahajanand-server](https://github.com/sahajananddigital/sahajanand-server) - Server infrastructure for Sahajanand Digital (1 day ago)
+- [sahajananddigital/shajanand-server-client](https://github.com/sahajananddigital/shajanand-server-client) - client application for sahajanand-server (1 day ago)
+- [Shiksha-Skills-Institute/quiz-application](https://github.com/Shiksha-Skills-Institute/quiz-application) - This is the Quiz Application, We have developed in 2025 while learning web development (5 days ago)
 - [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (1 week ago)
-- [sahajananddigital/csv-to-labels](https://github.com/sahajananddigital/csv-to-labels) -  (1 week ago)
+- [sahajananddigital/csv-to-labels](https://github.com/sahajananddigital/csv-to-labels) -  (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vanpariyar/action-create-recurring-issue](https://github.com/vanpariyar/action-create-recurring-issue) ([1.0](https://github.com/vanpariyar/action-create-recurring-issue/releases/tag/1.0), 6 days ago) - Github Action that creates the Recurring issues, Maybe a missing piece from the github projects
+- [vanpariyar/action-create-recurring-issue](https://github.com/vanpariyar/action-create-recurring-issue) ([1.0](https://github.com/vanpariyar/action-create-recurring-issue/releases/tag/1.0), 1 week ago) - Github Action that creates the Recurring issues, Maybe a missing piece from the github projects
 - [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.21](https://github.com/vanpariyar/wp-post-views/releases/tag/1.21), 1 month ago) - This is the simple plugin that counts the views of the your wordpress website
 - [sahajananddigital/fossbilling-razorpay-payment-gateway](https://github.com/sahajananddigital/fossbilling-razorpay-payment-gateway) ([1.0](https://github.com/sahajananddigital/fossbilling-razorpay-payment-gateway/releases/tag/1.0), 1 month ago) - This is the opensource payment gateway for FOSSBilling software
 - [sahajananddigital/selfie.sahajananddigital.in](https://github.com/sahajananddigital/selfie.sahajananddigital.in) ([0.0.1](https://github.com/sahajananddigital/selfie.sahajananddigital.in/releases/tag/0.0.1), 2 years ago) - Selfie Website - Get Link from the Readme
@@ -41,7 +41,7 @@
 
 #### 📓 Gists I wrote
 
-- [How to fetch sites using wget / Make website static ](https://gist.github.com/766ef11b8b0df51532d9caa859e1fa84) (1 month ago)
+- [How to fetch sites using wget / Make website static ](https://gist.github.com/766ef11b8b0df51532d9caa859e1fa84) (2 months ago)
 - [Fix Google Appscript error, CORS](https://gist.github.com/c198a2ab9912c97a8eea002f71f61b0d) (4 months ago)
 - [How to Migrate website Database from Mysql to Sqlite or vice versa](https://gist.github.com/720f04a57721e24eb2af2b1112ec89c4) (1 year ago)
 - [How to fix Unix socket error in Docker in WSL2](https://gist.github.com/c3e90157b6aec1f19ae9462941412672) (2 years ago)
@@ -52,7 +52,7 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based, multi-site remote access platform using WireGuard® (3 days ago)
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based, multi-site remote access platform using WireGuard® (4 days ago)
 - [wolffe/woocommerce-bulk-discount](https://github.com/wolffe/woocommerce-bulk-discount) - Bulk Discount for WooCommerce is a powerful plugin and marketing tool designed to help you run sitewide sales with ease. (3 weeks ago)
 - [wolffe/w3p-admin-login](https://github.com/wolffe/w3p-admin-login) - W3P Admin Login is an easy-to-use WordPress and ClassicPress plugin that allows you to safely change your website’s admin login URL to anything you want. (3 weeks ago)
 - [wolffe/wp-charity](https://github.com/wolffe/wp-charity) - Raise more money for your cause with the most powerful WordPress donation and fundraising plugin. Trusted by over 10,000&#43; organizations. (3 weeks ago)
