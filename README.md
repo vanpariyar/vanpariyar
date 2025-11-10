@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sahajananddigital/sahajanand-server](https://github.com/sahajananddigital/sahajanand-server) - Server infrastructure for Sahajanand Digital (1 day ago)
-- [sahajananddigital/shajanand-server-client](https://github.com/sahajananddigital/shajanand-server-client) - client application for sahajanand-server (1 day ago)
-- [Shiksha-Skills-Institute/quiz-application](https://github.com/Shiksha-Skills-Institute/quiz-application) - This is the Quiz Application, We have developed in 2025 while learning web development (5 days ago)
-- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (1 week ago)
+- [sahajananddigital/sahajanand-server](https://github.com/sahajananddigital/sahajanand-server) - Server infrastructure for Sahajanand Digital (2 days ago)
+- [sahajananddigital/shajanand-server-client](https://github.com/sahajananddigital/shajanand-server-client) - client application for sahajanand-server (2 days ago)
+- [Shiksha-Skills-Institute/quiz-application](https://github.com/Shiksha-Skills-Institute/quiz-application) - This is the Quiz Application, We have developed in 2025 while learning web development (6 days ago)
+- [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (2 weeks ago)
 - [sahajananddigital/csv-to-labels](https://github.com/sahajananddigital/csv-to-labels) -  (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -52,7 +52,7 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based, multi-site remote access platform using WireGuard® (4 days ago)
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based, multi-site remote access platform using WireGuard® (5 days ago)
 - [wolffe/woocommerce-bulk-discount](https://github.com/wolffe/woocommerce-bulk-discount) - Bulk Discount for WooCommerce is a powerful plugin and marketing tool designed to help you run sitewide sales with ease. (3 weeks ago)
 - [wolffe/w3p-admin-login](https://github.com/wolffe/w3p-admin-login) - W3P Admin Login is an easy-to-use WordPress and ClassicPress plugin that allows you to safely change your website’s admin login URL to anything you want. (3 weeks ago)
 - [wolffe/wp-charity](https://github.com/wolffe/wp-charity) - Raise more money for your cause with the most powerful WordPress donation and fundraising plugin. Trusted by over 10,000&#43; organizations. (3 weeks ago)
