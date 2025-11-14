@@ -52,7 +52,7 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based, multi-site remote access platform using WireGuard® (1 week ago)
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI (1 week ago)
 - [wolffe/woocommerce-bulk-discount](https://github.com/wolffe/woocommerce-bulk-discount) - Bulk Discount for WooCommerce is a powerful plugin and marketing tool designed to help you run sitewide sales with ease. (4 weeks ago)
 - [wolffe/w3p-admin-login](https://github.com/wolffe/w3p-admin-login) - W3P Admin Login is an easy-to-use WordPress and ClassicPress plugin that allows you to safely change your website’s admin login URL to anything you want. (4 weeks ago)
 - [wolffe/wp-charity](https://github.com/wolffe/wp-charity) - Raise more money for your cause with the most powerful WordPress donation and fundraising plugin. Trusted by over 10,000&#43; organizations. (4 weeks ago)
