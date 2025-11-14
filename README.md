@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sahajananddigital/location-picker-for-woocommerce-checkout](https://github.com/sahajananddigital/location-picker-for-woocommerce-checkout) - [WIP] Location picker for woocommerce checkout (3 days ago)
-- [sahajananddigital/sahajanand-server](https://github.com/sahajananddigital/sahajanand-server) - Server infrastructure for Sahajanand Digital (5 days ago)
-- [sahajananddigital/shajanand-server-client](https://github.com/sahajananddigital/shajanand-server-client) - client application for sahajanand-server (5 days ago)
+- [sahajananddigital/location-picker-for-woocommerce-checkout](https://github.com/sahajananddigital/location-picker-for-woocommerce-checkout) - [WIP] Location picker for woocommerce checkout (4 days ago)
+- [sahajananddigital/sahajanand-server](https://github.com/sahajananddigital/sahajanand-server) - Server infrastructure for Sahajanand Digital (6 days ago)
+- [sahajananddigital/shajanand-server-client](https://github.com/sahajananddigital/shajanand-server-client) - client application for sahajanand-server (6 days ago)
 - [Shiksha-Skills-Institute/quiz-application](https://github.com/Shiksha-Skills-Institute/quiz-application) - This is the Quiz Application, We have developed in 2025 while learning web development (1 week ago)
 - [Shiksha-Skills-Institute/web-development-notes](https://github.com/Shiksha-Skills-Institute/web-development-notes) - Tutorials Notes (2 weeks ago)
 
@@ -27,9 +27,9 @@
 
 - [Add custom fonts and update label drawing style](https://github.com/sahajananddigital/csv-to-labels/pull/1) on [sahajananddigital/csv-to-labels](https://github.com/sahajananddigital/csv-to-labels) (1 month ago)
 - [Enhance user feedback in transaction handling and improve optimistic UI updates](https://github.com/Swaminarayan-Gurukul/gurukul-food-inventory-management/pull/1) on [Swaminarayan-Gurukul/gurukul-food-inventory-management](https://github.com/Swaminarayan-Gurukul/gurukul-food-inventory-management) (1 month ago)
-- [Update README.md](https://github.com/sahajananddigital/photo-frame-react/pull/8) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (4 months ago)
-- [Harismruti](https://github.com/sahajananddigital/photo-frame-react/pull/7) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (4 months ago)
-- [added text size](https://github.com/sahajananddigital/photo-frame-react/pull/6) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (9 months ago)
+- [Update README.md](https://github.com/sahajananddigital/photo-frame-react/pull/8) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (5 months ago)
+- [Harismruti](https://github.com/sahajananddigital/photo-frame-react/pull/7) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (5 months ago)
+- [added text size](https://github.com/sahajananddigital/photo-frame-react/pull/6) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (10 months ago)
 
 #### 📜 My recent blog posts
 
@@ -53,21 +53,21 @@ https://github.com/vanpariyar/books
 #### ⭐ Recent Stars
 
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based, multi-site remote access platform using WireGuard® (1 week ago)
-- [wolffe/woocommerce-bulk-discount](https://github.com/wolffe/woocommerce-bulk-discount) - Bulk Discount for WooCommerce is a powerful plugin and marketing tool designed to help you run sitewide sales with ease. (3 weeks ago)
-- [wolffe/w3p-admin-login](https://github.com/wolffe/w3p-admin-login) - W3P Admin Login is an easy-to-use WordPress and ClassicPress plugin that allows you to safely change your website’s admin login URL to anything you want. (3 weeks ago)
-- [wolffe/wp-charity](https://github.com/wolffe/wp-charity) - Raise more money for your cause with the most powerful WordPress donation and fundraising plugin. Trusted by over 10,000&#43; organizations. (3 weeks ago)
-- [wolffe/woocommerce-conditional-blocks](https://github.com/wolffe/woocommerce-conditional-blocks) -  (3 weeks ago)
+- [wolffe/woocommerce-bulk-discount](https://github.com/wolffe/woocommerce-bulk-discount) - Bulk Discount for WooCommerce is a powerful plugin and marketing tool designed to help you run sitewide sales with ease. (4 weeks ago)
+- [wolffe/w3p-admin-login](https://github.com/wolffe/w3p-admin-login) - W3P Admin Login is an easy-to-use WordPress and ClassicPress plugin that allows you to safely change your website’s admin login URL to anything you want. (4 weeks ago)
+- [wolffe/wp-charity](https://github.com/wolffe/wp-charity) - Raise more money for your cause with the most powerful WordPress donation and fundraising plugin. Trusted by over 10,000&#43; organizations. (4 weeks ago)
+- [wolffe/woocommerce-conditional-blocks](https://github.com/wolffe/woocommerce-conditional-blocks) -  (4 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
 
 #### 👯 Check out some of my recent followers
 
+- [filedonkey](https://github.com/filedonkey)
 - [CelaDaniel](https://github.com/CelaDaniel)
 - [seckinyasar](https://github.com/seckinyasar)
 - [helallao](https://github.com/helallao)
 - [standardgalactic](https://github.com/standardgalactic)
-- [Dharm3112](https://github.com/Dharm3112)
 
 #### 💬 Feedback
 
