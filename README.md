@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sahajananddigital/location-picker-for-woocommerce-checkout](https://github.com/sahajananddigital/location-picker-for-woocommerce-checkout) - [WIP] Location picker for woocommerce checkout (today)
-- [Swaminarayan-Gurukul/Swaminarayan-Gurukul.github.io](https://github.com/Swaminarayan-Gurukul/Swaminarayan-Gurukul.github.io) - Pages Wesbite (today)
-- [sahajananddigital/shajanand-server-client](https://github.com/sahajananddigital/shajanand-server-client) - client application for sahajanand-server (6 days ago)
-- [sahajananddigital/sahajanand-server](https://github.com/sahajananddigital/sahajanand-server) - Server infrastructure for Sahajanand Digital (6 days ago)
+- [sahajananddigital/location-picker-for-woocommerce-checkout](https://github.com/sahajananddigital/location-picker-for-woocommerce-checkout) - [WIP] Location picker for woocommerce checkout (1 day ago)
+- [Swaminarayan-Gurukul/Swaminarayan-Gurukul.github.io](https://github.com/Swaminarayan-Gurukul/Swaminarayan-Gurukul.github.io) - Pages Wesbite (1 day ago)
+- [sahajananddigital/shajanand-server-client](https://github.com/sahajananddigital/shajanand-server-client) - client application for sahajanand-server (1 week ago)
+- [sahajananddigital/sahajanand-server](https://github.com/sahajananddigital/sahajanand-server) - Server infrastructure for Sahajanand Digital (1 week ago)
 - [Shiksha-Skills-Institute/quiz-application](https://github.com/Shiksha-Skills-Institute/quiz-application) - This is the Quiz Application, We have developed in 2025 while learning web development (1 week ago)
 
 #### 🌱 My latest projects
