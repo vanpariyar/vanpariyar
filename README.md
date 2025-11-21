@@ -63,11 +63,11 @@ https://github.com/vanpariyar/books
 
 #### 👯 Check out some of my recent followers
 
+- [S4IL21](https://github.com/S4IL21)
 - [filedonkey](https://github.com/filedonkey)
 - [CelaDaniel](https://github.com/CelaDaniel)
 - [seckinyasar](https://github.com/seckinyasar)
 - [helallao](https://github.com/helallao)
-- [standardgalactic](https://github.com/standardgalactic)
 
 #### 💬 Feedback
 
