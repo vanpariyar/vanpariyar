@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Swaminarayan-Gurukul/software-monorepo](https://github.com/Swaminarayan-Gurukul/software-monorepo) -  (today)
 - [sahajananddigital/Simple-ERP-for-WordPress](https://github.com/sahajananddigital/Simple-ERP-for-WordPress) - Simple ERP for WordPress as a plugin using Gutenberg UI  (today)
 - [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (4 days ago)
 - [sahajananddigital/location-picker-for-woocommerce-checkout](https://github.com/sahajananddigital/location-picker-for-woocommerce-checkout) - [WIP] Location picker for woocommerce checkout (1 week ago)
 - [Swaminarayan-Gurukul/Swaminarayan-Gurukul.github.io](https://github.com/Swaminarayan-Gurukul/Swaminarayan-Gurukul.github.io) - Pages Wesbite (1 week ago)
-- [sahajananddigital/sahajanand-server](https://github.com/sahajananddigital/sahajanand-server) - Server infrastructure for Sahajanand Digital (2 weeks ago)
 
 #### 🌱 My latest projects
 
