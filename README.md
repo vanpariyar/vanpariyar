@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [sahajananddigital/Simple-ERP-for-WordPress](https://github.com/sahajananddigital/Simple-ERP-for-WordPress) - Simple ERP for WordPress as a plugin using Gutenberg UI  (today)
 - [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (4 days ago)
-- [Swaminarayan-Gurukul/Swaminarayan-Gurukul.github.io](https://github.com/Swaminarayan-Gurukul/Swaminarayan-Gurukul.github.io) - Pages Wesbite (1 week ago)
 - [sahajananddigital/location-picker-for-woocommerce-checkout](https://github.com/sahajananddigital/location-picker-for-woocommerce-checkout) - [WIP] Location picker for woocommerce checkout (1 week ago)
+- [Swaminarayan-Gurukul/Swaminarayan-Gurukul.github.io](https://github.com/Swaminarayan-Gurukul/Swaminarayan-Gurukul.github.io) - Pages Wesbite (1 week ago)
 - [sahajananddigital/sahajanand-server](https://github.com/sahajananddigital/sahajanand-server) - Server infrastructure for Sahajanand Digital (2 weeks ago)
-- [sahajananddigital/shajanand-server-client](https://github.com/sahajananddigital/shajanand-server-client) - client application for sahajanand-server (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -63,11 +63,11 @@ https://github.com/vanpariyar/books
 
 #### 👯 Check out some of my recent followers
 
+- [ivasik-k7](https://github.com/ivasik-k7)
 - [S4IL21](https://github.com/S4IL21)
 - [filedonkey](https://github.com/filedonkey)
 - [CelaDaniel](https://github.com/CelaDaniel)
 - [seckinyasar](https://github.com/seckinyasar)
-- [helallao](https://github.com/helallao)
 
 #### 💬 Feedback
 
