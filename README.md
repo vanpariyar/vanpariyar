@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Swaminarayan-Gurukul/software-monorepo](https://github.com/Swaminarayan-Gurukul/software-monorepo) -  (today)
-- [sahajananddigital/Simple-ERP-for-WordPress](https://github.com/sahajananddigital/Simple-ERP-for-WordPress) - Simple ERP for WordPress as a plugin using Gutenberg UI  (today)
-- [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (4 days ago)
+- [Swaminarayan-Gurukul/software-monorepo](https://github.com/Swaminarayan-Gurukul/software-monorepo) -  (1 day ago)
+- [sahajananddigital/Simple-ERP-for-WordPress](https://github.com/sahajananddigital/Simple-ERP-for-WordPress) - Simple ERP for WordPress as a plugin using Gutenberg UI  (1 day ago)
+- [sahajananddigital/status](https://github.com/sahajananddigital/status) - Status website for Sahajanand Digital (5 days ago)
 - [sahajananddigital/location-picker-for-woocommerce-checkout](https://github.com/sahajananddigital/location-picker-for-woocommerce-checkout) - [WIP] Location picker for woocommerce checkout (1 week ago)
 - [Swaminarayan-Gurukul/Swaminarayan-Gurukul.github.io](https://github.com/Swaminarayan-Gurukul/Swaminarayan-Gurukul.github.io) - Pages Wesbite (1 week ago)
 
@@ -52,9 +52,9 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
-- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (5 days ago)
+- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (6 days ago)
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone (1 week ago)
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI (2 weeks ago)
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI (3 weeks ago)
 - [wolffe/woocommerce-bulk-discount](https://github.com/wolffe/woocommerce-bulk-discount) - Bulk Discount for WooCommerce is a powerful plugin and marketing tool designed to help you run sitewide sales with ease. (1 month ago)
 - [wolffe/w3p-admin-login](https://github.com/wolffe/w3p-admin-login) - W3P Admin Login is an easy-to-use WordPress and ClassicPress plugin that allows you to safely change your website’s admin login URL to anything you want. (1 month ago)
 
