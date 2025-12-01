@@ -52,7 +52,7 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
-- [qarayahya/enable-application-menu](https://github.com/qarayahya/enable-application-menu) -  (today)
+- [qarayahya/enable-application-menu](https://github.com/qarayahya/enable-application-menu) - Adds an application menu dropdown to the WordPress block editor. (today)
 - [StJudeWasHere/seonaut](https://github.com/StJudeWasHere/seonaut) - Open source SEO audit tool. (4 days ago)
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (1 week ago)
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone (2 weeks ago)
