@@ -6,7 +6,7 @@
 - [vanpariyar/testing-repo](https://github.com/vanpariyar/testing-repo) - This is the testing repo
 - [vanpariyar/books](https://github.com/vanpariyar/books) - Shows which book i am reading
 - [vanpariyar/telegram-youtube-rss-bot](https://github.com/vanpariyar/telegram-youtube-rss-bot) - Telegram RSS bot
-- [vanpariyar/vmc-project](https://github.com/vanpariyar/vmc-project) - 
+- [vanpariyar/sahitya](https://github.com/vanpariyar/sahitya) - 
 
 #### 🔭 Latest releases I've contributed to
 
