@@ -56,10 +56,10 @@ https://github.com/vanpariyar/books
 #### 👯 Check out some of my recent followers
 
 - [pushtikadia](https://github.com/pushtikadia)
-- [ivasik-k7](https://github.com/ivasik-k7)
 - [S4IL21](https://github.com/S4IL21)
 - [seckinyasar](https://github.com/seckinyasar)
 - [helallao](https://github.com/helallao)
+- [standardgalactic](https://github.com/standardgalactic)
 
 #### 💬 Feedback
 
