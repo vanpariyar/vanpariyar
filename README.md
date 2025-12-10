@@ -57,9 +57,9 @@ https://github.com/vanpariyar/books
 
 - [pushtikadia](https://github.com/pushtikadia)
 - [S4IL21](https://github.com/S4IL21)
-- [seckinyasar](https://github.com/seckinyasar)
 - [helallao](https://github.com/helallao)
 - [standardgalactic](https://github.com/standardgalactic)
+- [Dharm3112](https://github.com/Dharm3112)
 
 #### 💬 Feedback
 
