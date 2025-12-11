@@ -48,7 +48,7 @@ https://github.com/vanpariyar/books
 - [StJudeWasHere/seonaut](https://github.com/StJudeWasHere/seonaut) - Open source SEO audit tool. (2 weeks ago)
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (3 weeks ago)
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone (3 weeks ago)
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI (1 month ago)
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based VPN and proxy for remote access to anything anywhere (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
