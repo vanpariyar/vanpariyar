@@ -44,7 +44,7 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
-- [actionstatelabs/android-action-kernel](https://github.com/actionstatelabs/android-action-kernel) -  (today)
+- [actionstatelabs/android-action-kernel](https://github.com/actionstatelabs/android-action-kernel) -  (1 day ago)
 - [qarayahya/enable-application-menu](https://github.com/qarayahya/enable-application-menu) - Adds an application menu dropdown to the WordPress block editor. (1 week ago)
 - [StJudeWasHere/seonaut](https://github.com/StJudeWasHere/seonaut) - Open source SEO audit tool. (2 weeks ago)
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (3 weeks ago)
