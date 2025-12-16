@@ -44,11 +44,11 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
+- [inbarnoa/Nannimoon](https://github.com/inbarnoa/Nannimoon) - 🇹🇭 We connect local nannies with traveling families in Thailand. (today)
 - [actionstatelabs/android-action-kernel](https://github.com/actionstatelabs/android-action-kernel) -  (4 days ago)
 - [qarayahya/enable-application-menu](https://github.com/qarayahya/enable-application-menu) - Adds an application menu dropdown to the WordPress block editor. (2 weeks ago)
 - [StJudeWasHere/seonaut](https://github.com/StJudeWasHere/seonaut) - Open source SEO audit tool. (2 weeks ago)
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (3 weeks ago)
-- [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
