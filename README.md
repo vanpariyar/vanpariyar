@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.22](https://github.com/vanpariyar/wp-post-views/releases/tag/1.22), 3 days ago) - This is the simple plugin that counts the views of the your wordpress website
+- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.22](https://github.com/vanpariyar/wp-post-views/releases/tag/1.22), 4 days ago) - This is the simple plugin that counts the views of the your wordpress website
 - [vanpariyar/action-create-recurring-issue](https://github.com/vanpariyar/action-create-recurring-issue) ([1.0](https://github.com/vanpariyar/action-create-recurring-issue/releases/tag/1.0), 1 month ago) - Github Action that creates the Recurring issues, Maybe a missing piece from the github projects
 - [sahajananddigital/fossbilling-razorpay-payment-gateway](https://github.com/sahajananddigital/fossbilling-razorpay-payment-gateway) ([1.0](https://github.com/sahajananddigital/fossbilling-razorpay-payment-gateway/releases/tag/1.0), 3 months ago) - This is the opensource payment gateway for FOSSBilling software
 - [sahajananddigital/selfie.sahajananddigital.in](https://github.com/sahajananddigital/selfie.sahajananddigital.in) ([0.0.1](https://github.com/sahajananddigital/selfie.sahajananddigital.in/releases/tag/0.0.1), 3 years ago) - Selfie Website - Get Link from the Readme
@@ -44,8 +44,8 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
-- [inbarnoa/Nannimoon](https://github.com/inbarnoa/Nannimoon) - 🇹🇭 We connect local nannies with traveling families in Thailand. (2 days ago)
-- [actionstatelabs/android-action-kernel](https://github.com/actionstatelabs/android-action-kernel) -  (6 days ago)
+- [inbarnoa/Nannimoon](https://github.com/inbarnoa/Nannimoon) - 🇹🇭 We connect local nannies with traveling families in Thailand. (3 days ago)
+- [actionstatelabs/android-action-kernel](https://github.com/actionstatelabs/android-action-kernel) -  (1 week ago)
 - [qarayahya/enable-application-menu](https://github.com/qarayahya/enable-application-menu) - Adds an application menu dropdown to the WordPress block editor. (2 weeks ago)
 - [StJudeWasHere/seonaut](https://github.com/StJudeWasHere/seonaut) - Open source SEO audit tool. (3 weeks ago)
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (4 weeks ago)
