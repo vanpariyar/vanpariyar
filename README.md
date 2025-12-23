@@ -43,7 +43,7 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
-- [inbarnoa/Nannimoon](https://github.com/inbarnoa/Nannimoon) - 🇹🇭 We connect local nannies with traveling families in Thailand. (6 days ago)
+- [inbarnoa/Nannimoon](https://github.com/inbarnoa/Nannimoon) - 🇹🇭 We connect local nannies with traveling families in Thailand. (1 week ago)
 - [Action-State-Labs/android-action-kernel](https://github.com/Action-State-Labs/android-action-kernel) -  (1 week ago)
 - [qarayahya/enable-application-menu](https://github.com/qarayahya/enable-application-menu) - Adds an application menu dropdown to the WordPress block editor. (3 weeks ago)
 - [StJudeWasHere/seonaut](https://github.com/StJudeWasHere/seonaut) - Open source SEO audit tool. (3 weeks ago)
