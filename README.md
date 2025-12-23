@@ -54,11 +54,11 @@ https://github.com/vanpariyar/books
 
 #### 👯 Check out some of my recent followers
 
+- [rodrigogalura](https://github.com/rodrigogalura)
 - [pushtikadia](https://github.com/pushtikadia)
 - [S4IL21](https://github.com/S4IL21)
 - [standardgalactic](https://github.com/standardgalactic)
 - [Dharm3112](https://github.com/Dharm3112)
-- [abhi-2255](https://github.com/abhi-2255)
 
 #### 💬 Feedback
 
