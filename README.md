@@ -46,7 +46,7 @@ https://github.com/vanpariyar/books
 - [inbarnoa/Nannimoon](https://github.com/inbarnoa/Nannimoon) - 🇹🇭 We connect local nannies with traveling families in Thailand. (1 week ago)
 - [Action-State-Labs/android-action-kernel](https://github.com/Action-State-Labs/android-action-kernel) -  (2 weeks ago)
 - [qarayahya/enable-application-menu](https://github.com/qarayahya/enable-application-menu) - Adds an application menu dropdown to the WordPress block editor. (3 weeks ago)
-- [StJudeWasHere/seonaut](https://github.com/StJudeWasHere/seonaut) - Open source SEO audit tool. (4 weeks ago)
+- [StJudeWasHere/seonaut](https://github.com/StJudeWasHere/seonaut) - Open source SEO audit tool. (1 month ago)
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
