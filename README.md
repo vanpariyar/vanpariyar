@@ -55,11 +55,11 @@ https://github.com/vanpariyar/books
 
 #### 👯 Check out some of my recent followers
 
+- [mahidarji](https://github.com/mahidarji)
 - [pranshu0515x](https://github.com/pranshu0515x)
 - [shortyspoke-sudo](https://github.com/shortyspoke-sudo)
 - [rodrigogalura](https://github.com/rodrigogalura)
 - [pushtikadia](https://github.com/pushtikadia)
-- [S4IL21](https://github.com/S4IL21)
 
 #### 💬 Feedback
 
