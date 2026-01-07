@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sahajananddigital/wordpress-simple-customise-helper](https://github.com/sahajananddigital/wordpress-simple-customise-helper) ([v1.0.0](https://github.com/sahajananddigital/wordpress-simple-customise-helper/releases/tag/v1.0.0), 1 day ago) - Simple customise helper
+- [sahajananddigital/wordpress-simple-customise-helper](https://github.com/sahajananddigital/wordpress-simple-customise-helper) ([v1.0.0](https://github.com/sahajananddigital/wordpress-simple-customise-helper/releases/tag/v1.0.0), 2 days ago) - Simple customise helper
 - [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.22](https://github.com/vanpariyar/wp-post-views/releases/tag/1.22), 3 weeks ago) - This is the simple plugin that counts the views of the your wordpress website
 - [vanpariyar/action-create-recurring-issue](https://github.com/vanpariyar/action-create-recurring-issue) ([1.0](https://github.com/vanpariyar/action-create-recurring-issue/releases/tag/1.0), 2 months ago) - Github Action that creates the Recurring issues, Maybe a missing piece from the github projects
 - [sahajananddigital/fossbilling-razorpay-payment-gateway](https://github.com/sahajananddigital/fossbilling-razorpay-payment-gateway) ([1.0](https://github.com/sahajananddigital/fossbilling-razorpay-payment-gateway/releases/tag/1.0), 3 months ago) - This is the opensource payment gateway for FOSSBilling software
