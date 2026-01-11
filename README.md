@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sahajananddigital/wordpress-simple-customise-helper](https://github.com/sahajananddigital/wordpress-simple-customise-helper) ([v1.0.0](https://github.com/sahajananddigital/wordpress-simple-customise-helper/releases/tag/v1.0.0), 5 days ago) - Simple customise helper
+- [sahajananddigital/wordpress-simple-customise-helper](https://github.com/sahajananddigital/wordpress-simple-customise-helper) ([v1.0.0](https://github.com/sahajananddigital/wordpress-simple-customise-helper/releases/tag/v1.0.0), 6 days ago) - Simple customise helper
 - [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.22](https://github.com/vanpariyar/wp-post-views/releases/tag/1.22), 3 weeks ago) - This is the simple plugin that counts the views of the your wordpress website
 - [vanpariyar/action-create-recurring-issue](https://github.com/vanpariyar/action-create-recurring-issue) ([1.0](https://github.com/vanpariyar/action-create-recurring-issue/releases/tag/1.0), 2 months ago) - Github Action that creates the Recurring issues, Maybe a missing piece from the github projects
 - [sahajananddigital/fossbilling-razorpay-payment-gateway](https://github.com/sahajananddigital/fossbilling-razorpay-payment-gateway) ([1.0](https://github.com/sahajananddigital/fossbilling-razorpay-payment-gateway/releases/tag/1.0), 3 months ago) - This is the opensource payment gateway for FOSSBilling software
@@ -34,7 +34,7 @@
 #### 📓 Gists I wrote
 
 - [How to fetch sites using wget / Make website static ](https://gist.github.com/766ef11b8b0df51532d9caa859e1fa84) (4 months ago)
-- [Fix Google Appscript error, CORS](https://gist.github.com/c198a2ab9912c97a8eea002f71f61b0d) (6 months ago)
+- [Fix Google Appscript error, CORS](https://gist.github.com/c198a2ab9912c97a8eea002f71f61b0d) (7 months ago)
 - [How to Migrate website Database from Mysql to Sqlite or vice versa](https://gist.github.com/720f04a57721e24eb2af2b1112ec89c4) (1 year ago)
 - [How to fix Unix socket error in Docker in WSL2](https://gist.github.com/c3e90157b6aec1f19ae9462941412672) (2 years ago)
 - [Day to day customisation needed for code so making one plugin to reuse in every plugin ](https://gist.github.com/95880b458a6110bb9f4d8c588cb4f119) (2 years ago)
@@ -46,7 +46,7 @@ https://github.com/vanpariyar/books
 
 - [kishanjasani/deltra](https://github.com/kishanjasani/deltra) - The Solid FSE Theme for Modern WordPress Creativity (1 week ago)
 - [inbarnoa/Nannimoon](https://github.com/inbarnoa/Nannimoon) - 🇹🇭 We connect local nannies with traveling families in Thailand. (3 weeks ago)
-- [Action-State-Labs/android-action-kernel](https://github.com/Action-State-Labs/android-action-kernel) -  (4 weeks ago)
+- [Action-State-Labs/android-action-kernel](https://github.com/Action-State-Labs/android-action-kernel) -  (1 month ago)
 - [qarayahya/enable-application-menu](https://github.com/qarayahya/enable-application-menu) - Adds an application menu dropdown to the WordPress block editor. (1 month ago)
 - [StJudeWasHere/seonaut](https://github.com/StJudeWasHere/seonaut) - Open source SEO audit tool. (1 month ago)
 
