@@ -44,7 +44,7 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
-- [trywpm/cli](https://github.com/trywpm/cli) - Package Manager for WordPress (today)
+- [trywpm/cli](https://github.com/trywpm/cli) - Package Manager for WordPress (1 day ago)
 - [kishanjasani/deltra](https://github.com/kishanjasani/deltra) - The Solid FSE Theme for Modern WordPress Creativity (3 weeks ago)
 - [Action-State-Labs/android-action-kernel](https://github.com/Action-State-Labs/android-action-kernel) -  (1 month ago)
 - [qarayahya/enable-application-menu](https://github.com/qarayahya/enable-application-menu) - Adds an application menu dropdown to the WordPress block editor. (1 month ago)
