@@ -10,6 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sahajananddigital/online-peer-to-peer-quiz](https://github.com/sahajananddigital/online-peer-to-peer-quiz) ([1.0](https://github.com/sahajananddigital/online-peer-to-peer-quiz/releases/tag/1.0), today) - This we are thinking to make peer to peer game that includes link sharing and that link can be played online.
 - [sahajananddigital/wordpress-simple-customise-helper](https://github.com/sahajananddigital/wordpress-simple-customise-helper) ([v1.0.0](https://github.com/sahajananddigital/wordpress-simple-customise-helper/releases/tag/v1.0.0), 2 weeks ago) - Simple customise helper
 - [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.22](https://github.com/vanpariyar/wp-post-views/releases/tag/1.22), 1 month ago) - This is the simple plugin that counts the views of the your wordpress website
 - [vanpariyar/action-create-recurring-issue](https://github.com/vanpariyar/action-create-recurring-issue) ([1.0](https://github.com/vanpariyar/action-create-recurring-issue/releases/tag/1.0), 2 months ago) - Github Action that creates the Recurring issues, Maybe a missing piece from the github projects
