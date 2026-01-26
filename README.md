@@ -10,8 +10,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sahajananddigital/online-peer-to-peer-quiz](https://github.com/sahajananddigital/online-peer-to-peer-quiz) ([1.0](https://github.com/sahajananddigital/online-peer-to-peer-quiz/releases/tag/1.0), 2 days ago) - This we are thinking to make peer to peer game that includes link sharing and that link can be played online.
-- [sahajananddigital/wordpress-simple-customise-helper](https://github.com/sahajananddigital/wordpress-simple-customise-helper) ([v1.0.0](https://github.com/sahajananddigital/wordpress-simple-customise-helper/releases/tag/v1.0.0), 2 weeks ago) - Simple customise helper
+- [sahajananddigital/online-peer-to-peer-quiz](https://github.com/sahajananddigital/online-peer-to-peer-quiz) ([1.0](https://github.com/sahajananddigital/online-peer-to-peer-quiz/releases/tag/1.0), 3 days ago) - This we are thinking to make peer to peer game that includes link sharing and that link can be played online.
+- [sahajananddigital/wordpress-simple-customise-helper](https://github.com/sahajananddigital/wordpress-simple-customise-helper) ([v1.0.0](https://github.com/sahajananddigital/wordpress-simple-customise-helper/releases/tag/v1.0.0), 3 weeks ago) - Simple customise helper
 - [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.22](https://github.com/vanpariyar/wp-post-views/releases/tag/1.22), 1 month ago) - This is the simple plugin that counts the views of the your wordpress website
 - [vanpariyar/action-create-recurring-issue](https://github.com/vanpariyar/action-create-recurring-issue) ([1.0](https://github.com/vanpariyar/action-create-recurring-issue/releases/tag/1.0), 2 months ago) - Github Action that creates the Recurring issues, Maybe a missing piece from the github projects
 - [sahajananddigital/fossbilling-razorpay-payment-gateway](https://github.com/sahajananddigital/fossbilling-razorpay-payment-gateway) ([1.0](https://github.com/sahajananddigital/fossbilling-razorpay-payment-gateway/releases/tag/1.0), 4 months ago) - This is the opensource payment gateway for FOSSBilling software
@@ -45,9 +45,9 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
-- [AlphaCloudTechnologies/pdfpea](https://github.com/AlphaCloudTechnologies/pdfpea) -  (4 days ago)
-- [trywpm/cli](https://github.com/trywpm/cli) - Package Manager for WordPress (6 days ago)
-- [kishanjasani/deltra](https://github.com/kishanjasani/deltra) - The Solid FSE Theme for Modern WordPress Creativity (3 weeks ago)
+- [AlphaCloudTechnologies/pdfpea](https://github.com/AlphaCloudTechnologies/pdfpea) -  (5 days ago)
+- [trywpm/cli](https://github.com/trywpm/cli) - Package Manager for WordPress (1 week ago)
+- [kishanjasani/deltra](https://github.com/kishanjasani/deltra) - The Solid FSE Theme for Modern WordPress Creativity (4 weeks ago)
 - [Action-State-Labs/android-action-kernel](https://github.com/Action-State-Labs/android-action-kernel) -  (1 month ago)
 - [qarayahya/enable-application-menu](https://github.com/qarayahya/enable-application-menu) - Adds an application menu dropdown to the WordPress block editor. (1 month ago)
 
