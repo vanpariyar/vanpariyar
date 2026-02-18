@@ -11,7 +11,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [sahajananddigital/event-manager](https://github.com/sahajananddigital/event-manager) ([v1.1.0](https://github.com/sahajananddigital/event-manager/releases/tag/v1.1.0), 2 weeks ago) - WordPress Event Manager
-- [sahajananddigital/send-bulk-whatsapp](https://github.com/sahajananddigital/send-bulk-whatsapp) ([0.2.18](https://github.com/sahajananddigital/send-bulk-whatsapp/releases/tag/0.2.18), 2 weeks ago) - Send Bulk Whatsapp message
+- [sahajananddigital/send-bulk-whatsapp](https://github.com/sahajananddigital/send-bulk-whatsapp) ([0.2.18](https://github.com/sahajananddigital/send-bulk-whatsapp/releases/tag/0.2.18), 3 weeks ago) - Send Bulk Whatsapp message
 - [sahajananddigital/online-peer-to-peer-quiz](https://github.com/sahajananddigital/online-peer-to-peer-quiz) ([1.0](https://github.com/sahajananddigital/online-peer-to-peer-quiz/releases/tag/1.0), 3 weeks ago) - This we are thinking to make peer to peer game that includes link sharing and that link can be played online.
 - [sahajananddigital/wordpress-simple-customise-helper](https://github.com/sahajananddigital/wordpress-simple-customise-helper) ([v1.0.0](https://github.com/sahajananddigital/wordpress-simple-customise-helper/releases/tag/v1.0.0), 1 month ago) - Simple customise helper
 - [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.22](https://github.com/vanpariyar/wp-post-views/releases/tag/1.22), 2 months ago) - This is the simple plugin that counts the views of the your wordpress website
@@ -45,8 +45,8 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
-- [AlphaCloudTechnologies/pdfpea](https://github.com/AlphaCloudTechnologies/pdfpea) -  (3 weeks ago)
-- [trywpm/cli](https://github.com/trywpm/cli) - Package Manager for WordPress (4 weeks ago)
+- [AlphaCloudTechnologies/pdfpea](https://github.com/AlphaCloudTechnologies/pdfpea) -  (4 weeks ago)
+- [trywpm/cli](https://github.com/trywpm/cli) - Package Manager for WordPress (1 month ago)
 - [kishanjasani/deltra](https://github.com/kishanjasani/deltra) - The Solid FSE Theme for Modern WordPress Creativity (1 month ago)
 - [Action-State-Labs/android-action-kernel](https://github.com/Action-State-Labs/android-action-kernel) -  (2 months ago)
 - [qarayahya/enable-application-menu](https://github.com/qarayahya/enable-application-menu) - Adds an application menu dropdown to the WordPress block editor. (2 months ago)
