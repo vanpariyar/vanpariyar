@@ -56,11 +56,11 @@ https://github.com/vanpariyar/books
 
 #### 👯 Check out some of my recent followers
 
+- [helallao](https://github.com/helallao)
 - [hirenyadav511](https://github.com/hirenyadav511)
 - [amisavani39](https://github.com/amisavani39)
 - [mahidarji](https://github.com/mahidarji)
 - [pranshu0515x](https://github.com/pranshu0515x)
-- [shortyspoke-sudo](https://github.com/shortyspoke-sudo)
 
 #### 💬 Feedback
 
