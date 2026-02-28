@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sahajananddigital/event-manager](https://github.com/sahajananddigital/event-manager) ([v1.1.0](https://github.com/sahajananddigital/event-manager/releases/tag/v1.1.0), 3 weeks ago) - WordPress Event Manager
+- [sahajananddigital/event-manager](https://github.com/sahajananddigital/event-manager) ([v1.1.0](https://github.com/sahajananddigital/event-manager/releases/tag/v1.1.0), 4 weeks ago) - WordPress Event Manager
 - [sahajananddigital/send-bulk-whatsapp](https://github.com/sahajananddigital/send-bulk-whatsapp) ([0.2.18](https://github.com/sahajananddigital/send-bulk-whatsapp/releases/tag/0.2.18), 1 month ago) - Send Bulk Whatsapp message
 - [sahajananddigital/online-peer-to-peer-quiz](https://github.com/sahajananddigital/online-peer-to-peer-quiz) ([1.0](https://github.com/sahajananddigital/online-peer-to-peer-quiz/releases/tag/1.0), 1 month ago) - This we are thinking to make peer to peer game that includes link sharing and that link can be played online.
 - [sahajananddigital/wordpress-simple-customise-helper](https://github.com/sahajananddigital/wordpress-simple-customise-helper) ([v1.0.0](https://github.com/sahajananddigital/wordpress-simple-customise-helper/releases/tag/v1.0.0), 1 month ago) - Simple customise helper
@@ -20,7 +20,7 @@
 
 - [Updated Image sizes and added a new section for the about us page.](https://github.com/amisavani39/soller/pull/2) on [amisavani39/soller](https://github.com/amisavani39/soller) (3 weeks ago)
 - [Main](https://github.com/amisavani39/soller/pull/1) on [amisavani39/soller](https://github.com/amisavani39/soller) (3 weeks ago)
-- [Add custom fonts and update label drawing style](https://github.com/sahajananddigital/csv-to-labels/pull/1) on [sahajananddigital/csv-to-labels](https://github.com/sahajananddigital/csv-to-labels) (4 months ago)
+- [Add custom fonts and update label drawing style](https://github.com/sahajananddigital/csv-to-labels/pull/1) on [sahajananddigital/csv-to-labels](https://github.com/sahajananddigital/csv-to-labels) (5 months ago)
 - [Enhance user feedback in transaction handling and improve optimistic UI updates](https://github.com/Swaminarayan-Gurukul/gurukul-food-inventory-management/pull/1) on [Swaminarayan-Gurukul/gurukul-food-inventory-management](https://github.com/Swaminarayan-Gurukul/gurukul-food-inventory-management) (5 months ago)
 - [Update README.md](https://github.com/sahajananddigital/photo-frame-react/pull/8) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (8 months ago)
 
@@ -56,11 +56,11 @@ https://github.com/vanpariyar/books
 
 #### 👯 Check out some of my recent followers
 
-- [seckinyasar](https://github.com/seckinyasar)
 - [hirenyadav511](https://github.com/hirenyadav511)
 - [amisavani39](https://github.com/amisavani39)
 - [mahidarji](https://github.com/mahidarji)
 - [shortyspoke-sudo](https://github.com/shortyspoke-sudo)
+- [rodrigogalura](https://github.com/rodrigogalura)
 
 #### 💬 Feedback
 
