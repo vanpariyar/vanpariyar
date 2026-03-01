@@ -49,7 +49,7 @@ https://github.com/vanpariyar/books
 - [trywpm/cli](https://github.com/trywpm/cli) - Package Manager for WordPress (1 month ago)
 - [kishanjasani/deltra](https://github.com/kishanjasani/deltra) - The Solid FSE Theme for Modern WordPress Creativity (2 months ago)
 - [Action-State-Labs/android-action-kernel](https://github.com/Action-State-Labs/android-action-kernel) -  (2 months ago)
-- [qarayahya/enable-application-menu](https://github.com/qarayahya/enable-application-menu) - Adds an application menu dropdown to the WordPress block editor. (2 months ago)
+- [qarayahya/enable-application-menu](https://github.com/qarayahya/enable-application-menu) - Adds an application menu dropdown to the WordPress block editor. (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
