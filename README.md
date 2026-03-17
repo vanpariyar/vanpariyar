@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sahajananddigital/printing-tools](https://github.com/sahajananddigital/printing-tools) ([1.0](https://github.com/sahajananddigital/printing-tools/releases/tag/1.0), 2 days ago) - Printing Tools
+- [sahajananddigital/printing-tools](https://github.com/sahajananddigital/printing-tools) ([1.0](https://github.com/sahajananddigital/printing-tools/releases/tag/1.0), 3 days ago) - Printing Tools
 - [sahajananddigital/event-manager](https://github.com/sahajananddigital/event-manager) ([v1.1.0](https://github.com/sahajananddigital/event-manager/releases/tag/v1.1.0), 1 month ago) - WordPress Event Manager
 - [sahajananddigital/send-bulk-whatsapp](https://github.com/sahajananddigital/send-bulk-whatsapp) ([0.2.18](https://github.com/sahajananddigital/send-bulk-whatsapp/releases/tag/0.2.18), 1 month ago) - Send Bulk Whatsapp message
 - [sahajananddigital/online-peer-to-peer-quiz](https://github.com/sahajananddigital/online-peer-to-peer-quiz) ([1.0](https://github.com/sahajananddigital/online-peer-to-peer-quiz/releases/tag/1.0), 1 month ago) - This we are thinking to make peer to peer game that includes link sharing and that link can be played online.
