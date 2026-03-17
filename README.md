@@ -45,11 +45,11 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
+- [mitchmac/ServerlessWP](https://github.com/mitchmac/ServerlessWP) - Host WordPress sites on Vercel, Netlify, or AWS Lambda (today)
 - [TanayK07/expo-react-native-cicd](https://github.com/TanayK07/expo-react-native-cicd) - 🚀 Free alternative to Expo EAS builds! Complete CI/CD pipeline for React Native &amp; Expo apps using GitHub Actions. Save $100s monthly with unlimited builds, automated testing, and flexible deployment options. (1 week ago)
 - [AlphaCloudTechnologies/pdfpea](https://github.com/AlphaCloudTechnologies/pdfpea) -  (1 month ago)
 - [trywpm/cli](https://github.com/trywpm/cli) - Package Manager for WordPress (1 month ago)
 - [kishanjasani/deltra](https://github.com/kishanjasani/deltra) - The Solid FSE Theme for Modern WordPress Creativity (2 months ago)
-- [Action-State-Labs/android-action-kernel](https://github.com/Action-State-Labs/android-action-kernel) -  (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
