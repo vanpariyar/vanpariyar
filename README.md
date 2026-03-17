@@ -18,11 +18,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add check for agent-browser availability in site verification](https://github.com/sahajananddigital/sahajananddigital.in/pull/3) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (today)
+- [Develop](https://github.com/sahajananddigital/sahajananddigital.in/pull/2) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (today)
 - [Updated Image sizes and added a new section for the about us page.](https://github.com/amisavani39/soller/pull/2) on [amisavani39/soller](https://github.com/amisavani39/soller) (1 month ago)
 - [Main](https://github.com/amisavani39/soller/pull/1) on [amisavani39/soller](https://github.com/amisavani39/soller) (1 month ago)
 - [Add custom fonts and update label drawing style](https://github.com/sahajananddigital/csv-to-labels/pull/1) on [sahajananddigital/csv-to-labels](https://github.com/sahajananddigital/csv-to-labels) (5 months ago)
-- [Enhance user feedback in transaction handling and improve optimistic UI updates](https://github.com/Swaminarayan-Gurukul/gurukul-food-inventory-management/pull/1) on [Swaminarayan-Gurukul/gurukul-food-inventory-management](https://github.com/Swaminarayan-Gurukul/gurukul-food-inventory-management) (5 months ago)
-- [Update README.md](https://github.com/sahajananddigital/photo-frame-react/pull/8) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (9 months ago)
 
 #### 📜 My recent blog posts
 
