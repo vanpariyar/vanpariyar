@@ -18,9 +18,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Gurukul Shobhayatra 2026 - Photo Frame React App](https://github.com/sahajananddigital/photo-frame-react/pull/9) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (1 day ago)
-- [Add check for agent-browser availability in site verification](https://github.com/sahajananddigital/sahajananddigital.in/pull/3) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (5 days ago)
-- [Develop](https://github.com/sahajananddigital/sahajananddigital.in/pull/2) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (5 days ago)
+- [Gurukul Shobhayatra 2026 - Photo Frame React App](https://github.com/sahajananddigital/photo-frame-react/pull/9) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (2 days ago)
+- [Add check for agent-browser availability in site verification](https://github.com/sahajananddigital/sahajananddigital.in/pull/3) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (6 days ago)
+- [Develop](https://github.com/sahajananddigital/sahajananddigital.in/pull/2) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (6 days ago)
 - [Updated Image sizes and added a new section for the about us page.](https://github.com/amisavani39/soller/pull/2) on [amisavani39/soller](https://github.com/amisavani39/soller) (1 month ago)
 - [Main](https://github.com/amisavani39/soller/pull/1) on [amisavani39/soller](https://github.com/amisavani39/soller) (1 month ago)
 
@@ -45,8 +45,8 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
-- [mitchmac/ServerlessWP](https://github.com/mitchmac/ServerlessWP) - Host WordPress sites on Vercel, Netlify, or AWS Lambda (5 days ago)
-- [TanayK07/expo-react-native-cicd](https://github.com/TanayK07/expo-react-native-cicd) - 🚀 Free alternative to Expo EAS builds! Complete CI/CD pipeline for React Native &amp; Expo apps using GitHub Actions. Save $100s monthly with unlimited builds, automated testing, and flexible deployment options. (1 week ago)
+- [mitchmac/ServerlessWP](https://github.com/mitchmac/ServerlessWP) - Host WordPress sites on Vercel, Netlify, or AWS Lambda (6 days ago)
+- [TanayK07/expo-react-native-cicd](https://github.com/TanayK07/expo-react-native-cicd) - 🚀 Free alternative to Expo EAS builds! Complete CI/CD pipeline for React Native &amp; Expo apps using GitHub Actions. Save $100s monthly with unlimited builds, automated testing, and flexible deployment options. (2 weeks ago)
 - [AlphaCloudTechnologies/pdfpea](https://github.com/AlphaCloudTechnologies/pdfpea) -  (2 months ago)
 - [trywpm/cli](https://github.com/trywpm/cli) - Package Manager for WordPress (2 months ago)
 - [kishanjasani/deltra](https://github.com/kishanjasani/deltra) - The Solid FSE Theme for Modern WordPress Creativity (2 months ago)
