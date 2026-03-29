@@ -12,14 +12,14 @@
 
 - [sahajananddigital/printing-tools](https://github.com/sahajananddigital/printing-tools) ([1.0](https://github.com/sahajananddigital/printing-tools/releases/tag/1.0), 2 weeks ago) - Printing Tools
 - [sahajananddigital/event-manager](https://github.com/sahajananddigital/event-manager) ([v1.1.0](https://github.com/sahajananddigital/event-manager/releases/tag/v1.1.0), 1 month ago) - WordPress Event Manager
-- [sahajananddigital/send-bulk-whatsapp](https://github.com/sahajananddigital/send-bulk-whatsapp) ([0.2.18](https://github.com/sahajananddigital/send-bulk-whatsapp/releases/tag/0.2.18), 1 month ago) - Send Bulk Whatsapp message
+- [sahajananddigital/send-bulk-whatsapp](https://github.com/sahajananddigital/send-bulk-whatsapp) ([0.2.18](https://github.com/sahajananddigital/send-bulk-whatsapp/releases/tag/0.2.18), 2 months ago) - Send Bulk Whatsapp message
 - [sahajananddigital/online-peer-to-peer-quiz](https://github.com/sahajananddigital/online-peer-to-peer-quiz) ([1.0](https://github.com/sahajananddigital/online-peer-to-peer-quiz/releases/tag/1.0), 2 months ago) - This we are thinking to make peer to peer game that includes link sharing and that link can be played online.
 - [sahajananddigital/wordpress-simple-customise-helper](https://github.com/sahajananddigital/wordpress-simple-customise-helper) ([v1.0.0](https://github.com/sahajananddigital/wordpress-simple-customise-helper/releases/tag/v1.0.0), 2 months ago) - Simple customise helper
 
 #### 🔨 My recent Pull Requests
 
-- [Update WhatsApp phone number on contact page](https://github.com/sahajananddigital/sahajananddigital.in/pull/5) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (2 days ago)
-- [Develop](https://github.com/sahajananddigital/sahajananddigital.in/pull/4) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (3 days ago)
+- [Update WhatsApp phone number on contact page](https://github.com/sahajananddigital/sahajananddigital.in/pull/5) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (3 days ago)
+- [Develop](https://github.com/sahajananddigital/sahajananddigital.in/pull/4) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (4 days ago)
 - [Gurukul Shobhayatra 2026 - Photo Frame React App](https://github.com/sahajananddigital/photo-frame-react/pull/9) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (1 week ago)
 - [Add check for agent-browser availability in site verification](https://github.com/sahajananddigital/sahajananddigital.in/pull/3) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (1 week ago)
 - [Develop](https://github.com/sahajananddigital/sahajananddigital.in/pull/2) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (1 week ago)
@@ -49,7 +49,7 @@ https://github.com/vanpariyar/books
 - [TanayK07/expo-react-native-cicd](https://github.com/TanayK07/expo-react-native-cicd) - 🚀 Free alternative to Expo EAS builds! Complete CI/CD pipeline for React Native &amp; Expo apps using GitHub Actions. Save $100s monthly with unlimited builds, automated testing, and flexible deployment options. (2 weeks ago)
 - [AlphaCloudTechnologies/pdfpea](https://github.com/AlphaCloudTechnologies/pdfpea) -  (2 months ago)
 - [trywpm/cli](https://github.com/trywpm/cli) - Package Manager for WordPress (2 months ago)
-- [kishanjasani/deltra](https://github.com/kishanjasani/deltra) - The Solid FSE Theme for Modern WordPress Creativity (2 months ago)
+- [kishanjasani/deltra](https://github.com/kishanjasani/deltra) - The Solid FSE Theme for Modern WordPress Creativity (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
