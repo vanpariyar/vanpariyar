@@ -45,11 +45,11 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
+- [Fueled/ai-provider-for-ollama](https://github.com/Fueled/ai-provider-for-ollama) - Ollama provider for the PHP and WP AI Client packages (today)
 - [mitchmac/ServerlessWP](https://github.com/mitchmac/ServerlessWP) - Host WordPress sites on Vercel, Netlify, or AWS Lambda (1 week ago)
 - [TanayK07/expo-react-native-cicd](https://github.com/TanayK07/expo-react-native-cicd) - 🚀 Free alternative to Expo EAS builds! Complete CI/CD pipeline for React Native &amp; Expo apps using GitHub Actions. Save $100s monthly with unlimited builds, automated testing, and flexible deployment options. (3 weeks ago)
 - [AlphaCloudTechnologies/pdfpea](https://github.com/AlphaCloudTechnologies/pdfpea) -  (2 months ago)
 - [trywpm/cli](https://github.com/trywpm/cli) - Package Manager for WordPress (2 months ago)
-- [kishanjasani/deltra](https://github.com/kishanjasani/deltra) - The Solid FSE Theme for Modern WordPress Creativity (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
