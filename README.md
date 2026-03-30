@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update WhatsApp phone number on contact page](https://github.com/sahajananddigital/sahajananddigital.in/pull/5) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (3 days ago)
-- [Develop](https://github.com/sahajananddigital/sahajananddigital.in/pull/4) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (4 days ago)
+- [Update WhatsApp phone number on contact page](https://github.com/sahajananddigital/sahajananddigital.in/pull/5) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (4 days ago)
+- [Develop](https://github.com/sahajananddigital/sahajananddigital.in/pull/4) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (5 days ago)
 - [Gurukul Shobhayatra 2026 - Photo Frame React App](https://github.com/sahajananddigital/photo-frame-react/pull/9) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (1 week ago)
 - [Add check for agent-browser availability in site verification](https://github.com/sahajananddigital/sahajananddigital.in/pull/3) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (1 week ago)
 - [Develop](https://github.com/sahajananddigital/sahajananddigital.in/pull/2) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (1 week ago)
@@ -46,7 +46,7 @@ https://github.com/vanpariyar/books
 #### ⭐ Recent Stars
 
 - [mitchmac/ServerlessWP](https://github.com/mitchmac/ServerlessWP) - Host WordPress sites on Vercel, Netlify, or AWS Lambda (1 week ago)
-- [TanayK07/expo-react-native-cicd](https://github.com/TanayK07/expo-react-native-cicd) - 🚀 Free alternative to Expo EAS builds! Complete CI/CD pipeline for React Native &amp; Expo apps using GitHub Actions. Save $100s monthly with unlimited builds, automated testing, and flexible deployment options. (2 weeks ago)
+- [TanayK07/expo-react-native-cicd](https://github.com/TanayK07/expo-react-native-cicd) - 🚀 Free alternative to Expo EAS builds! Complete CI/CD pipeline for React Native &amp; Expo apps using GitHub Actions. Save $100s monthly with unlimited builds, automated testing, and flexible deployment options. (3 weeks ago)
 - [AlphaCloudTechnologies/pdfpea](https://github.com/AlphaCloudTechnologies/pdfpea) -  (2 months ago)
 - [trywpm/cli](https://github.com/trywpm/cli) - Package Manager for WordPress (2 months ago)
 - [kishanjasani/deltra](https://github.com/kishanjasani/deltra) - The Solid FSE Theme for Modern WordPress Creativity (3 months ago)
@@ -56,11 +56,11 @@ https://github.com/vanpariyar/books
 
 #### 👯 Check out some of my recent followers
 
+- [helallao](https://github.com/helallao)
 - [seckinyasar](https://github.com/seckinyasar)
 - [hirenyadav511](https://github.com/hirenyadav511)
 - [amisavani39](https://github.com/amisavani39)
 - [mahidarji](https://github.com/mahidarji)
-- [shortyspoke-sudo](https://github.com/shortyspoke-sudo)
 
 #### 💬 Feedback
 
