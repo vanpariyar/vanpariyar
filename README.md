@@ -18,11 +18,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [updated](https://github.com/sahajananddigital/sahajananddigital.in/pull/6) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (today)
 - [Update WhatsApp phone number on contact page](https://github.com/sahajananddigital/sahajananddigital.in/pull/5) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (1 week ago)
 - [Develop](https://github.com/sahajananddigital/sahajananddigital.in/pull/4) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (1 week ago)
 - [Gurukul Shobhayatra 2026 - Photo Frame React App](https://github.com/sahajananddigital/photo-frame-react/pull/9) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (2 weeks ago)
 - [Add check for agent-browser availability in site verification](https://github.com/sahajananddigital/sahajananddigital.in/pull/3) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (2 weeks ago)
-- [Develop](https://github.com/sahajananddigital/sahajananddigital.in/pull/2) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
