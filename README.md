@@ -58,9 +58,9 @@ https://github.com/vanpariyar/books
 
 - [Maharshjiyani](https://github.com/Maharshjiyani)
 - [renishh007](https://github.com/renishh007)
-- [seckinyasar](https://github.com/seckinyasar)
 - [hirenyadav511](https://github.com/hirenyadav511)
 - [amisavani39](https://github.com/amisavani39)
+- [mahidarji](https://github.com/mahidarji)
 
 #### 💬 Feedback
 
