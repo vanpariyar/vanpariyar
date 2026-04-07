@@ -18,10 +18,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update Link](https://github.com/sahajananddigital/photo-frame-react/pull/12) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (today)
-- [Update Image](https://github.com/sahajananddigital/photo-frame-react/pull/11) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (today)
-- [updated Gitignore](https://github.com/sahajananddigital/sahajananddigital.in/pull/7) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (1 day ago)
-- [updated](https://github.com/sahajananddigital/sahajananddigital.in/pull/6) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (1 day ago)
+- [Update Link](https://github.com/sahajananddigital/photo-frame-react/pull/12) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (1 day ago)
+- [Update Image](https://github.com/sahajananddigital/photo-frame-react/pull/11) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (1 day ago)
+- [updated Gitignore](https://github.com/sahajananddigital/sahajananddigital.in/pull/7) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (2 days ago)
+- [updated](https://github.com/sahajananddigital/sahajananddigital.in/pull/6) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (2 days ago)
 - [Update WhatsApp phone number on contact page](https://github.com/sahajananddigital/sahajananddigital.in/pull/5) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (1 week ago)
 
 #### 📜 My recent blog posts
@@ -45,10 +45,10 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
-- [Nasiko-Labs/nasiko](https://github.com/Nasiko-Labs/nasiko) - Developer Control Plane for your AI Agents (2 days ago)
-- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress (4 days ago)
+- [Nasiko-Labs/nasiko](https://github.com/Nasiko-Labs/nasiko) - Developer Control Plane for your AI Agents (3 days ago)
+- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress (5 days ago)
 - [Fueled/ai-provider-for-ollama](https://github.com/Fueled/ai-provider-for-ollama) - Ollama provider for the PHP and WP AI Client packages (1 week ago)
-- [mitchmac/ServerlessWP](https://github.com/mitchmac/ServerlessWP) - Host WordPress sites on Vercel, Netlify, or AWS Lambda (2 weeks ago)
+- [mitchmac/ServerlessWP](https://github.com/mitchmac/ServerlessWP) - Host WordPress sites on Vercel, Netlify, or AWS Lambda (3 weeks ago)
 - [TanayK07/expo-react-native-cicd](https://github.com/TanayK07/expo-react-native-cicd) - 🚀 Free alternative to Expo EAS builds! Complete CI/CD pipeline for React Native &amp; Expo apps using GitHub Actions. Save $100s monthly with unlimited builds, automated testing, and flexible deployment options. (4 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
