@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sahajananddigital/printing-tools](https://github.com/sahajananddigital/printing-tools) ([1.0](https://github.com/sahajananddigital/printing-tools/releases/tag/1.0), 4 weeks ago) - Printing Tools
+- [sahajananddigital/printing-tools](https://github.com/sahajananddigital/printing-tools) ([1.0](https://github.com/sahajananddigital/printing-tools/releases/tag/1.0), 1 month ago) - Printing Tools
 - [sahajananddigital/event-manager](https://github.com/sahajananddigital/event-manager) ([v1.1.0](https://github.com/sahajananddigital/event-manager/releases/tag/v1.1.0), 2 months ago) - WordPress Event Manager
 - [sahajananddigital/send-bulk-whatsapp](https://github.com/sahajananddigital/send-bulk-whatsapp) ([0.2.18](https://github.com/sahajananddigital/send-bulk-whatsapp/releases/tag/0.2.18), 2 months ago) - Send Bulk Whatsapp message
 - [sahajananddigital/online-peer-to-peer-quiz](https://github.com/sahajananddigital/online-peer-to-peer-quiz) ([1.0](https://github.com/sahajananddigital/online-peer-to-peer-quiz/releases/tag/1.0), 2 months ago) - This we are thinking to make peer to peer game that includes link sharing and that link can be played online.
@@ -18,9 +18,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [UPdate pricin page](https://github.com/sahajananddigital/sahajananddigital.in/pull/8) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (5 days ago)
-- [Update Link](https://github.com/sahajananddigital/photo-frame-react/pull/12) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (6 days ago)
-- [Update Image](https://github.com/sahajananddigital/photo-frame-react/pull/11) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (6 days ago)
+- [UPdate pricin page](https://github.com/sahajananddigital/sahajananddigital.in/pull/8) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (6 days ago)
+- [Update Link](https://github.com/sahajananddigital/photo-frame-react/pull/12) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (1 week ago)
+- [Update Image](https://github.com/sahajananddigital/photo-frame-react/pull/11) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (1 week ago)
 - [updated Gitignore](https://github.com/sahajananddigital/sahajananddigital.in/pull/7) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (1 week ago)
 - [updated](https://github.com/sahajananddigital/sahajananddigital.in/pull/6) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (1 week ago)
 
@@ -47,7 +47,7 @@ https://github.com/vanpariyar/books
 
 - [Nasiko-Labs/nasiko](https://github.com/Nasiko-Labs/nasiko) - Developer Control Plane for your AI Agents (1 week ago)
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress (1 week ago)
-- [Fueled/ai-provider-for-ollama](https://github.com/Fueled/ai-provider-for-ollama) - Ollama provider for the PHP and WP AI Client packages (1 week ago)
+- [Fueled/ai-provider-for-ollama](https://github.com/Fueled/ai-provider-for-ollama) - Ollama provider for the PHP and WP AI Client packages (2 weeks ago)
 - [mitchmac/ServerlessWP](https://github.com/mitchmac/ServerlessWP) - Host WordPress sites on Vercel, Netlify, or AWS Lambda (3 weeks ago)
 - [TanayK07/expo-react-native-cicd](https://github.com/TanayK07/expo-react-native-cicd) - 🚀 Free alternative to Expo EAS builds! Complete CI/CD pipeline for React Native &amp; Expo apps using GitHub Actions. Save $100s monthly with unlimited builds, automated testing, and flexible deployment options. (1 month ago)
 
