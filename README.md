@@ -13,7 +13,7 @@
 - [sahajananddigital/printing-tools](https://github.com/sahajananddigital/printing-tools) ([1.0](https://github.com/sahajananddigital/printing-tools/releases/tag/1.0), 1 month ago) - Printing Tools
 - [sahajananddigital/event-manager](https://github.com/sahajananddigital/event-manager) ([v1.1.0](https://github.com/sahajananddigital/event-manager/releases/tag/v1.1.0), 2 months ago) - WordPress Event Manager
 - [sahajananddigital/send-bulk-whatsapp](https://github.com/sahajananddigital/send-bulk-whatsapp) ([0.2.18](https://github.com/sahajananddigital/send-bulk-whatsapp/releases/tag/0.2.18), 2 months ago) - Send Bulk Whatsapp message
-- [sahajananddigital/online-peer-to-peer-quiz](https://github.com/sahajananddigital/online-peer-to-peer-quiz) ([1.0](https://github.com/sahajananddigital/online-peer-to-peer-quiz/releases/tag/1.0), 2 months ago) - This we are thinking to make peer to peer game that includes link sharing and that link can be played online.
+- [sahajananddigital/online-peer-to-peer-quiz](https://github.com/sahajananddigital/online-peer-to-peer-quiz) ([1.0](https://github.com/sahajananddigital/online-peer-to-peer-quiz/releases/tag/1.0), 3 months ago) - This we are thinking to make peer to peer game that includes link sharing and that link can be played online.
 - [sahajananddigital/wordpress-simple-customise-helper](https://github.com/sahajananddigital/wordpress-simple-customise-helper) ([v1.0.0](https://github.com/sahajananddigital/wordpress-simple-customise-helper/releases/tag/v1.0.0), 3 months ago) - Simple customise helper
 
 #### 🔨 My recent Pull Requests
@@ -45,9 +45,9 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
-- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Git-based headless CMS. Successor to Netlify CMS (now Decap CMS). Modern UX, first-class i18n support, mobile support &#43; 100s of improvements. Framework-agnostic, open source &amp; free. (2 days ago)
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Git-based headless CMS. Successor to Netlify CMS (now Decap CMS). Modern UX, first-class i18n support, mobile support &#43; 100s of improvements. Framework-agnostic, open source &amp; free. (3 days ago)
 - [Nasiko-Labs/nasiko](https://github.com/Nasiko-Labs/nasiko) - Developer Control Plane for your AI Agents (2 weeks ago)
-- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress (2 weeks ago)
+- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress (3 weeks ago)
 - [Fueled/ai-provider-for-ollama](https://github.com/Fueled/ai-provider-for-ollama) - Ollama provider for the PHP and WP AI Client packages (3 weeks ago)
 - [mitchmac/ServerlessWP](https://github.com/mitchmac/ServerlessWP) - Host WordPress sites on Vercel, Netlify, or AWS Lambda (1 month ago)
 
