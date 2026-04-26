@@ -21,8 +21,8 @@
 - [UPdate pricin page](https://github.com/sahajananddigital/sahajananddigital.in/pull/8) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (2 weeks ago)
 - [Update Link](https://github.com/sahajananddigital/photo-frame-react/pull/12) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (2 weeks ago)
 - [Update Image](https://github.com/sahajananddigital/photo-frame-react/pull/11) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (2 weeks ago)
-- [updated Gitignore](https://github.com/sahajananddigital/sahajananddigital.in/pull/7) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (2 weeks ago)
-- [updated](https://github.com/sahajananddigital/sahajananddigital.in/pull/6) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (2 weeks ago)
+- [updated Gitignore](https://github.com/sahajananddigital/sahajananddigital.in/pull/7) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (3 weeks ago)
+- [updated](https://github.com/sahajananddigital/sahajananddigital.in/pull/6) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -45,7 +45,7 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
-- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Git-based headless CMS. Successor to Netlify CMS (now Decap CMS). Modern UX, first-class i18n support, mobile support &#43; 100s of improvements. Framework-agnostic, open source &amp; free. (5 days ago)
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Git-based headless CMS. Successor to Netlify CMS (now Decap CMS). Modern UX, first-class i18n support, mobile support &#43; 100s of improvements. Framework-agnostic, open source &amp; free. (6 days ago)
 - [Nasiko-Labs/nasiko](https://github.com/Nasiko-Labs/nasiko) - Developer Control Plane for your AI Agents (3 weeks ago)
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress (3 weeks ago)
 - [Fueled/ai-provider-for-ollama](https://github.com/Fueled/ai-provider-for-ollama) - Ollama provider for the PHP and WP AI Client packages (3 weeks ago)
