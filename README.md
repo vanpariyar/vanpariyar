@@ -21,8 +21,8 @@
 - [UPdate pricin page](https://github.com/sahajananddigital/sahajananddigital.in/pull/8) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (3 weeks ago)
 - [Update Link](https://github.com/sahajananddigital/photo-frame-react/pull/12) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (3 weeks ago)
 - [Update Image](https://github.com/sahajananddigital/photo-frame-react/pull/11) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (3 weeks ago)
-- [updated Gitignore](https://github.com/sahajananddigital/sahajananddigital.in/pull/7) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (3 weeks ago)
-- [updated](https://github.com/sahajananddigital/sahajananddigital.in/pull/6) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (3 weeks ago)
+- [updated Gitignore](https://github.com/sahajananddigital/sahajananddigital.in/pull/7) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (4 weeks ago)
+- [updated](https://github.com/sahajananddigital/sahajananddigital.in/pull/6) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
