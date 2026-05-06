@@ -19,14 +19,14 @@
 #### 🔨 My recent Pull Requests
 
 - [UPdate pricin page](https://github.com/sahajananddigital/sahajananddigital.in/pull/8) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (4 weeks ago)
-- [Update Link](https://github.com/sahajananddigital/photo-frame-react/pull/12) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (4 weeks ago)
-- [Update Image](https://github.com/sahajananddigital/photo-frame-react/pull/11) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (4 weeks ago)
+- [Update Link](https://github.com/sahajananddigital/photo-frame-react/pull/12) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (1 month ago)
+- [Update Image](https://github.com/sahajananddigital/photo-frame-react/pull/11) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (1 month ago)
 - [updated Gitignore](https://github.com/sahajananddigital/sahajananddigital.in/pull/7) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (1 month ago)
 - [updated](https://github.com/sahajananddigital/sahajananddigital.in/pull/6) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (1 month ago)
 
 #### 📜 My recent blog posts
 
-- [How to Add Dynamic UPI QR Code to Frappe Books Invoice Template](https://vanpariyar.in/blog/how-to-add-upi-qr-code-to-frappe-books-invoice/) (2 months ago)
+- [How to Add Dynamic UPI QR Code to Frappe Books Invoice Template](https://vanpariyar.in/blog/how-to-add-upi-qr-code-to-frappe-books-invoice/) (3 months ago)
 - [How to Self-Host WordPress Playground on GitHub Pages with a Custom Domain](https://vanpariyar.in/blog/how-to-self-host-wordpress-playground-on-github-pages-with-a-custom-domain/) (2 years ago)
 - [Getting Started with Gutenberg Editor Custom Block Development](https://vanpariyar.in/blog/how-to-start-with-gutenberg-editor-custom-block-development/) (2 years ago)
 - [Fetch Instagram Details](https://vanpariyar.in/blog/fetch-instagram-details/) (2 years ago)
