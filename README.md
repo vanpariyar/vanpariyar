@@ -56,11 +56,11 @@ https://github.com/vanpariyar/books
 
 #### 👯 Check out some of my recent followers
 
+- [rob0pup](https://github.com/rob0pup)
 - [giladfuchs](https://github.com/giladfuchs)
 - [Maharshjiyani](https://github.com/Maharshjiyani)
 - [renishh007](https://github.com/renishh007)
 - [hirenyadav511](https://github.com/hirenyadav511)
-- [amisavani39](https://github.com/amisavani39)
 
 #### 💬 Feedback
 
