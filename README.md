@@ -10,19 +10,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.23.0](https://github.com/vanpariyar/wp-post-views/releases/tag/1.23.0), today) - This is the simple plugin that counts the views of the your wordpress website
 - [vanpariyar/gutenberg-instagram-post-grid](https://github.com/vanpariyar/gutenberg-instagram-post-grid) ([2.1.0](https://github.com/vanpariyar/gutenberg-instagram-post-grid/releases/tag/2.1.0), 1 week ago) - This is the Gutenberg Plugin that fetch the data From the Public Instagram user.
 - [sahajananddigital/printing-tools](https://github.com/sahajananddigital/printing-tools) ([1.0](https://github.com/sahajananddigital/printing-tools/releases/tag/1.0), 2 months ago) - Printing Tools
 - [sahajananddigital/event-manager](https://github.com/sahajananddigital/event-manager) ([v1.1.0](https://github.com/sahajananddigital/event-manager/releases/tag/v1.1.0), 3 months ago) - WordPress Event Manager
 - [sahajananddigital/send-bulk-whatsapp](https://github.com/sahajananddigital/send-bulk-whatsapp) ([0.2.18](https://github.com/sahajananddigital/send-bulk-whatsapp/releases/tag/0.2.18), 3 months ago) - Send Bulk Whatsapp message
-- [sahajananddigital/online-peer-to-peer-quiz](https://github.com/sahajananddigital/online-peer-to-peer-quiz) ([1.0](https://github.com/sahajananddigital/online-peer-to-peer-quiz/releases/tag/1.0), 3 months ago) - This we are thinking to make peer to peer game that includes link sharing and that link can be played online.
 
 #### 🔨 My recent Pull Requests
 
+- [Update To Screenshot](https://github.com/vanpariyar/wp-post-views/pull/47) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (today)
+- [docs: improve documentation and fix base path](https://github.com/vanpariyar/wp-post-views/pull/46) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (today)
+- [Update to 1.23.0](https://github.com/vanpariyar/wp-post-views/pull/45) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (today)
 - [Fix stable documentation link in README](https://github.com/rtCamp/Frappe-Manager/pull/407) on [rtCamp/Frappe-Manager](https://github.com/rtCamp/Frappe-Manager) (5 days ago)
 - [UPdate pricin page](https://github.com/sahajananddigital/sahajananddigital.in/pull/8) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (1 month ago)
-- [Update Link](https://github.com/sahajananddigital/photo-frame-react/pull/12) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (1 month ago)
-- [Update Image](https://github.com/sahajananddigital/photo-frame-react/pull/11) on [sahajananddigital/photo-frame-react](https://github.com/sahajananddigital/photo-frame-react) (1 month ago)
-- [updated Gitignore](https://github.com/sahajananddigital/sahajananddigital.in/pull/7) on [sahajananddigital/sahajananddigital.in](https://github.com/sahajananddigital/sahajananddigital.in) (1 month ago)
 
 #### 📜 My recent blog posts
 
