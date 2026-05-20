@@ -10,19 +10,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.23.1](https://github.com/vanpariyar/wp-post-views/releases/tag/1.23.1), today) - This is the simple plugin that counts the views of the your wordpress website
 - [sahajananddigital/woocommerce-simple-customizations](https://github.com/sahajananddigital/woocommerce-simple-customizations) ([1.0](https://github.com/sahajananddigital/woocommerce-simple-customizations/releases/tag/1.0), today) - 
-- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.23.0](https://github.com/vanpariyar/wp-post-views/releases/tag/1.23.0), today) - This is the simple plugin that counts the views of the your wordpress website
 - [vanpariyar/gutenberg-instagram-post-grid](https://github.com/vanpariyar/gutenberg-instagram-post-grid) ([2.1.0](https://github.com/vanpariyar/gutenberg-instagram-post-grid/releases/tag/2.1.0), 1 week ago) - This is the Gutenberg Plugin that fetch the data From the Public Instagram user.
 - [sahajananddigital/printing-tools](https://github.com/sahajananddigital/printing-tools) ([1.0](https://github.com/sahajananddigital/printing-tools/releases/tag/1.0), 2 months ago) - Printing Tools
 - [sahajananddigital/event-manager](https://github.com/sahajananddigital/event-manager) ([v1.1.0](https://github.com/sahajananddigital/event-manager/releases/tag/v1.1.0), 3 months ago) - WordPress Event Manager
 
 #### 🔨 My recent Pull Requests
 
+- [update docs](https://github.com/vanpariyar/wp-post-views/pull/52) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (today)
+- [UPdate  to block](https://github.com/vanpariyar/wp-post-views/pull/51) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (today)
+- [Update to 1.23.0](https://github.com/vanpariyar/wp-post-views/pull/50) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (today)
 - [update tags](https://github.com/vanpariyar/wp-post-views/pull/49) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (today)
 - [Update to 1.23.0](https://github.com/vanpariyar/wp-post-views/pull/48) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (today)
-- [Update To Screenshot](https://github.com/vanpariyar/wp-post-views/pull/47) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (today)
-- [docs: improve documentation and fix base path](https://github.com/vanpariyar/wp-post-views/pull/46) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (today)
-- [Update to 1.23.0](https://github.com/vanpariyar/wp-post-views/pull/45) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (today)
 
 #### 📜 My recent blog posts
 
