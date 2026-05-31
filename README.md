@@ -14,7 +14,7 @@
 - [sahajananddigital/woocommerce-simple-customizations](https://github.com/sahajananddigital/woocommerce-simple-customizations) ([1.0](https://github.com/sahajananddigital/woocommerce-simple-customizations/releases/tag/1.0), 1 week ago) - 
 - [vanpariyar/gutenberg-instagram-post-grid](https://github.com/vanpariyar/gutenberg-instagram-post-grid) ([2.1.0](https://github.com/vanpariyar/gutenberg-instagram-post-grid/releases/tag/2.1.0), 3 weeks ago) - This is the Gutenberg Plugin that fetch the data From the Public Instagram user.
 - [sahajananddigital/printing-tools](https://github.com/sahajananddigital/printing-tools) ([1.0](https://github.com/sahajananddigital/printing-tools/releases/tag/1.0), 2 months ago) - Printing Tools
-- [sahajananddigital/event-manager](https://github.com/sahajananddigital/event-manager) ([v1.1.0](https://github.com/sahajananddigital/event-manager/releases/tag/v1.1.0), 3 months ago) - WordPress Event Manager
+- [sahajananddigital/event-manager](https://github.com/sahajananddigital/event-manager) ([v1.1.0](https://github.com/sahajananddigital/event-manager/releases/tag/v1.1.0), 4 months ago) - WordPress Event Manager
 
 #### 🔨 My recent Pull Requests
 
@@ -45,8 +45,8 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  (4 days ago)
-- [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) -  State-of-the-art TTS model under 25MB 😻  (2 weeks ago)
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  (5 days ago)
+- [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) -  State-of-the-art TTS model under 25MB 😻  (3 weeks ago)
 - [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Git-based headless CMS. Successor to Netlify CMS (now Decap CMS). Modern UX, first-class i18n support, mobile support &#43; 100s of improvements. Framework-agnostic, open source &amp; free. (1 month ago)
 - [Nasiko-Labs/nasiko](https://github.com/Nasiko-Labs/nasiko) - Developer Control Plane for your AI Agents (1 month ago)
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress (1 month ago)
