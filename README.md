@@ -26,7 +26,7 @@
 
 #### 📜 My recent blog posts
 
-- [Spiritual Youtube Series that i recommend to watch instead of binge watching](https://vanpariyar.in/blog/spiritual-youtube-series-that-i-recommend-to-watch-instead-of-binge-watching/) (1 week ago)
+- [Spiritual Youtube Series that i recommend to watch instead of binge watching](https://vanpariyar.in/blog/spiritual-youtube-series-that-i-recommend-to-watch-instead-of-binge-watching/) (2 weeks ago)
 - [Technical Post-Mortem: Why Real-Time Collaboration Was Pulled from WordPress 7.0](https://vanpariyar.in/blog/technical-post-mortem-why-real-time-collaboration-was-pulled-from-wordpress-7-0/) (3 weeks ago)
 - [How to Add Dynamic UPI QR Code to Frappe Books Invoice Template](https://vanpariyar.in/blog/how-to-add-upi-qr-code-to-frappe-books-invoice/) (3 months ago)
 - [How to Self-Host WordPress Playground on GitHub Pages with a Custom Domain](https://vanpariyar.in/blog/how-to-self-host-wordpress-playground-on-github-pages-with-a-custom-domain/) (2 years ago)
@@ -45,7 +45,7 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  (6 days ago)
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  (1 week ago)
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) -  State-of-the-art TTS model under 25MB 😻  (3 weeks ago)
 - [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Git-based headless CMS. Successor to Netlify CMS (now Decap CMS). Modern UX, first-class i18n support, mobile support &#43; 100s of improvements. Framework-agnostic, open source &amp; free. (1 month ago)
 - [Nasiko-Labs/nasiko](https://github.com/Nasiko-Labs/nasiko) - Developer Control Plane for your AI Agents (1 month ago)
