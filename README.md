@@ -10,19 +10,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.23.1](https://github.com/vanpariyar/wp-post-views/releases/tag/1.23.1), 1 week ago) - This is the simple plugin that counts the views of the your wordpress website
-- [sahajananddigital/woocommerce-simple-customizations](https://github.com/sahajananddigital/woocommerce-simple-customizations) ([1.0](https://github.com/sahajananddigital/woocommerce-simple-customizations/releases/tag/1.0), 1 week ago) - 
+- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.23.1](https://github.com/vanpariyar/wp-post-views/releases/tag/1.23.1), 2 weeks ago) - This is the simple plugin that counts the views of the your wordpress website
+- [sahajananddigital/woocommerce-simple-customizations](https://github.com/sahajananddigital/woocommerce-simple-customizations) ([1.0](https://github.com/sahajananddigital/woocommerce-simple-customizations/releases/tag/1.0), 2 weeks ago) - 
 - [vanpariyar/gutenberg-instagram-post-grid](https://github.com/vanpariyar/gutenberg-instagram-post-grid) ([2.1.0](https://github.com/vanpariyar/gutenberg-instagram-post-grid/releases/tag/2.1.0), 3 weeks ago) - This is the Gutenberg Plugin that fetch the data From the Public Instagram user.
 - [sahajananddigital/printing-tools](https://github.com/sahajananddigital/printing-tools) ([1.0](https://github.com/sahajananddigital/printing-tools/releases/tag/1.0), 2 months ago) - Printing Tools
 - [sahajananddigital/event-manager](https://github.com/sahajananddigital/event-manager) ([v1.1.0](https://github.com/sahajananddigital/event-manager/releases/tag/v1.1.0), 4 months ago) - WordPress Event Manager
 
 #### 🔨 My recent Pull Requests
 
-- [update docs](https://github.com/vanpariyar/wp-post-views/pull/52) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (1 week ago)
-- [UPdate  to block](https://github.com/vanpariyar/wp-post-views/pull/51) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (1 week ago)
-- [Update to 1.23.0](https://github.com/vanpariyar/wp-post-views/pull/50) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (1 week ago)
-- [update tags](https://github.com/vanpariyar/wp-post-views/pull/49) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (1 week ago)
-- [Update to 1.23.0](https://github.com/vanpariyar/wp-post-views/pull/48) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (1 week ago)
+- [update docs](https://github.com/vanpariyar/wp-post-views/pull/52) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (2 weeks ago)
+- [UPdate  to block](https://github.com/vanpariyar/wp-post-views/pull/51) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (2 weeks ago)
+- [Update to 1.23.0](https://github.com/vanpariyar/wp-post-views/pull/50) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (2 weeks ago)
+- [update tags](https://github.com/vanpariyar/wp-post-views/pull/49) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (2 weeks ago)
+- [Update to 1.23.0](https://github.com/vanpariyar/wp-post-views/pull/48) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -48,7 +48,7 @@ https://github.com/vanpariyar/books
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  (1 week ago)
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) -  State-of-the-art TTS model under 25MB 😻  (3 weeks ago)
 - [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Git-based headless CMS. Successor to Netlify CMS (now Decap CMS). Modern UX, first-class i18n support, mobile support &#43; 100s of improvements. Framework-agnostic, open source &amp; free. (1 month ago)
-- [Nasiko-Labs/nasiko](https://github.com/Nasiko-Labs/nasiko) - Developer Control Plane for your AI Agents (1 month ago)
+- [Nasiko-Labs/nasiko](https://github.com/Nasiko-Labs/nasiko) - Developer Control Plane for your AI Agents (2 months ago)
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
