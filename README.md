@@ -10,11 +10,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) ([wp-plugin-sahajanand-customise-helper/v1.0.0](https://github.com/sahajananddigital/wordpress-plugins/releases/tag/wp-plugin-sahajanand-customise-helper/v1.0.0), today) - 
 - [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.23.1](https://github.com/vanpariyar/wp-post-views/releases/tag/1.23.1), 2 weeks ago) - This is the simple plugin that counts the views of the your wordpress website
-- [sahajananddigital/woocommerce-simple-customizations](https://github.com/sahajananddigital/woocommerce-simple-customizations) ([1.0](https://github.com/sahajananddigital/woocommerce-simple-customizations/releases/tag/1.0), 2 weeks ago) - 
 - [vanpariyar/gutenberg-instagram-post-grid](https://github.com/vanpariyar/gutenberg-instagram-post-grid) ([2.1.0](https://github.com/vanpariyar/gutenberg-instagram-post-grid/releases/tag/2.1.0), 3 weeks ago) - This is the Gutenberg Plugin that fetch the data From the Public Instagram user.
 - [sahajananddigital/printing-tools](https://github.com/sahajananddigital/printing-tools) ([1.0](https://github.com/sahajananddigital/printing-tools/releases/tag/1.0), 2 months ago) - Printing Tools
-- [sahajananddigital/event-manager](https://github.com/sahajananddigital/event-manager) ([v1.1.0](https://github.com/sahajananddigital/event-manager/releases/tag/v1.1.0), 4 months ago) - WordPress Event Manager
+- [sahajananddigital/send-bulk-whatsapp](https://github.com/sahajananddigital/send-bulk-whatsapp) ([0.2.18](https://github.com/sahajananddigital/send-bulk-whatsapp/releases/tag/0.2.18), 4 months ago) - Send Bulk Whatsapp message
 
 #### 🔨 My recent Pull Requests
 
