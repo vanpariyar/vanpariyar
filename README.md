@@ -11,18 +11,18 @@
 #### 🔭 Latest releases I've contributed to
 
 - [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) ([wp-plugin-sahajanand-customise-helper/v1.0.0](https://github.com/sahajananddigital/wordpress-plugins/releases/tag/wp-plugin-sahajanand-customise-helper/v1.0.0), 1 week ago) - 
-- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.23.1](https://github.com/vanpariyar/wp-post-views/releases/tag/1.23.1), 3 weeks ago) - This is the simple plugin that counts the views of the your wordpress website
+- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.23.1](https://github.com/vanpariyar/wp-post-views/releases/tag/1.23.1), 4 weeks ago) - This is the simple plugin that counts the views of the your wordpress website
 - [vanpariyar/gutenberg-instagram-post-grid](https://github.com/vanpariyar/gutenberg-instagram-post-grid) ([2.1.0](https://github.com/vanpariyar/gutenberg-instagram-post-grid/releases/tag/2.1.0), 1 month ago) - This is the Gutenberg Plugin that fetch the data From the Public Instagram user.
 - [sahajananddigital/printing-tools](https://github.com/sahajananddigital/printing-tools) ([1.0](https://github.com/sahajananddigital/printing-tools/releases/tag/1.0), 3 months ago) - Printing Tools
 - [sahajananddigital/send-bulk-whatsapp](https://github.com/sahajananddigital/send-bulk-whatsapp) ([0.2.18](https://github.com/sahajananddigital/send-bulk-whatsapp/releases/tag/0.2.18), 4 months ago) - Send Bulk Whatsapp message
 
 #### 🔨 My recent Pull Requests
 
-- [update docs](https://github.com/vanpariyar/wp-post-views/pull/52) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (3 weeks ago)
-- [UPdate  to block](https://github.com/vanpariyar/wp-post-views/pull/51) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (3 weeks ago)
-- [Update to 1.23.0](https://github.com/vanpariyar/wp-post-views/pull/50) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (3 weeks ago)
-- [update tags](https://github.com/vanpariyar/wp-post-views/pull/49) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (3 weeks ago)
-- [Update to 1.23.0](https://github.com/vanpariyar/wp-post-views/pull/48) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (3 weeks ago)
+- [update docs](https://github.com/vanpariyar/wp-post-views/pull/52) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (4 weeks ago)
+- [UPdate  to block](https://github.com/vanpariyar/wp-post-views/pull/51) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (4 weeks ago)
+- [Update to 1.23.0](https://github.com/vanpariyar/wp-post-views/pull/50) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (4 weeks ago)
+- [update tags](https://github.com/vanpariyar/wp-post-views/pull/49) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (4 weeks ago)
+- [Update to 1.23.0](https://github.com/vanpariyar/wp-post-views/pull/48) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -45,8 +45,8 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self-Hosted WhatsApp API Gateway (1 day ago)
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  (3 weeks ago)
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self-Hosted WhatsApp API Gateway (2 days ago)
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. (3 weeks ago)
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) -  State-of-the-art TTS model under 25MB 😻  (1 month ago)
 - [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Git-based headless CMS. Successor to Netlify CMS (now Decap CMS). Modern UX, first-class i18n support, mobile support &#43; 100s of improvements. Framework-agnostic, open source &amp; free. (1 month ago)
 - [Nasiko-Labs/nasiko](https://github.com/Nasiko-Labs/nasiko) - Developer Control Plane for your AI Agents (2 months ago)
