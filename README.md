@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) ([wp-plugin-sahajanand-customise-helper/v1.0.0](https://github.com/sahajananddigital/wordpress-plugins/releases/tag/wp-plugin-sahajanand-customise-helper/v1.0.0), 1 week ago) - 
+- [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) ([wp-plugin-sahajanand-customise-helper/v1.0.0](https://github.com/sahajananddigital/wordpress-plugins/releases/tag/wp-plugin-sahajanand-customise-helper/v1.0.0), 2 weeks ago) - 
 - [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.23.1](https://github.com/vanpariyar/wp-post-views/releases/tag/1.23.1), 4 weeks ago) - This is the simple plugin that counts the views of the your wordpress website
 - [vanpariyar/gutenberg-instagram-post-grid](https://github.com/vanpariyar/gutenberg-instagram-post-grid) ([2.1.0](https://github.com/vanpariyar/gutenberg-instagram-post-grid/releases/tag/2.1.0), 1 month ago) - This is the Gutenberg Plugin that fetch the data From the Public Instagram user.
 - [sahajananddigital/printing-tools](https://github.com/sahajananddigital/printing-tools) ([1.0](https://github.com/sahajananddigital/printing-tools/releases/tag/1.0), 3 months ago) - Printing Tools
@@ -26,8 +26,8 @@
 
 #### 📜 My recent blog posts
 
-- [From Community Pain to AI Products: Takeaways from Open Source Weekends](https://vanpariyar.in/blog/from-community-pain-to-ai-products-takeaways-from-open-source-weekends/) (1 day ago)
-- [Spiritual Youtube Series that i recommend to watch instead of binge watching](https://vanpariyar.in/blog/spiritual-youtube-series-that-i-recommend-to-watch-instead-of-binge-watching/) (4 weeks ago)
+- [From Community Pain to AI Products: Takeaways from Open Source Weekends](https://vanpariyar.in/blog/from-community-pain-to-ai-products-takeaways-from-open-source-weekends/) (2 days ago)
+- [Spiritual Youtube Series that i recommend to watch instead of binge watching](https://vanpariyar.in/blog/spiritual-youtube-series-that-i-recommend-to-watch-instead-of-binge-watching/) (1 month ago)
 - [Technical Post-Mortem: Why Real-Time Collaboration Was Pulled from WordPress 7.0](https://vanpariyar.in/blog/technical-post-mortem-why-real-time-collaboration-was-pulled-from-wordpress-7-0/) (1 month ago)
 - [How to Add Dynamic UPI QR Code to Frappe Books Invoice Template](https://vanpariyar.in/blog/how-to-add-upi-qr-code-to-frappe-books-invoice/) (4 months ago)
 - [How to Self-Host WordPress Playground on GitHub Pages with a Custom Domain](https://vanpariyar.in/blog/how-to-self-host-wordpress-playground-on-github-pages-with-a-custom-domain/) (2 years ago)
@@ -45,8 +45,8 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
-- [miaskiewicz/turbo-html2pdf](https://github.com/miaskiewicz/turbo-html2pdf) -  (today)
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self-Hosted WhatsApp API Gateway (2 days ago)
+- [miaskiewicz/turbo-html2pdf](https://github.com/miaskiewicz/turbo-html2pdf) -  (1 day ago)
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self-Hosted WhatsApp API Gateway (3 days ago)
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. (3 weeks ago)
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) -  State-of-the-art TTS model under 25MB 😻  (1 month ago)
 - [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Git-based headless CMS. Successor to Netlify CMS (now Decap CMS). Modern UX, first-class i18n support, mobile support &#43; 100s of improvements. Framework-agnostic, open source &amp; free. (1 month ago)
