@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) ([wp-plugin-sahajanand-customise-helper/v1.0.0](https://github.com/sahajananddigital/wordpress-plugins/releases/tag/wp-plugin-sahajanand-customise-helper/v1.0.0), 2 weeks ago) - 
+- [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) ([wp-plugin-sahajanand-customise-helper/v1.0.0](https://github.com/sahajananddigital/wordpress-plugins/releases/tag/wp-plugin-sahajanand-customise-helper/v1.0.0), 3 weeks ago) - 
 - [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.23.1](https://github.com/vanpariyar/wp-post-views/releases/tag/1.23.1), 1 month ago) - This is the simple plugin that counts the views of the your wordpress website
 - [vanpariyar/gutenberg-instagram-post-grid](https://github.com/vanpariyar/gutenberg-instagram-post-grid) ([2.1.0](https://github.com/vanpariyar/gutenberg-instagram-post-grid/releases/tag/2.1.0), 1 month ago) - This is the Gutenberg Plugin that fetch the data From the Public Instagram user.
 - [sahajananddigital/printing-tools](https://github.com/sahajananddigital/printing-tools) ([1.0](https://github.com/sahajananddigital/printing-tools/releases/tag/1.0), 3 months ago) - Printing Tools
@@ -45,10 +45,10 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
-- [Automattic/pressship](https://github.com/Automattic/pressship) - Submit and release WordPress.org plugins from the command line. (today)
+- [Automattic/pressship](https://github.com/Automattic/pressship) - Submit and release WordPress.org plugins from the command line. (1 day ago)
 - [miaskiewicz/turbo-html2pdf](https://github.com/miaskiewicz/turbo-html2pdf) -  (1 week ago)
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self-Hosted WhatsApp API Gateway (1 week ago)
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. (4 weeks ago)
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. (1 month ago)
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) -  State-of-the-art TTS model under 25MB 😻  (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
