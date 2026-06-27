@@ -14,7 +14,7 @@
 - [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.23.1](https://github.com/vanpariyar/wp-post-views/releases/tag/1.23.1), 1 month ago) - This is the simple plugin that counts the views of the your wordpress website
 - [vanpariyar/gutenberg-instagram-post-grid](https://github.com/vanpariyar/gutenberg-instagram-post-grid) ([2.1.0](https://github.com/vanpariyar/gutenberg-instagram-post-grid/releases/tag/2.1.0), 1 month ago) - This is the Gutenberg Plugin that fetch the data From the Public Instagram user.
 - [sahajananddigital/printing-tools](https://github.com/sahajananddigital/printing-tools) ([1.0](https://github.com/sahajananddigital/printing-tools/releases/tag/1.0), 3 months ago) - Printing Tools
-- [sahajananddigital/send-bulk-whatsapp](https://github.com/sahajananddigital/send-bulk-whatsapp) ([0.2.18](https://github.com/sahajananddigital/send-bulk-whatsapp/releases/tag/0.2.18), 4 months ago) - Send Bulk Whatsapp message
+- [sahajananddigital/send-bulk-whatsapp](https://github.com/sahajananddigital/send-bulk-whatsapp) ([0.2.18](https://github.com/sahajananddigital/send-bulk-whatsapp/releases/tag/0.2.18), 5 months ago) - Send Bulk Whatsapp message
 
 #### 🔨 My recent Pull Requests
 
@@ -45,7 +45,7 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
-- [Automattic/pressship](https://github.com/Automattic/pressship) - Submit and release WordPress.org plugins from the command line. (2 days ago)
+- [Automattic/pressship](https://github.com/Automattic/pressship) - Submit and release WordPress.org plugins from the command line. (3 days ago)
 - [miaskiewicz/turbo-html2pdf](https://github.com/miaskiewicz/turbo-html2pdf) -  (1 week ago)
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self-Hosted WhatsApp API Gateway (1 week ago)
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. (1 month ago)
