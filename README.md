@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vanpariyar/wordpress-plugins](https://github.com/vanpariyar/wordpress-plugins) ([creole-demo-lightbox/v0.1](https://github.com/vanpariyar/wordpress-plugins/releases/tag/creole-demo-lightbox/v0.1), today) - Simple Plugin Learning Demo
+- [vanpariyar/wordpress-plugins](https://github.com/vanpariyar/wordpress-plugins) ([post-to-speech/v1.4.0](https://github.com/vanpariyar/wordpress-plugins/releases/tag/post-to-speech/v1.4.0), today) - Simple Plugin Learning Demo
 - [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) ([wp-plugin-sahajanand-customise-helper/v1.0.0](https://github.com/sahajananddigital/wordpress-plugins/releases/tag/wp-plugin-sahajanand-customise-helper/v1.0.0), 3 weeks ago) - 
 - [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.23.1](https://github.com/vanpariyar/wp-post-views/releases/tag/1.23.1), 1 month ago) - This is the simple plugin that counts the views of the your wordpress website
 - [vanpariyar/gutenberg-instagram-post-grid](https://github.com/vanpariyar/gutenberg-instagram-post-grid) ([2.1.0](https://github.com/vanpariyar/gutenberg-instagram-post-grid/releases/tag/2.1.0), 1 month ago) - This is the Gutenberg Plugin that fetch the data From the Public Instagram user.
@@ -56,11 +56,11 @@ https://github.com/vanpariyar/books
 
 #### 👯 Check out some of my recent followers
 
+- [ihiteshpatel](https://github.com/ihiteshpatel)
 - [BhargaviChaudhary](https://github.com/BhargaviChaudhary)
 - [rob0pup](https://github.com/rob0pup)
 - [Maharshjiyani](https://github.com/Maharshjiyani)
 - [renishh007](https://github.com/renishh007)
-- [hirenyadav511](https://github.com/hirenyadav511)
 
 #### 💬 Feedback
 
