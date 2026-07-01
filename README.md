@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vanpariyar/wordpress-plugins](https://github.com/vanpariyar/wordpress-plugins) ([post-to-speech/v1.4.0](https://github.com/vanpariyar/wordpress-plugins/releases/tag/post-to-speech/v1.4.0), 1 day ago) - Simple Plugin Learning Demo
+- [vanpariyar/wordpress-plugins](https://github.com/vanpariyar/wordpress-plugins) ([post-to-speech/v1.4.0](https://github.com/vanpariyar/wordpress-plugins/releases/tag/post-to-speech/v1.4.0), today) - Simple Plugin Learning Demo
 - [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) ([wp-plugin-sahajanand-customise-helper/v1.0.0](https://github.com/sahajananddigital/wordpress-plugins/releases/tag/wp-plugin-sahajanand-customise-helper/v1.0.0), 3 weeks ago) - 
 - [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.23.1](https://github.com/vanpariyar/wp-post-views/releases/tag/1.23.1), 1 month ago) - This is the simple plugin that counts the views of the your wordpress website
 - [vanpariyar/gutenberg-instagram-post-grid](https://github.com/vanpariyar/gutenberg-instagram-post-grid) ([2.1.0](https://github.com/vanpariyar/gutenberg-instagram-post-grid/releases/tag/2.1.0), 1 month ago) - This is the Gutenberg Plugin that fetch the data From the Public Instagram user.
