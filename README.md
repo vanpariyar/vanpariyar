@@ -26,11 +26,11 @@
 
 #### 📜 My recent blog posts
 
+- [FreeScout on HestiaCP: Fixing 500 Internal Server Errors](https://vanpariyar.in/blog/freescout-on-hestiacp-fixing-500-internal-server-errors/) (1 day ago)
 - [From Community Pain to AI Products: Takeaways from Open Source Weekends](https://vanpariyar.in/blog/from-community-pain-to-ai-products-takeaways-from-open-source-weekends/) (3 weeks ago)
 - [Spiritual Youtube Series that i recommend to watch instead of binge watching](https://vanpariyar.in/blog/spiritual-youtube-series-that-i-recommend-to-watch-instead-of-binge-watching/) (1 month ago)
 - [Technical Post-Mortem: Why Real-Time Collaboration Was Pulled from WordPress 7.0](https://vanpariyar.in/blog/technical-post-mortem-why-real-time-collaboration-was-pulled-from-wordpress-7-0/) (1 month ago)
 - [How to Add Dynamic UPI QR Code to Frappe Books Invoice Template](https://vanpariyar.in/blog/how-to-add-upi-qr-code-to-frappe-books-invoice/) (5 months ago)
-- [How to Self-Host WordPress Playground on GitHub Pages with a Custom Domain](https://vanpariyar.in/blog/how-to-self-host-wordpress-playground-on-github-pages-with-a-custom-domain/) (2 years ago)
 
 #### 📓 Gists I wrote
 
