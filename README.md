@@ -10,10 +10,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vanpariyar/wordpress-plugins](https://github.com/vanpariyar/wordpress-plugins) ([sahajanand-post-to-speech/v1.0.0](https://github.com/vanpariyar/wordpress-plugins/releases/tag/sahajanand-post-to-speech/v1.0.0), 4 days ago) - Simple Plugin Learning Demo
+- [vanpariyar/wordpress-plugins](https://github.com/vanpariyar/wordpress-plugins) ([sahajanand-post-to-speech/v1.0.0](https://github.com/vanpariyar/wordpress-plugins/releases/tag/sahajanand-post-to-speech/v1.0.0), 5 days ago) - Simple Plugin Learning Demo
 - [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) ([wp-plugin-sahajanand-customise-helper/v1.0.0](https://github.com/sahajananddigital/wordpress-plugins/releases/tag/wp-plugin-sahajanand-customise-helper/v1.0.0), 1 month ago) - 
 - [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.23.1](https://github.com/vanpariyar/wp-post-views/releases/tag/1.23.1), 1 month ago) - This is the simple plugin that counts the views of the your wordpress website
-- [vanpariyar/gutenberg-instagram-post-grid](https://github.com/vanpariyar/gutenberg-instagram-post-grid) ([2.1.0](https://github.com/vanpariyar/gutenberg-instagram-post-grid/releases/tag/2.1.0), 1 month ago) - This is the Gutenberg Plugin that fetch the data From the Public Instagram user.
+- [vanpariyar/gutenberg-instagram-post-grid](https://github.com/vanpariyar/gutenberg-instagram-post-grid) ([2.1.0](https://github.com/vanpariyar/gutenberg-instagram-post-grid/releases/tag/2.1.0), 2 months ago) - This is the Gutenberg Plugin that fetch the data From the Public Instagram user.
 - [sahajananddigital/printing-tools](https://github.com/sahajananddigital/printing-tools) ([1.0](https://github.com/sahajananddigital/printing-tools/releases/tag/1.0), 3 months ago) - Printing Tools
 
 #### 🔨 My recent Pull Requests
@@ -26,10 +26,10 @@
 
 #### 📜 My recent blog posts
 
-- [FreeScout on HestiaCP: Fixing 500 Internal Server Errors](https://vanpariyar.in/blog/freescout-on-hestiacp-fixing-500-internal-server-errors/) (1 day ago)
+- [FreeScout on HestiaCP: Fixing 500 Internal Server Errors](https://vanpariyar.in/blog/freescout-on-hestiacp-fixing-500-internal-server-errors/) (2 days ago)
 - [From Community Pain to AI Products: Takeaways from Open Source Weekends](https://vanpariyar.in/blog/from-community-pain-to-ai-products-takeaways-from-open-source-weekends/) (3 weeks ago)
 - [Spiritual Youtube Series that i recommend to watch instead of binge watching](https://vanpariyar.in/blog/spiritual-youtube-series-that-i-recommend-to-watch-instead-of-binge-watching/) (1 month ago)
-- [Technical Post-Mortem: Why Real-Time Collaboration Was Pulled from WordPress 7.0](https://vanpariyar.in/blog/technical-post-mortem-why-real-time-collaboration-was-pulled-from-wordpress-7-0/) (1 month ago)
+- [Technical Post-Mortem: Why Real-Time Collaboration Was Pulled from WordPress 7.0](https://vanpariyar.in/blog/technical-post-mortem-why-real-time-collaboration-was-pulled-from-wordpress-7-0/) (2 months ago)
 - [How to Add Dynamic UPI QR Code to Frappe Books Invoice Template](https://vanpariyar.in/blog/how-to-add-upi-qr-code-to-frappe-books-invoice/) (5 months ago)
 
 #### 📓 Gists I wrote
@@ -46,8 +46,8 @@ https://github.com/vanpariyar/books
 #### ⭐ Recent Stars
 
 - [codersantosh/wp-block-theme-boilerplate](https://github.com/codersantosh/wp-block-theme-boilerplate) - WP Block Theme Boilerplate – A starter WordPress theme for developing block themes using modern development practices (1 week ago)
-- [Automattic/pressship](https://github.com/Automattic/pressship) - Submit and release WordPress.org plugins from the command line. (1 week ago)
-- [miaskiewicz/turbo-html2pdf](https://github.com/miaskiewicz/turbo-html2pdf) -  (2 weeks ago)
+- [Automattic/pressship](https://github.com/Automattic/pressship) - Submit and release WordPress.org plugins from the command line. (2 weeks ago)
+- [miaskiewicz/turbo-html2pdf](https://github.com/miaskiewicz/turbo-html2pdf) -  (3 weeks ago)
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self-Hosted WhatsApp API Gateway (3 weeks ago)
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. (1 month ago)
 
