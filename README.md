@@ -26,7 +26,7 @@
 
 #### 📜 My recent blog posts
 
-- [FreeScout on HestiaCP: Fixing 500 Internal Server Errors](https://vanpariyar.in/blog/freescout-on-hestiacp-fixing-500-internal-server-errors/) (6 days ago)
+- [FreeScout on HestiaCP: Fixing 500 Internal Server Errors](https://vanpariyar.in/blog/freescout-on-hestiacp-fixing-500-internal-server-errors/) (1 week ago)
 - [From Community Pain to AI Products: Takeaways from Open Source Weekends](https://vanpariyar.in/blog/from-community-pain-to-ai-products-takeaways-from-open-source-weekends/) (3 weeks ago)
 - [Spiritual Youtube Series that i recommend to watch instead of binge watching](https://vanpariyar.in/blog/spiritual-youtube-series-that-i-recommend-to-watch-instead-of-binge-watching/) (1 month ago)
 - [Technical Post-Mortem: Why Real-Time Collaboration Was Pulled from WordPress 7.0](https://vanpariyar.in/blog/technical-post-mortem-why-real-time-collaboration-was-pulled-from-wordpress-7-0/) (2 months ago)
@@ -48,7 +48,7 @@ https://github.com/vanpariyar/books
 - [codersantosh/wp-block-theme-boilerplate](https://github.com/codersantosh/wp-block-theme-boilerplate) - WP Block Theme Boilerplate – A starter WordPress theme for developing block themes using modern development practices (2 weeks ago)
 - [Automattic/pressship](https://github.com/Automattic/pressship) - Submit and release WordPress.org plugins from the command line. (2 weeks ago)
 - [miaskiewicz/turbo-html2pdf](https://github.com/miaskiewicz/turbo-html2pdf) -  (3 weeks ago)
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self-Hosted WhatsApp API Gateway (3 weeks ago)
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self-Hosted WhatsApp API Gateway (4 weeks ago)
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
