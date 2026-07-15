@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vanpariyar/wordpress-plugins](https://github.com/vanpariyar/wordpress-plugins) ([sahajanand-post-to-speech/v1.0.1](https://github.com/vanpariyar/wordpress-plugins/releases/tag/sahajanand-post-to-speech/v1.0.1), 1 day ago) - WordPress Plugins
+- [vanpariyar/wordpress-plugins](https://github.com/vanpariyar/wordpress-plugins) ([sahajanand-post-to-speech/v1.0.1](https://github.com/vanpariyar/wordpress-plugins/releases/tag/sahajanand-post-to-speech/v1.0.1), 2 days ago) - WordPress Plugins
 - [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) ([wp-plugin-sahajanand-customise-helper/v1.0.0](https://github.com/sahajananddigital/wordpress-plugins/releases/tag/wp-plugin-sahajanand-customise-helper/v1.0.0), 1 month ago) - 
 - [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.23.1](https://github.com/vanpariyar/wp-post-views/releases/tag/1.23.1), 1 month ago) - This is the simple plugin that counts the views of the your wordpress website
 - [vanpariyar/gutenberg-instagram-post-grid](https://github.com/vanpariyar/gutenberg-instagram-post-grid) ([2.1.0](https://github.com/vanpariyar/gutenberg-instagram-post-grid/releases/tag/2.1.0), 2 months ago) - This is the Gutenberg Plugin that fetch the data From the Public Instagram user.
@@ -46,9 +46,9 @@ https://github.com/vanpariyar/books
 #### ⭐ Recent Stars
 
 - [codersantosh/wp-block-theme-boilerplate](https://github.com/codersantosh/wp-block-theme-boilerplate) - WP Block Theme Boilerplate – A starter WordPress theme for developing block themes using modern development practices (2 weeks ago)
-- [Automattic/pressship](https://github.com/Automattic/pressship) - Submit and release WordPress.org plugins from the command line. (2 weeks ago)
-- [miaskiewicz/turbo-html2pdf](https://github.com/miaskiewicz/turbo-html2pdf) -  (3 weeks ago)
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self-Hosted WhatsApp API Gateway (4 weeks ago)
+- [Automattic/pressship](https://github.com/Automattic/pressship) - Submit and release WordPress.org plugins from the command line. (3 weeks ago)
+- [miaskiewicz/turbo-html2pdf](https://github.com/miaskiewicz/turbo-html2pdf) -  (4 weeks ago)
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self-Hosted WhatsApp API Gateway (1 month ago)
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
