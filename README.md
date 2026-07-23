@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.23.2](https://github.com/vanpariyar/wp-post-views/releases/tag/1.23.2), 5 days ago) - This is the simple plugin that counts the views of the your wordpress website
+- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.23.2](https://github.com/vanpariyar/wp-post-views/releases/tag/1.23.2), 6 days ago) - This is the simple plugin that counts the views of the your wordpress website
 - [vanpariyar/wordpress-plugins](https://github.com/vanpariyar/wordpress-plugins) ([sahajanand-post-to-speech/v1.0.2](https://github.com/vanpariyar/wordpress-plugins/releases/tag/sahajanand-post-to-speech/v1.0.2), 1 week ago) - WordPress Plugins
 - [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) ([wp-plugin-sahajanand-customise-helper/v1.0.0](https://github.com/sahajananddigital/wordpress-plugins/releases/tag/wp-plugin-sahajanand-customise-helper/v1.0.0), 1 month ago) - 
 - [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) ([2.1.0](https://github.com/vanpariyar/social-gallery-block/releases/tag/2.1.0), 2 months ago) - This is the Gutenberg Plugin that fetch the data From the Public Instagram user.
@@ -45,8 +45,8 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
-- [pablostanley/yoinks](https://github.com/pablostanley/yoinks) - yoink any video from your terminal. no shady ads. (1 day ago)
-- [every-app/open-seo](https://github.com/every-app/open-seo) - Open source alternative to Semrush and Ahrefs (3 days ago)
+- [pablostanley/yoinks](https://github.com/pablostanley/yoinks) - yoink any video from your terminal. no shady ads. (2 days ago)
+- [every-app/open-seo](https://github.com/every-app/open-seo) - Open source alternative to Semrush and Ahrefs (4 days ago)
 - [codersantosh/wp-block-theme-boilerplate](https://github.com/codersantosh/wp-block-theme-boilerplate) - WP Block Theme Boilerplate – A starter WordPress theme for developing block themes using modern development practices (3 weeks ago)
 - [Automattic/pressship](https://github.com/Automattic/pressship) - Submit and release WordPress.org plugins from the command line. (4 weeks ago)
 - [miaskiewicz/turbo-html2pdf](https://github.com/miaskiewicz/turbo-html2pdf) -  (1 month ago)
