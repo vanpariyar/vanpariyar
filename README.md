@@ -18,7 +18,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Add e2e tests for post-to-speech plugin](https://github.com/vanpariyar/wordpress-plugins/pull/2) on [vanpariyar/wordpress-plugins](https://github.com/vanpariyar/wordpress-plugins) (3 days ago)
+- [feat: Add e2e tests for post-to-speech plugin](https://github.com/vanpariyar/wordpress-plugins/pull/2) on [vanpariyar/wordpress-plugins](https://github.com/vanpariyar/wordpress-plugins) (4 days ago)
 - [update docs](https://github.com/vanpariyar/wp-post-views/pull/52) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (2 months ago)
 - [UPdate  to block](https://github.com/vanpariyar/wp-post-views/pull/51) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (2 months ago)
 - [Update to 1.23.0](https://github.com/vanpariyar/wp-post-views/pull/50) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (2 months ago)
@@ -45,8 +45,8 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
-- [hexgrad/kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M (today)
-- [pablostanley/yoinks](https://github.com/pablostanley/yoinks) - yoink any video from your terminal. no shady ads. (6 days ago)
+- [hexgrad/kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M (1 day ago)
+- [pablostanley/yoinks](https://github.com/pablostanley/yoinks) - yoink any video from your terminal. no shady ads. (1 week ago)
 - [every-app/open-seo](https://github.com/every-app/open-seo) - Open source alternative to Semrush and Ahrefs (1 week ago)
 - [codersantosh/wp-block-theme-boilerplate](https://github.com/codersantosh/wp-block-theme-boilerplate) - WP Block Theme Boilerplate – A starter WordPress theme for developing block themes using modern development practices (1 month ago)
 - [Automattic/pressship](https://github.com/Automattic/pressship) - Submit and release WordPress.org plugins from the command line. (1 month ago)
