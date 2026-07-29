@@ -11,14 +11,14 @@
 #### 🔭 Latest releases I've contributed to
 
 - [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.23.2](https://github.com/vanpariyar/wp-post-views/releases/tag/1.23.2), 1 week ago) - This is the simple plugin that counts the views of the your wordpress website
-- [vanpariyar/wordpress-plugins](https://github.com/vanpariyar/wordpress-plugins) ([sahajanand-post-to-speech/v1.0.2](https://github.com/vanpariyar/wordpress-plugins/releases/tag/sahajanand-post-to-speech/v1.0.2), 1 week ago) - WordPress Plugins
+- [vanpariyar/wordpress-plugins](https://github.com/vanpariyar/wordpress-plugins) ([sahajanand-post-to-speech/v1.0.2](https://github.com/vanpariyar/wordpress-plugins/releases/tag/sahajanand-post-to-speech/v1.0.2), 2 weeks ago) - WordPress Plugins
 - [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) ([wp-plugin-sahajanand-customise-helper/v1.0.0](https://github.com/sahajananddigital/wordpress-plugins/releases/tag/wp-plugin-sahajanand-customise-helper/v1.0.0), 1 month ago) - 
 - [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) ([2.1.0](https://github.com/vanpariyar/social-gallery-block/releases/tag/2.1.0), 2 months ago) - This is the Gutenberg Plugin that fetch the data From the Public Instagram user.
 - [sahajananddigital/printing-tools](https://github.com/sahajananddigital/printing-tools) ([1.0](https://github.com/sahajananddigital/printing-tools/releases/tag/1.0), 4 months ago) - Printing Tools
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Add e2e tests for post-to-speech plugin](https://github.com/vanpariyar/wordpress-plugins/pull/2) on [vanpariyar/wordpress-plugins](https://github.com/vanpariyar/wordpress-plugins) (4 days ago)
+- [feat: Add e2e tests for post-to-speech plugin](https://github.com/vanpariyar/wordpress-plugins/pull/2) on [vanpariyar/wordpress-plugins](https://github.com/vanpariyar/wordpress-plugins) (5 days ago)
 - [update docs](https://github.com/vanpariyar/wp-post-views/pull/52) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (2 months ago)
 - [UPdate  to block](https://github.com/vanpariyar/wp-post-views/pull/51) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (2 months ago)
 - [Update to 1.23.0](https://github.com/vanpariyar/wp-post-views/pull/50) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (2 months ago)
@@ -45,7 +45,7 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
-- [hexgrad/kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M (1 day ago)
+- [hexgrad/kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M (2 days ago)
 - [pablostanley/yoinks](https://github.com/pablostanley/yoinks) - yoink any video from your terminal. no shady ads. (1 week ago)
 - [every-app/open-seo](https://github.com/every-app/open-seo) - Open source alternative to Semrush and Ahrefs (1 week ago)
 - [codersantosh/wp-block-theme-boilerplate](https://github.com/codersantosh/wp-block-theme-boilerplate) - WP Block Theme Boilerplate – A starter WordPress theme for developing block themes using modern development practices (1 month ago)
