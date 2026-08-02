@@ -45,9 +45,9 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
-- [hexgrad/kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M (5 days ago)
+- [hexgrad/kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M (6 days ago)
 - [pablostanley/yoinks](https://github.com/pablostanley/yoinks) - yoink any video from your terminal. no shady ads. (1 week ago)
-- [every-app/open-seo](https://github.com/every-app/open-seo) - Open source alternative to Semrush and Ahrefs (1 week ago)
+- [every-app/open-seo](https://github.com/every-app/open-seo) - Open source alternative to Semrush and Ahrefs (2 weeks ago)
 - [codersantosh/wp-block-theme-boilerplate](https://github.com/codersantosh/wp-block-theme-boilerplate) - WP Block Theme Boilerplate – A starter WordPress theme for developing block themes using modern development practices (1 month ago)
 - [Automattic/pressship](https://github.com/Automattic/pressship) - Submit and release WordPress.org plugins from the command line. (1 month ago)
 
