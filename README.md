@@ -11,7 +11,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.23.2](https://github.com/vanpariyar/wp-post-views/releases/tag/1.23.2), 2 weeks ago) - This is the simple plugin that counts the views of the your wordpress website
-- [vanpariyar/wordpress-plugins](https://github.com/vanpariyar/wordpress-plugins) ([sahajanand-post-to-speech/v1.0.2](https://github.com/vanpariyar/wordpress-plugins/releases/tag/sahajanand-post-to-speech/v1.0.2), 2 weeks ago) - WordPress Plugins
+- [vanpariyar/wordpress-plugins](https://github.com/vanpariyar/wordpress-plugins) ([sahajanand-post-to-speech/v1.0.2](https://github.com/vanpariyar/wordpress-plugins/releases/tag/sahajanand-post-to-speech/v1.0.2), 3 weeks ago) - WordPress Plugins
 - [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) ([wp-plugin-sahajanand-customise-helper/v1.0.0](https://github.com/sahajananddigital/wordpress-plugins/releases/tag/wp-plugin-sahajanand-customise-helper/v1.0.0), 2 months ago) - 
 - [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) ([2.1.0](https://github.com/vanpariyar/social-gallery-block/releases/tag/2.1.0), 2 months ago) - This is the Gutenberg Plugin that fetch the data From the Public Instagram user.
 - [sahajananddigital/printing-tools](https://github.com/sahajananddigital/printing-tools) ([1.0](https://github.com/sahajananddigital/printing-tools/releases/tag/1.0), 4 months ago) - Printing Tools
@@ -26,7 +26,7 @@
 
 #### 📜 My recent blog posts
 
-- [FreeScout on HestiaCP: Fixing 500 Internal Server Errors](https://vanpariyar.in/blog/freescout-on-hestiacp-fixing-500-internal-server-errors/) (4 weeks ago)
+- [FreeScout on HestiaCP: Fixing 500 Internal Server Errors](https://vanpariyar.in/blog/freescout-on-hestiacp-fixing-500-internal-server-errors/) (1 month ago)
 - [From Community Pain to AI Products: Takeaways from Open Source Weekends](https://vanpariyar.in/blog/from-community-pain-to-ai-products-takeaways-from-open-source-weekends/) (1 month ago)
 - [Spiritual Youtube Series that i recommend to watch instead of binge watching](https://vanpariyar.in/blog/spiritual-youtube-series-that-i-recommend-to-watch-instead-of-binge-watching/) (2 months ago)
 - [Technical Post-Mortem: Why Real-Time Collaboration Was Pulled from WordPress 7.0](https://vanpariyar.in/blog/technical-post-mortem-why-real-time-collaboration-was-pulled-from-wordpress-7-0/) (2 months ago)
@@ -45,8 +45,8 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
-- [bradvin/skills](https://github.com/bradvin/skills) - Skills I actually use (today)
-- [Roots-and-Fruit/skills](https://github.com/Roots-and-Fruit/skills) - Cursor agent skills for Roots &amp; Fruit marketing and product development (today)
+- [bradvin/skills](https://github.com/bradvin/skills) - Skills I actually use (1 day ago)
+- [Roots-and-Fruit/skills](https://github.com/Roots-and-Fruit/skills) - Cursor agent skills for Roots &amp; Fruit marketing and product development (1 day ago)
 - [hexgrad/kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M (1 week ago)
 - [pablostanley/yoinks](https://github.com/pablostanley/yoinks) - yoink any video from your terminal. no shady ads. (2 weeks ago)
 - [every-app/open-seo](https://github.com/every-app/open-seo) - Open source alternative to Semrush and Ahrefs (2 weeks ago)
