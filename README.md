@@ -14,7 +14,7 @@
 - [vanpariyar/wordpress-plugins](https://github.com/vanpariyar/wordpress-plugins) ([sahajanand-post-to-speech/v1.0.2](https://github.com/vanpariyar/wordpress-plugins/releases/tag/sahajanand-post-to-speech/v1.0.2), 3 weeks ago) - WordPress Plugins
 - [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) ([wp-plugin-sahajanand-customise-helper/v1.0.0](https://github.com/sahajananddigital/wordpress-plugins/releases/tag/wp-plugin-sahajanand-customise-helper/v1.0.0), 2 months ago) - 
 - [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) ([2.1.0](https://github.com/vanpariyar/social-gallery-block/releases/tag/2.1.0), 3 months ago) - This is the Gutenberg Plugin that fetch the data From the Public Instagram user.
-- [sahajananddigital/printing-tools](https://github.com/sahajananddigital/printing-tools) ([1.0](https://github.com/sahajananddigital/printing-tools/releases/tag/1.0), 4 months ago) - Printing Tools
+- [sahajananddigital/printing-tools](https://github.com/sahajananddigital/printing-tools) ([1.0](https://github.com/sahajananddigital/printing-tools/releases/tag/1.0), 5 months ago) - Printing Tools
 
 #### 🔨 My recent Pull Requests
 
@@ -45,10 +45,10 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
-- [bradvin/skills](https://github.com/bradvin/skills) - Skills I actually use (6 days ago)
-- [Roots-and-Fruit/skills](https://github.com/Roots-and-Fruit/skills) - Cursor agent skills for Roots &amp; Fruit marketing and product development (6 days ago)
+- [bradvin/skills](https://github.com/bradvin/skills) - Skills I actually use (1 week ago)
+- [Roots-and-Fruit/skills](https://github.com/Roots-and-Fruit/skills) - Cursor agent skills for Roots &amp; Fruit marketing and product development (1 week ago)
 - [hexgrad/kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M (2 weeks ago)
-- [pablostanley/yoinks](https://github.com/pablostanley/yoinks) - yoink any video from your terminal. no shady ads. (2 weeks ago)
+- [pablostanley/yoinks](https://github.com/pablostanley/yoinks) - yoink any video from your terminal. no shady ads. (3 weeks ago)
 - [every-app/open-seo](https://github.com/every-app/open-seo) - Open source alternative to Semrush and Ahrefs (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
