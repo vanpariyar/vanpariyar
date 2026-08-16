@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.23.2](https://github.com/vanpariyar/wp-post-views/releases/tag/1.23.2), 4 weeks ago) - This is the simple plugin that counts the views of the your wordpress website
+- [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.23.2](https://github.com/vanpariyar/wp-post-views/releases/tag/1.23.2), 1 month ago) - This is the simple plugin that counts the views of the your wordpress website
 - [vanpariyar/wordpress-plugins](https://github.com/vanpariyar/wordpress-plugins) ([sahajanand-post-to-speech/v1.0.2](https://github.com/vanpariyar/wordpress-plugins/releases/tag/sahajanand-post-to-speech/v1.0.2), 1 month ago) - WordPress Plugins
 - [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) ([wp-plugin-sahajanand-customise-helper/v1.0.0](https://github.com/sahajananddigital/wordpress-plugins/releases/tag/wp-plugin-sahajanand-customise-helper/v1.0.0), 2 months ago) - 
 - [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) ([2.1.0](https://github.com/vanpariyar/social-gallery-block/releases/tag/2.1.0), 3 months ago) - This is the Gutenberg Plugin that fetch the data From the Public Instagram user.
@@ -45,7 +45,7 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
-- [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as &#34;SQLite Database Browser&#34; and &#34;Database Browser for SQLite&#34;. Website at:  (today)
+- [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as &#34;SQLite Database Browser&#34; and &#34;Database Browser for SQLite&#34;. Website at:  (1 day ago)
 - [bradvin/skills](https://github.com/bradvin/skills) - Skills I actually use (1 week ago)
 - [Roots-and-Fruit/skills](https://github.com/Roots-and-Fruit/skills) - Cursor agent skills for Roots &amp; Fruit marketing and product development (1 week ago)
 - [hexgrad/kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M (2 weeks ago)
