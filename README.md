@@ -18,7 +18,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Add e2e tests for post-to-speech plugin](https://github.com/vanpariyar/wordpress-plugins/pull/2) on [vanpariyar/wordpress-plugins](https://github.com/vanpariyar/wordpress-plugins) (4 weeks ago)
+- [feat: Add e2e tests for post-to-speech plugin](https://github.com/vanpariyar/wordpress-plugins/pull/2) on [vanpariyar/wordpress-plugins](https://github.com/vanpariyar/wordpress-plugins) (1 month ago)
 - [update docs](https://github.com/vanpariyar/wp-post-views/pull/52) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (3 months ago)
 - [UPdate  to block](https://github.com/vanpariyar/wp-post-views/pull/51) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (3 months ago)
 - [Update to 1.23.0](https://github.com/vanpariyar/wp-post-views/pull/50) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (3 months ago)
