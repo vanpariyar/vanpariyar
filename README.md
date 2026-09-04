@@ -26,7 +26,7 @@
 
 #### 📜 My recent blog posts
 
-- [FreeScout on HestiaCP: Fixing 500 Internal Server Errors](https://vanpariyar.in/blog/freescout-on-hestiacp-fixing-500-internal-server-errors/) (1 month ago)
+- [FreeScout on HestiaCP: Fixing 500 Internal Server Errors](https://vanpariyar.in/blog/freescout-on-hestiacp-fixing-500-internal-server-errors/) (2 months ago)
 - [From Community Pain to AI Products: Takeaways from Open Source Weekends](https://vanpariyar.in/blog/from-community-pain-to-ai-products-takeaways-from-open-source-weekends/) (2 months ago)
 - [Spiritual Youtube Series that i recommend to watch instead of binge watching](https://vanpariyar.in/blog/spiritual-youtube-series-that-i-recommend-to-watch-instead-of-binge-watching/) (3 months ago)
 - [Technical Post-Mortem: Why Real-Time Collaboration Was Pulled from WordPress 7.0](https://vanpariyar.in/blog/technical-post-mortem-why-real-time-collaboration-was-pulled-from-wordpress-7-0/) (3 months ago)
@@ -45,7 +45,7 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
-- [alyf-de/ask_alyf](https://github.com/alyf-de/ask_alyf) - Ask ALYF adds an assistant to ERPNext so users can ask questions, find information, and get help working with documents without leaving the Desk. (3 days ago)
+- [alyf-de/ask_alyf](https://github.com/alyf-de/ask_alyf) - Ask ALYF adds an assistant to ERPNext so users can ask questions, find information, and get help working with documents without leaving the Desk. (4 days ago)
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as &#34;SQLite Database Browser&#34; and &#34;Database Browser for SQLite&#34;. Website at:  (2 weeks ago)
 - [bradvin/skills](https://github.com/bradvin/skills) - Skills I actually use (1 month ago)
 - [Roots-and-Fruit/skills](https://github.com/Roots-and-Fruit/skills) - Cursor agent skills for Roots &amp; Fruit marketing and product development (1 month ago)
