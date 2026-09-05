@@ -34,7 +34,7 @@
 
 #### 📓 Gists I wrote
 
-- [How to fetch sites using wget / Make website static ](https://gist.github.com/766ef11b8b0df51532d9caa859e1fa84) (11 months ago)
+- [How to fetch sites using wget / Make website static ](https://gist.github.com/766ef11b8b0df51532d9caa859e1fa84) (1 year ago)
 - [Fix Google Appscript error, CORS](https://gist.github.com/c198a2ab9912c97a8eea002f71f61b0d) (1 year ago)
 - [How to Migrate website Database from Mysql to Sqlite or vice versa](https://gist.github.com/720f04a57721e24eb2af2b1112ec89c4) (2 years ago)
 - [How to fix Unix socket error in Docker in WSL2](https://gist.github.com/c3e90157b6aec1f19ae9462941412672) (2 years ago)
@@ -45,8 +45,8 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
-- [alyf-de/ask_alyf](https://github.com/alyf-de/ask_alyf) - Ask ALYF adds an assistant to ERPNext so users can ask questions, find information, and get help working with documents without leaving the Desk. (4 days ago)
-- [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as &#34;SQLite Database Browser&#34; and &#34;Database Browser for SQLite&#34;. Website at:  (2 weeks ago)
+- [alyf-de/ask_alyf](https://github.com/alyf-de/ask_alyf) - Ask ALYF adds an assistant to ERPNext so users can ask questions, find information, and get help working with documents without leaving the Desk. (5 days ago)
+- [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as &#34;SQLite Database Browser&#34; and &#34;Database Browser for SQLite&#34;. Website at:  (3 weeks ago)
 - [bradvin/skills](https://github.com/bradvin/skills) - Skills I actually use (1 month ago)
 - [Roots-and-Fruit/skills](https://github.com/Roots-and-Fruit/skills) - Cursor agent skills for Roots &amp; Fruit marketing and product development (1 month ago)
 - [hexgrad/kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M (1 month ago)
