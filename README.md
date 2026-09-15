@@ -45,7 +45,7 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
-- [mihir-kandoi/frappe-books](https://github.com/mihir-kandoi/frappe-books) - Frappe Books for Frappe Framework (develop) (6 days ago)
+- [mihir-kandoi/frappe-books](https://github.com/mihir-kandoi/frappe-books) - Frappe Books for Frappe Framework (develop) (1 week ago)
 - [alyf-de/ask_alyf](https://github.com/alyf-de/ask_alyf) - Ask ALYF adds an assistant to ERPNext so users can ask questions, find information, and get help working with documents without leaving the Desk. (2 weeks ago)
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as &#34;SQLite Database Browser&#34; and &#34;Database Browser for SQLite&#34;. Website at:  (1 month ago)
 - [bradvin/skills](https://github.com/bradvin/skills) - Skills I actually use (1 month ago)
