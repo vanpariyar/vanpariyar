@@ -18,11 +18,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update Blueprint json](https://github.com/vanpariyar/wp-post-views/pull/54) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (2 weeks ago)
+- [Update Blueprint json](https://github.com/vanpariyar/wp-post-views/pull/54) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (3 weeks ago)
 - [version bump to 1.23.3](https://github.com/vanpariyar/wp-post-views/pull/53) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (3 weeks ago)
 - [feat: Add e2e tests for post-to-speech plugin](https://github.com/vanpariyar/wordpress-plugins/pull/2) on [vanpariyar/wordpress-plugins](https://github.com/vanpariyar/wordpress-plugins) (1 month ago)
-- [update docs](https://github.com/vanpariyar/wp-post-views/pull/52) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (3 months ago)
-- [UPdate  to block](https://github.com/vanpariyar/wp-post-views/pull/51) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (3 months ago)
+- [update docs](https://github.com/vanpariyar/wp-post-views/pull/52) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (4 months ago)
+- [UPdate  to block](https://github.com/vanpariyar/wp-post-views/pull/51) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (4 months ago)
 
 #### 📜 My recent blog posts
 
