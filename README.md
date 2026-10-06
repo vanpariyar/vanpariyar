@@ -2,11 +2,11 @@
 
 #### 🌱 My latest projects
 
+- [vanpariyar/frappebooks-migrator](https://github.com/vanpariyar/frappebooks-migrator) - Migrate Data from Electron Version of Frappe books to Frappe framework version
 - [vanpariyar/workflows](https://github.com/vanpariyar/workflows) - Contains My Workflows
 - [vanpariyar/Website-Lists](https://github.com/vanpariyar/Website-Lists) - Website Lists
 - [vanpariyar/action-create-recurring-issue](https://github.com/vanpariyar/action-create-recurring-issue) - Github Action that creates the Recurring issues, Maybe a missing piece from the github projects
 - [vanpariyar/testing-repo](https://github.com/vanpariyar/testing-repo) - This is the testing repo
-- [vanpariyar/books](https://github.com/vanpariyar/books) - Shows which book i am reading
 
 #### 🔭 Latest releases I've contributed to
 
