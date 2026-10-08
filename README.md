@@ -18,7 +18,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: SQLite Desktop to MariaDB Web App Migrator &amp; UI](https://github.com/frappe/frappe-books/pull/7) on [frappe/frappe-books](https://github.com/frappe/frappe-books) (today)
+- [feat: SQLite Desktop to MariaDB Web App Migrator &amp; UI](https://github.com/frappe/frappe-books/pull/7) on [frappe/frappe-books](https://github.com/frappe/frappe-books) (1 day ago)
 - [Release/1.23.4](https://github.com/vanpariyar/wp-post-views/pull/56) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (2 weeks ago)
 - [Update Blueprint json](https://github.com/vanpariyar/wp-post-views/pull/54) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (1 month ago)
 - [version bump to 1.23.3](https://github.com/vanpariyar/wp-post-views/pull/53) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (1 month ago)
@@ -45,8 +45,8 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
-- [bruin-data/ingestr](https://github.com/bruin-data/ingestr) - ingestr is a CLI tool to copy data between any databases with a single command seamlessly. (6 days ago)
-- [frappe/frappe-books](https://github.com/frappe/frappe-books) - Frappe Books for Frappe Framework (develop) (4 weeks ago)
+- [bruin-data/ingestr](https://github.com/bruin-data/ingestr) - ingestr is a CLI tool to copy data between any databases with a single command seamlessly. (1 week ago)
+- [frappe/frappe-books](https://github.com/frappe/frappe-books) - Frappe Books for Frappe Framework (develop) (1 month ago)
 - [alyf-de/ask_alyf](https://github.com/alyf-de/ask_alyf) - Ask ALYF adds an assistant to ERPNext so users can ask questions, find information, and get help working with documents without leaving the Desk. (1 month ago)
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as &#34;SQLite Database Browser&#34; and &#34;Database Browser for SQLite&#34;. Website at:  (1 month ago)
 - [bradvin/skills](https://github.com/bradvin/skills) - Skills I actually use (2 months ago)
@@ -56,11 +56,11 @@ https://github.com/vanpariyar/books
 
 #### 👯 Check out some of my recent followers
 
+- [buildlabs-io](https://github.com/buildlabs-io)
 - [lxcadoza993](https://github.com/lxcadoza993)
 - [Ali-hey-0](https://github.com/Ali-hey-0)
 - [ihiteshpatel](https://github.com/ihiteshpatel)
 - [BhargaviChaudhary](https://github.com/BhargaviChaudhary)
-- [rob0pup](https://github.com/rob0pup)
 
 #### 💬 Feedback
 
