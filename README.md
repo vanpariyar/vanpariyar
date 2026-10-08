@@ -45,11 +45,11 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
+- [h-lakkad1998/000-guardian-malware-nuke](https://github.com/h-lakkad1998/000-guardian-malware-nuke) - Aggressive containment and eradication for the 2026 Stealthy MU-Plugin / EtherHiding campaign. v3.3 — extended IOC sweep (30-min interval, wp-content root, plugins dir) (today)
 - [bruin-data/ingestr](https://github.com/bruin-data/ingestr) - ingestr is a CLI tool to copy data between any databases with a single command seamlessly. (1 week ago)
 - [frappe/frappe-books](https://github.com/frappe/frappe-books) - Frappe Books for Frappe Framework (develop) (1 month ago)
 - [alyf-de/ask_alyf](https://github.com/alyf-de/ask_alyf) - Ask ALYF adds an assistant to ERPNext so users can ask questions, find information, and get help working with documents without leaving the Desk. (1 month ago)
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as &#34;SQLite Database Browser&#34; and &#34;Database Browser for SQLite&#34;. Website at:  (1 month ago)
-- [bradvin/skills](https://github.com/bradvin/skills) - Skills I actually use (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
