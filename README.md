@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) ([static-search-index/v1.0.0](https://github.com/sahajananddigital/wordpress-plugins/releases/tag/static-search-index/v1.0.0), 1 day ago) - 
+- [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) ([static-search-index/v1.0.0](https://github.com/sahajananddigital/wordpress-plugins/releases/tag/static-search-index/v1.0.0), 2 days ago) - 
 - [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.23.4](https://github.com/vanpariyar/wp-post-views/releases/tag/1.23.4), 3 weeks ago) - This is the simple plugin that counts the views of the your wordpress website
 - [vanpariyar/wordpress-plugins](https://github.com/vanpariyar/wordpress-plugins) ([sahajanand-post-to-speech/v1.0.2](https://github.com/vanpariyar/wordpress-plugins/releases/tag/sahajanand-post-to-speech/v1.0.2), 3 months ago) - WordPress Plugins
 - [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) ([2.1.0](https://github.com/vanpariyar/social-gallery-block/releases/tag/2.1.0), 5 months ago) - This is the Gutenberg Plugin that fetch the data From the Public Instagram user.
@@ -18,7 +18,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: SQLite Desktop to MariaDB Web App Migrator &amp; UI](https://github.com/frappe/frappe-books/pull/7) on [frappe/frappe-books](https://github.com/frappe/frappe-books) (6 days ago)
+- [feat: SQLite Desktop to MariaDB Web App Migrator &amp; UI](https://github.com/frappe/frappe-books/pull/7) on [frappe/frappe-books](https://github.com/frappe/frappe-books) (1 week ago)
 - [Release/1.23.4](https://github.com/vanpariyar/wp-post-views/pull/56) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (3 weeks ago)
 - [Update Blueprint json](https://github.com/vanpariyar/wp-post-views/pull/54) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (1 month ago)
 - [version bump to 1.23.3](https://github.com/vanpariyar/wp-post-views/pull/53) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (1 month ago)
@@ -27,7 +27,7 @@
 #### 📜 My recent blog posts
 
 - [FreeScout on HestiaCP: Fixing 500 Internal Server Errors](https://vanpariyar.in/blog/freescout-on-hestiacp-fixing-500-internal-server-errors/) (3 months ago)
-- [From Community Pain to AI Products: Takeaways from Open Source Weekends](https://vanpariyar.in/blog/from-community-pain-to-ai-products-takeaways-from-open-source-weekends/) (3 months ago)
+- [From Community Pain to AI Products: Takeaways from Open Source Weekends](https://vanpariyar.in/blog/from-community-pain-to-ai-products-takeaways-from-open-source-weekends/) (4 months ago)
 - [Spiritual Youtube Series that i recommend to watch instead of binge watching](https://vanpariyar.in/blog/spiritual-youtube-series-that-i-recommend-to-watch-instead-of-binge-watching/) (4 months ago)
 - [Technical Post-Mortem: Why Real-Time Collaboration Was Pulled from WordPress 7.0](https://vanpariyar.in/blog/technical-post-mortem-why-real-time-collaboration-was-pulled-from-wordpress-7-0/) (5 months ago)
 - [How to Add Dynamic UPI QR Code to Frappe Books Invoice Template](https://vanpariyar.in/blog/how-to-add-upi-qr-code-to-frappe-books-invoice/) (8 months ago)
@@ -45,8 +45,8 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
-- [tonydarcy/frappe-books](https://github.com/tonydarcy/frappe-books) - Frappe Books (2 days ago)
-- [h-lakkad1998/000-guardian-malware-nuke](https://github.com/h-lakkad1998/000-guardian-malware-nuke) - Aggressive containment and eradication for the 2026 Stealthy MU-Plugin / EtherHiding campaign. v3.3 — extended IOC sweep (30-min interval, wp-content root, plugins dir) (5 days ago)
+- [tonydarcy/frappe-books](https://github.com/tonydarcy/frappe-books) - Frappe Books (3 days ago)
+- [h-lakkad1998/000-guardian-malware-nuke](https://github.com/h-lakkad1998/000-guardian-malware-nuke) - Aggressive containment and eradication for the 2026 Stealthy MU-Plugin / EtherHiding campaign. v3.3 — extended IOC sweep (30-min interval, wp-content root, plugins dir) (6 days ago)
 - [bruin-data/ingestr](https://github.com/bruin-data/ingestr) - ingestr is a CLI tool to copy data between any databases with a single command seamlessly. (1 week ago)
 - [frappe/frappe-books](https://github.com/frappe/frappe-books) - Frappe Books for Frappe Framework (develop) (1 month ago)
 - [alyf-de/ask_alyf](https://github.com/alyf-de/ask_alyf) - Ask ALYF adds an assistant to ERPNext so users can ask questions, find information, and get help working with documents without leaving the Desk. (1 month ago)
