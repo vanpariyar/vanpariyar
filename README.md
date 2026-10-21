@@ -45,11 +45,11 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
+- [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) - FreeScout — Free self-hosted omnichannel AI-powered helpdesk &amp; shared mailbox (today)
 - [tonydarcy/frappe-books](https://github.com/tonydarcy/frappe-books) - Frappe Books (1 week ago)
 - [h-lakkad1998/000-guardian-malware-nuke](https://github.com/h-lakkad1998/000-guardian-malware-nuke) - Aggressive containment and eradication for the 2026 Stealthy MU-Plugin / EtherHiding campaign. v3.3 — extended IOC sweep (30-min interval, wp-content root, plugins dir) (1 week ago)
 - [bruin-data/ingestr](https://github.com/bruin-data/ingestr) - ingestr is a CLI tool to copy data between any databases with a single command seamlessly. (2 weeks ago)
 - [frappe/frappe-books](https://github.com/frappe/frappe-books) - Frappe Books for Frappe Framework (develop) (1 month ago)
-- [alyf-de/ask_alyf](https://github.com/alyf-de/ask_alyf) - Ask ALYF adds an assistant to ERPNext so users can ask questions, find information, and get help working with documents without leaving the Desk. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
