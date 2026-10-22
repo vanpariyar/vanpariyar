@@ -18,11 +18,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [reverse](https://github.com/vanpariyar/swaminarayan-charitra/pull/772) on [vanpariyar/swaminarayan-charitra](https://github.com/vanpariyar/swaminarayan-charitra) (today)
 - [feat: SQLite Desktop to MariaDB Web App Migrator &amp; UI](https://github.com/frappe/frappe-books/pull/7) on [frappe/frappe-books](https://github.com/frappe/frappe-books) (2 weeks ago)
 - [Release/1.23.4](https://github.com/vanpariyar/wp-post-views/pull/56) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (1 month ago)
 - [Update Blueprint json](https://github.com/vanpariyar/wp-post-views/pull/54) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (1 month ago)
 - [version bump to 1.23.3](https://github.com/vanpariyar/wp-post-views/pull/53) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (1 month ago)
-- [feat: Add e2e tests for post-to-speech plugin](https://github.com/vanpariyar/wordpress-plugins/pull/2) on [vanpariyar/wordpress-plugins](https://github.com/vanpariyar/wordpress-plugins) (3 months ago)
 
 #### 📜 My recent blog posts
 
