@@ -45,11 +45,11 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
+- [sumanbasuli/bhranti](https://github.com/sumanbasuli/bhranti) - An AI assistant for WordPress that helps you write content, edit pages, and manage site tasks through chat—with native AI connectors, configurable permissions, approvals, and activity logs. (today)
 - [cheey2003/fuzzify-search](https://github.com/cheey2003/fuzzify-search) - Instant results for native WordPress search forms without database calls. Works for both static and dynamic sites (4 days ago)
 - [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) - FreeScout — Free self-hosted omnichannel AI-powered helpdesk &amp; shared mailbox (6 days ago)
 - [tonydarcy/frappe-books](https://github.com/tonydarcy/frappe-books) - Frappe Books (2 weeks ago)
 - [h-lakkad1998/000-guardian-malware-nuke](https://github.com/h-lakkad1998/000-guardian-malware-nuke) - Aggressive containment and eradication for the 2026 Stealthy MU-Plugin / EtherHiding campaign. v3.3 — extended IOC sweep (30-min interval, wp-content root, plugins dir) (2 weeks ago)
-- [bruin-data/ingestr](https://github.com/bruin-data/ingestr) - ingestr is a CLI tool to copy data between any databases with a single command seamlessly. (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
