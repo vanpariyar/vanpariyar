@@ -6,7 +6,7 @@
 - [vanpariyar/workflows](https://github.com/vanpariyar/workflows) - Contains My Workflows
 - [vanpariyar/Website-Lists](https://github.com/vanpariyar/Website-Lists) - Website Lists
 - [vanpariyar/action-create-recurring-issue](https://github.com/vanpariyar/action-create-recurring-issue) - Github Action that creates the Recurring issues, Maybe a missing piece from the github projects
-- [vanpariyar/testing-repo](https://github.com/vanpariyar/testing-repo) - This is the testing repo
+- [vanpariyar/telegram-youtube-rss-bot](https://github.com/vanpariyar/telegram-youtube-rss-bot) - Telegram RSS bot
 
 #### 🔭 Latest releases I've contributed to
 
@@ -45,11 +45,11 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
+- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 Open-source, self-hosted P2P WebRTC video conferencing for fast, private real-time communication. Create browser-based meeting rooms with no downloads or time limits, plus screen sharing, chat, whiteboard, recording, and collaboration. (today)
 - [sumanbasuli/bhranti](https://github.com/sumanbasuli/bhranti) - An AI assistant for WordPress that helps you write content, edit pages, and manage site tasks through chat—with native AI connectors, configurable permissions, approvals, and activity logs. (1 day ago)
 - [cheey2003/fuzzify-search](https://github.com/cheey2003/fuzzify-search) - Instant results for native WordPress search forms without database calls. Works for both static and dynamic sites (5 days ago)
 - [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) - FreeScout — Free self-hosted omnichannel AI-powered helpdesk &amp; shared mailbox (1 week ago)
 - [tonydarcy/frappe-books](https://github.com/tonydarcy/frappe-books) - Frappe Books (2 weeks ago)
-- [h-lakkad1998/000-guardian-malware-nuke](https://github.com/h-lakkad1998/000-guardian-malware-nuke) - Aggressive containment and eradication for the 2026 Stealthy MU-Plugin / EtherHiding campaign. v3.3 — extended IOC sweep (30-min interval, wp-content root, plugins dir) (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
