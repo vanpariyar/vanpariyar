@@ -30,7 +30,7 @@
 - [From Community Pain to AI Products: Takeaways from Open Source Weekends](https://vanpariyar.in/blog/from-community-pain-to-ai-products-takeaways-from-open-source-weekends/) (4 months ago)
 - [Spiritual Youtube Series that i recommend to watch instead of binge watching](https://vanpariyar.in/blog/spiritual-youtube-series-that-i-recommend-to-watch-instead-of-binge-watching/) (5 months ago)
 - [Technical Post-Mortem: Why Real-Time Collaboration Was Pulled from WordPress 7.0](https://vanpariyar.in/blog/technical-post-mortem-why-real-time-collaboration-was-pulled-from-wordpress-7-0/) (5 months ago)
-- [How to Add Dynamic UPI QR Code to Frappe Books Invoice Template](https://vanpariyar.in/blog/how-to-add-upi-qr-code-to-frappe-books-invoice/) (8 months ago)
+- [How to Add Dynamic UPI QR Code to Frappe Books Invoice Template](https://vanpariyar.in/blog/how-to-add-upi-qr-code-to-frappe-books-invoice/) (9 months ago)
 
 #### 📓 Gists I wrote
 
@@ -45,8 +45,8 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
-- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 Open-source, self-hosted P2P WebRTC video conferencing for fast, private real-time communication. Create browser-based meeting rooms with no downloads or time limits, plus screen sharing, chat, whiteboard, recording, and collaboration. (4 days ago)
-- [sumanbasuli/bhranti](https://github.com/sumanbasuli/bhranti) - An AI assistant for WordPress that helps you write content, edit pages, and manage site tasks through chat—with native AI connectors, configurable permissions, approvals, and activity logs. (5 days ago)
+- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 Open-source, self-hosted P2P WebRTC video conferencing for fast, private real-time communication. Create browser-based meeting rooms with no downloads or time limits, plus screen sharing, chat, whiteboard, recording, and collaboration. (5 days ago)
+- [sumanbasuli/bhranti](https://github.com/sumanbasuli/bhranti) - An AI assistant for WordPress that helps you write content, edit pages, and manage site tasks through chat—with native AI connectors, configurable permissions, approvals, and activity logs. (6 days ago)
 - [cheey2003/fuzzify-search](https://github.com/cheey2003/fuzzify-search) - Instant results for native WordPress search forms without database calls. Works for both static and dynamic sites (1 week ago)
 - [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) - FreeScout — Free self-hosted omnichannel AI-powered helpdesk &amp; shared mailbox (1 week ago)
 - [tonydarcy/frappe-books](https://github.com/tonydarcy/frappe-books) - Frappe Books (3 weeks ago)
