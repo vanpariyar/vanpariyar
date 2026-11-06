@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) ([static-search-index/v1.0.2](https://github.com/sahajananddigital/wordpress-plugins/releases/tag/static-search-index/v1.0.2), 1 week ago) - 
+- [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) ([static-search-index/v1.0.2](https://github.com/sahajananddigital/wordpress-plugins/releases/tag/static-search-index/v1.0.2), 2 weeks ago) - 
 - [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.23.4](https://github.com/vanpariyar/wp-post-views/releases/tag/1.23.4), 1 month ago) - This is the simple plugin that counts the views of the your wordpress website
 - [vanpariyar/wordpress-plugins](https://github.com/vanpariyar/wordpress-plugins) ([sahajanand-post-to-speech/v1.0.2](https://github.com/vanpariyar/wordpress-plugins/releases/tag/sahajanand-post-to-speech/v1.0.2), 3 months ago) - WordPress Plugins
 - [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) ([2.1.0](https://github.com/vanpariyar/social-gallery-block/releases/tag/2.1.0), 6 months ago) - This is the Gutenberg Plugin that fetch the data From the Public Instagram user.
@@ -19,7 +19,7 @@
 #### 🔨 My recent Pull Requests
 
 - [reverse](https://github.com/vanpariyar/swaminarayan-charitra/pull/772) on [vanpariyar/swaminarayan-charitra](https://github.com/vanpariyar/swaminarayan-charitra) (2 weeks ago)
-- [feat: SQLite Desktop to MariaDB Web App Migrator &amp; UI](https://github.com/frappe/frappe-books/pull/7) on [frappe/frappe-books](https://github.com/frappe/frappe-books) (4 weeks ago)
+- [feat: SQLite Desktop to MariaDB Web App Migrator &amp; UI](https://github.com/frappe/frappe-books/pull/7) on [frappe/frappe-books](https://github.com/frappe/frappe-books) (1 month ago)
 - [Release/1.23.4](https://github.com/vanpariyar/wp-post-views/pull/56) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (1 month ago)
 - [Update Blueprint json](https://github.com/vanpariyar/wp-post-views/pull/54) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (2 months ago)
 - [version bump to 1.23.3](https://github.com/vanpariyar/wp-post-views/pull/53) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (2 months ago)
@@ -47,7 +47,7 @@ https://github.com/vanpariyar/books
 
 - [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 Open-source, self-hosted P2P WebRTC video conferencing for fast, private real-time communication. Create browser-based meeting rooms with no downloads or time limits, plus screen sharing, chat, whiteboard, recording, and collaboration. (1 week ago)
 - [sumanbasuli/bhranti](https://github.com/sumanbasuli/bhranti) - An AI assistant for WordPress that helps you write content, edit pages, and manage site tasks through chat—with native AI connectors, configurable permissions, approvals, and activity logs. (1 week ago)
-- [cheey2003/fuzzify-search](https://github.com/cheey2003/fuzzify-search) - Instant results for native WordPress search forms without database calls. Works for both static and dynamic sites (1 week ago)
+- [cheey2003/fuzzify-search](https://github.com/cheey2003/fuzzify-search) - Instant results for native WordPress search forms without database calls. Works for both static and dynamic sites (2 weeks ago)
 - [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) - FreeScout — Free self-hosted omnichannel AI-powered helpdesk &amp; shared mailbox (2 weeks ago)
 - [tonydarcy/frappe-books](https://github.com/tonydarcy/frappe-books) - Frappe Books (3 weeks ago)
 
