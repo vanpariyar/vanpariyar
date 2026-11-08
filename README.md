@@ -49,7 +49,7 @@ https://github.com/vanpariyar/books
 - [sumanbasuli/bhranti](https://github.com/sumanbasuli/bhranti) - An AI assistant for WordPress that helps you write content, edit pages, and manage site tasks through chat—with native AI connectors, configurable permissions, approvals, and activity logs. (1 week ago)
 - [cheey2003/fuzzify-search](https://github.com/cheey2003/fuzzify-search) - Instant results for native WordPress search forms without database calls. Works for both static and dynamic sites (2 weeks ago)
 - [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) - FreeScout — Free self-hosted omnichannel AI-powered helpdesk &amp; shared mailbox (2 weeks ago)
-- [tonydarcy/frappe-books](https://github.com/tonydarcy/frappe-books) - Frappe Books (3 weeks ago)
+- [tonydarcy/frappe-books](https://github.com/tonydarcy/frappe-books) - Frappe Books (4 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
