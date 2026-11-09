@@ -57,10 +57,10 @@ https://github.com/vanpariyar/books
 #### 👯 Check out some of my recent followers
 
 - [dr-bharada](https://github.com/dr-bharada)
-- [0vm](https://github.com/0vm)
 - [lxcadoza993](https://github.com/lxcadoza993)
 - [ihiteshpatel](https://github.com/ihiteshpatel)
 - [BhargaviChaudhary](https://github.com/BhargaviChaudhary)
+- [Maharshjiyani](https://github.com/Maharshjiyani)
 
 #### 💬 Feedback
 
