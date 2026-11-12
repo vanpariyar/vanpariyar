@@ -12,13 +12,13 @@
 
 - [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) ([static-search-index/v1.0.2](https://github.com/sahajananddigital/wordpress-plugins/releases/tag/static-search-index/v1.0.2), 2 weeks ago) - 
 - [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.23.4](https://github.com/vanpariyar/wp-post-views/releases/tag/1.23.4), 1 month ago) - This is the simple plugin that counts the views of the your wordpress website
-- [vanpariyar/wordpress-plugins](https://github.com/vanpariyar/wordpress-plugins) ([sahajanand-post-to-speech/v1.0.2](https://github.com/vanpariyar/wordpress-plugins/releases/tag/sahajanand-post-to-speech/v1.0.2), 3 months ago) - WordPress Plugins
+- [vanpariyar/wordpress-plugins](https://github.com/vanpariyar/wordpress-plugins) ([sahajanand-post-to-speech/v1.0.2](https://github.com/vanpariyar/wordpress-plugins/releases/tag/sahajanand-post-to-speech/v1.0.2), 4 months ago) - WordPress Plugins
 - [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) ([2.1.0](https://github.com/vanpariyar/social-gallery-block/releases/tag/2.1.0), 6 months ago) - This is the Gutenberg Plugin that fetch the data From the Public Instagram user.
 - [sahajananddigital/printing-tools](https://github.com/sahajananddigital/printing-tools) ([1.0](https://github.com/sahajananddigital/printing-tools/releases/tag/1.0), 8 months ago) - Printing Tools
 
 #### 🔨 My recent Pull Requests
 
-- [reverse](https://github.com/vanpariyar/swaminarayan-charitra/pull/772) on [vanpariyar/swaminarayan-charitra](https://github.com/vanpariyar/swaminarayan-charitra) (2 weeks ago)
+- [reverse](https://github.com/vanpariyar/swaminarayan-charitra/pull/772) on [vanpariyar/swaminarayan-charitra](https://github.com/vanpariyar/swaminarayan-charitra) (3 weeks ago)
 - [feat: SQLite Desktop to MariaDB Web App Migrator &amp; UI](https://github.com/frappe/frappe-books/pull/7) on [frappe/frappe-books](https://github.com/frappe/frappe-books) (1 month ago)
 - [Release/1.23.4](https://github.com/vanpariyar/wp-post-views/pull/56) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (1 month ago)
 - [Update Blueprint json](https://github.com/vanpariyar/wp-post-views/pull/54) on [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) (2 months ago)
