@@ -18,11 +18,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Updated Gitsuppoert plugin](https://github.com/sahajananddigital/wordpress-plugins/pull/5) on [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) (today)
 - [Update URL in Docs](https://github.com/vanpariyar/social-gallery-block/pull/41) on [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) (5 days ago)
 - [Update docs](https://github.com/vanpariyar/social-gallery-block/pull/40) on [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) (5 days ago)
 - [Update Version](https://github.com/vanpariyar/social-gallery-block/pull/39) on [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) (5 days ago)
 - [update Instagram block](https://github.com/vanpariyar/social-gallery-block/pull/38) on [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) (5 days ago)
-- [reverse](https://github.com/vanpariyar/swaminarayan-charitra/pull/772) on [vanpariyar/swaminarayan-charitra](https://github.com/vanpariyar/swaminarayan-charitra) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
