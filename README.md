@@ -10,19 +10,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) ([static-search-index/v1.0.3](https://github.com/sahajananddigital/wordpress-plugins/releases/tag/static-search-index/v1.0.3), 1 day ago) - 
-- [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) ([2.2.0](https://github.com/vanpariyar/social-gallery-block/releases/tag/2.2.0), 5 days ago) - This is the Gutenberg Plugin that fetch the data From the Public Instagram user.
+- [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) ([static-search-index/v1.0.3](https://github.com/sahajananddigital/wordpress-plugins/releases/tag/static-search-index/v1.0.3), 2 days ago) - 
+- [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) ([2.2.0](https://github.com/vanpariyar/social-gallery-block/releases/tag/2.2.0), 6 days ago) - This is the Gutenberg Plugin that fetch the data From the Public Instagram user.
 - [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.23.4](https://github.com/vanpariyar/wp-post-views/releases/tag/1.23.4), 2 months ago) - This is the simple plugin that counts the views of the your wordpress website
 - [vanpariyar/wordpress-plugins](https://github.com/vanpariyar/wordpress-plugins) ([sahajanand-post-to-speech/v1.0.2](https://github.com/vanpariyar/wordpress-plugins/releases/tag/sahajanand-post-to-speech/v1.0.2), 4 months ago) - WordPress Plugins
 - [sahajananddigital/printing-tools](https://github.com/sahajananddigital/printing-tools) ([1.0](https://github.com/sahajananddigital/printing-tools/releases/tag/1.0), 8 months ago) - Printing Tools
 
 #### 🔨 My recent Pull Requests
 
-- [Updated Gitsuppoert plugin](https://github.com/sahajananddigital/wordpress-plugins/pull/5) on [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) (today)
-- [Update URL in Docs](https://github.com/vanpariyar/social-gallery-block/pull/41) on [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) (5 days ago)
-- [Update docs](https://github.com/vanpariyar/social-gallery-block/pull/40) on [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) (5 days ago)
-- [Update Version](https://github.com/vanpariyar/social-gallery-block/pull/39) on [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) (5 days ago)
-- [update Instagram block](https://github.com/vanpariyar/social-gallery-block/pull/38) on [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) (5 days ago)
+- [Updated Gitsuppoert plugin](https://github.com/sahajananddigital/wordpress-plugins/pull/5) on [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) (1 day ago)
+- [Update URL in Docs](https://github.com/vanpariyar/social-gallery-block/pull/41) on [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) (6 days ago)
+- [Update docs](https://github.com/vanpariyar/social-gallery-block/pull/40) on [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) (6 days ago)
+- [Update Version](https://github.com/vanpariyar/social-gallery-block/pull/39) on [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) (6 days ago)
+- [update Instagram block](https://github.com/vanpariyar/social-gallery-block/pull/38) on [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) (6 days ago)
 
 #### 📜 My recent blog posts
 
