@@ -10,19 +10,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) ([static-search-index/v1.0.3](https://github.com/sahajananddigital/wordpress-plugins/releases/tag/static-search-index/v1.0.3), 2 days ago) - 
-- [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) ([2.2.0](https://github.com/vanpariyar/social-gallery-block/releases/tag/2.2.0), 6 days ago) - This is the Gutenberg Plugin that fetch the data From the Public Instagram user.
+- [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) ([static-search-index/v1.0.3](https://github.com/sahajananddigital/wordpress-plugins/releases/tag/static-search-index/v1.0.3), 3 days ago) - 
+- [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) ([2.2.0](https://github.com/vanpariyar/social-gallery-block/releases/tag/2.2.0), 1 week ago) - This is the Gutenberg Plugin that fetch the data From the Public Instagram user.
 - [vanpariyar/wp-post-views](https://github.com/vanpariyar/wp-post-views) ([1.23.4](https://github.com/vanpariyar/wp-post-views/releases/tag/1.23.4), 2 months ago) - This is the simple plugin that counts the views of the your wordpress website
 - [vanpariyar/wordpress-plugins](https://github.com/vanpariyar/wordpress-plugins) ([sahajanand-post-to-speech/v1.0.2](https://github.com/vanpariyar/wordpress-plugins/releases/tag/sahajanand-post-to-speech/v1.0.2), 4 months ago) - WordPress Plugins
 - [sahajananddigital/printing-tools](https://github.com/sahajananddigital/printing-tools) ([1.0](https://github.com/sahajananddigital/printing-tools/releases/tag/1.0), 8 months ago) - Printing Tools
 
 #### 🔨 My recent Pull Requests
 
-- [Updated Gitsuppoert plugin](https://github.com/sahajananddigital/wordpress-plugins/pull/5) on [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) (1 day ago)
-- [Update URL in Docs](https://github.com/vanpariyar/social-gallery-block/pull/41) on [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) (6 days ago)
-- [Update docs](https://github.com/vanpariyar/social-gallery-block/pull/40) on [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) (6 days ago)
-- [Update Version](https://github.com/vanpariyar/social-gallery-block/pull/39) on [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) (6 days ago)
-- [update Instagram block](https://github.com/vanpariyar/social-gallery-block/pull/38) on [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) (6 days ago)
+- [Updated Gitsuppoert plugin](https://github.com/sahajananddigital/wordpress-plugins/pull/5) on [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) (2 days ago)
+- [Update URL in Docs](https://github.com/vanpariyar/social-gallery-block/pull/41) on [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) (1 week ago)
+- [Update docs](https://github.com/vanpariyar/social-gallery-block/pull/40) on [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) (1 week ago)
+- [Update Version](https://github.com/vanpariyar/social-gallery-block/pull/39) on [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) (1 week ago)
+- [update Instagram block](https://github.com/vanpariyar/social-gallery-block/pull/38) on [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -47,8 +47,8 @@ https://github.com/vanpariyar/books
 
 - [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 Open-source, self-hosted P2P WebRTC video conferencing for fast, private real-time communication. Create browser-based meeting rooms with no downloads or time limits, plus screen sharing, chat, whiteboard, recording, and collaboration. (3 weeks ago)
 - [sumanbasuli/bhranti](https://github.com/sumanbasuli/bhranti) - An AI assistant for WordPress that helps you write content, edit pages, and manage site tasks through chat—with native AI connectors, configurable permissions, approvals, and activity logs. (3 weeks ago)
-- [cheey2003/fuzzify-search](https://github.com/cheey2003/fuzzify-search) - Instant results for native WordPress search forms without database calls. Works for both static and dynamic sites (3 weeks ago)
-- [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) - FreeScout — Free self-hosted omnichannel AI-powered helpdesk &amp; shared mailbox (4 weeks ago)
+- [cheey2003/fuzzify-search](https://github.com/cheey2003/fuzzify-search) - Instant results for native WordPress search forms without database calls. Works for both static and dynamic sites (4 weeks ago)
+- [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) - FreeScout — Free self-hosted omnichannel AI-powered helpdesk &amp; shared mailbox (1 month ago)
 - [tonydarcy/frappe-books](https://github.com/tonydarcy/frappe-books) - Frappe Books (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
