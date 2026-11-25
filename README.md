@@ -18,7 +18,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Updated Gitsuppoert plugin](https://github.com/sahajananddigital/wordpress-plugins/pull/5) on [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) (6 days ago)
+- [Updated Gitsuppoert plugin](https://github.com/sahajananddigital/wordpress-plugins/pull/5) on [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) (1 week ago)
 - [Update URL in Docs](https://github.com/vanpariyar/social-gallery-block/pull/41) on [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) (1 week ago)
 - [Update docs](https://github.com/vanpariyar/social-gallery-block/pull/40) on [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) (1 week ago)
 - [Update Version](https://github.com/vanpariyar/social-gallery-block/pull/39) on [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) (1 week ago)
@@ -45,7 +45,7 @@ https://github.com/vanpariyar/books
 
 #### ⭐ Recent Stars
 
-- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 Open-source, self-hosted P2P WebRTC video conferencing for fast, private real-time communication. Create browser-based meeting rooms with no downloads or time limits, plus screen sharing, chat, whiteboard, recording, and collaboration. (3 weeks ago)
+- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 Open-source, self-hosted P2P WebRTC video conferencing for fast, private real-time communication. Create browser-based meeting rooms with no downloads or time limits, plus screen sharing, chat, whiteboard, recording, and collaboration. (4 weeks ago)
 - [sumanbasuli/bhranti](https://github.com/sumanbasuli/bhranti) - An AI assistant for WordPress that helps you write content, edit pages, and manage site tasks through chat—with native AI connectors, configurable permissions, approvals, and activity logs. (4 weeks ago)
 - [cheey2003/fuzzify-search](https://github.com/cheey2003/fuzzify-search) - Instant results for native WordPress search forms without database calls. Works for both static and dynamic sites (1 month ago)
 - [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) - FreeScout — Free self-hosted omnichannel AI-powered helpdesk &amp; shared mailbox (1 month ago)
