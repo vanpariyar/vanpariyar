@@ -18,7 +18,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Feature/helpdesk improvement](https://github.com/sahajananddigital/Gurukul-ERP-for-WordPress/pull/3) on [sahajananddigital/Gurukul-ERP-for-WordPress](https://github.com/sahajananddigital/Gurukul-ERP-for-WordPress) (2 days ago)
+- [Feature/helpdesk improvement](https://github.com/sahajananddigital/Gurukul-ERP-for-WordPress/pull/3) on [sahajananddigital/Gurukul-ERP-for-WordPress](https://github.com/sahajananddigital/Gurukul-ERP-for-WordPress) (3 days ago)
 - [Updated Gitsuppoert plugin](https://github.com/sahajananddigital/wordpress-plugins/pull/5) on [sahajananddigital/wordpress-plugins](https://github.com/sahajananddigital/wordpress-plugins) (1 week ago)
 - [Update URL in Docs](https://github.com/vanpariyar/social-gallery-block/pull/41) on [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) (2 weeks ago)
 - [Update docs](https://github.com/vanpariyar/social-gallery-block/pull/40) on [vanpariyar/social-gallery-block](https://github.com/vanpariyar/social-gallery-block) (2 weeks ago)
